@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8d96734-dc82-45f1-93e6-478c29a312aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/.~lock.prods_pandas_joined.xlsx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/_categories_urls.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/startUrls/_categories_urls.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/prodImgSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/prodImgSpider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/productSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/productSpider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/lostLinks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/prodImg.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/prodImg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/prods_pandas_joined.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/prods_pandas_joined.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/prods_pandas_joined.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/prods_pandas_joined.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/products.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +30,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rolci\Documents\Projket_kosmetyki\scrape\cosmetic_scraper\startUrls" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709065350633</updated>
-      <workItem from="1709065353397" duration="119000" />
+      <workItem from="1709065353397" duration="13910000" />
     </task>
     <servers />
   </component>
@@ -40,6 +56,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1674" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1709157451571">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1674" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1709157451571" />
     <state x="1616" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1709065435408">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
