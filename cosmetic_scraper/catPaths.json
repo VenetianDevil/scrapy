@@ -1,0 +1,4142 @@
+[
+  {
+    "category_id": 0,
+    "category": "Makija�",
+    "href": "https://wizaz.pl/kosmetyki/makijaz",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 1,
+    "category": "Piel�gnacja",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 2,
+    "category": "W�osy",
+    "href": "https://wizaz.pl/kosmetyki/wlosy",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 3,
+    "category": "Perfumy",
+    "href": "https://wizaz.pl/kosmetyki/perfumy",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 4,
+    "category": "Paznokcie",
+    "href": "https://wizaz.pl/kosmetyki/paznokcie",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 5,
+    "category": "Akcesoria",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 6,
+    "category": "Suplementy",
+    "href": "https://wizaz.pl/kosmetyki/suplementy",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 7,
+    "category": "Seks i zdrowie intymne",
+    "href": "https://wizaz.pl/kosmetyki/seks-i-zdrowie-intymne",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 8,
+    "category": "Produkty wycofane",
+    "href": "https://wizaz.pl/kosmetyki/produkty-wycofane",
+    "depth": 0,
+    "parentURL": null,
+    "parentName": null,
+    "parent_id": null,
+    "path": ""
+  },
+  {
+    "category_id": 9,
+    "category": "Lubrykanty i �ele intymne",
+    "href": "https://wizaz.pl/kosmetyki/lubrykanty-i-zele-intymne",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/seks-i-zdrowie-intymne",
+    "parentName": "Seks i zdrowie intymne",
+    "parent_id": 7,
+    "path": "8."
+  },
+  {
+    "category_id": 10,
+    "category": "Prezerwatywy",
+    "href": "https://wizaz.pl/kosmetyki/prezerwatywy",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/seks-i-zdrowie-intymne",
+    "parentName": "Seks i zdrowie intymne",
+    "parent_id": 7,
+    "path": "8."
+  },
+  {
+    "category_id": 11,
+    "category": "Sk�ra, w�osy, paznokcie",
+    "href": "https://wizaz.pl/kosmetyki/skora-wlosy-paznokcie",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/suplementy",
+    "parentName": "Suplementy",
+    "parent_id": 6,
+    "path": "7."
+  },
+  {
+    "category_id": 12,
+    "category": "Wspomaganie odchudzania i utrzymanie formy",
+    "href": "https://wizaz.pl/kosmetyki/wspomaganie-odchudzania-i-utrzymanie-formy",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/suplementy",
+    "parentName": "Suplementy",
+    "parent_id": 6,
+    "path": "7."
+  },
+  {
+    "category_id": 13,
+    "category": "Poprawa samopoczucia i witalno��",
+    "href": "https://wizaz.pl/kosmetyki/poprawa-samopoczucia-i-witalnosc",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/suplementy",
+    "parentName": "Suplementy",
+    "parent_id": 6,
+    "path": "7."
+  },
+  {
+    "category_id": 14,
+    "category": "Suplementy na libido",
+    "href": "https://wizaz.pl/kosmetyki/suplementy-na-libido",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/suplementy",
+    "parentName": "Suplementy",
+    "parent_id": 6,
+    "path": "7."
+  },
+  {
+    "category_id": 15,
+    "category": "Akcesoria do makija�u",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 16,
+    "category": "Akcesoria do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-twarzy",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 17,
+    "category": "Akcesoria do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 18,
+    "category": "Akcesoria do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 19,
+    "category": "Akcesoria do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 20,
+    "category": "Akcesoria dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-dla-mezczyzn",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 21,
+    "category": "Akcesoria do higieny jamy ustnej",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-higieny-jamy-ustnej",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 22,
+    "category": "Czyszczenie i przechowywanie akcesori�w",
+    "href": "https://wizaz.pl/kosmetyki/czyszczenie-i-przechowywanie-akcesoriow",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 23,
+    "category": "Pozosta�e akcesoria",
+    "href": "https://wizaz.pl/kosmetyki/pozostale-akcesoria",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria",
+    "parentName": "Akcesoria",
+    "parent_id": 5,
+    "path": "6."
+  },
+  {
+    "category_id": 24,
+    "category": "Piel�gnacja paznokci",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-paznokci",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/paznokcie",
+    "parentName": "Paznokcie",
+    "parent_id": 4,
+    "path": "5."
+  },
+  {
+    "category_id": 25,
+    "category": "Malowanie paznokci",
+    "href": "https://wizaz.pl/kosmetyki/malowanie-paznokci",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/paznokcie",
+    "parentName": "Paznokcie",
+    "parent_id": 4,
+    "path": "5."
+  },
+  {
+    "category_id": 26,
+    "category": "Przed�u�anie paznokci",
+    "href": "https://wizaz.pl/kosmetyki/przedluzanie-paznokci",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/paznokcie",
+    "parentName": "Paznokcie",
+    "parent_id": 4,
+    "path": "5."
+  },
+  {
+    "category_id": 27,
+    "category": "P�yny i preparaty",
+    "href": "https://wizaz.pl/kosmetyki/plyny-i-preparaty",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/paznokcie",
+    "parentName": "Paznokcie",
+    "parent_id": 4,
+    "path": "5."
+  },
+  {
+    "category_id": 28,
+    "category": "Perfumy damskie",
+    "href": "https://wizaz.pl/kosmetyki/perfumy-damskie",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy",
+    "parentName": "Perfumy",
+    "parent_id": 3,
+    "path": "4."
+  },
+  {
+    "category_id": 29,
+    "category": "Perfumy m�skie",
+    "href": "https://wizaz.pl/kosmetyki/perfumy-meskie",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy",
+    "parentName": "Perfumy",
+    "parent_id": 3,
+    "path": "4."
+  },
+  {
+    "category_id": 30,
+    "category": "Perfumy unisex",
+    "href": "https://wizaz.pl/kosmetyki/perfumy-unisex",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy",
+    "parentName": "Perfumy",
+    "parent_id": 3,
+    "path": "4."
+  },
+  {
+    "category_id": 31,
+    "category": "Piel�gnacja w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/wlosy",
+    "parentName": "W�osy",
+    "parent_id": 2,
+    "path": "3."
+  },
+  {
+    "category_id": 32,
+    "category": "Stylizacja w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/wlosy",
+    "parentName": "W�osy",
+    "parent_id": 2,
+    "path": "3."
+  },
+  {
+    "category_id": 33,
+    "category": "Koloryzacja w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/koloryzacja-wlosow",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/wlosy",
+    "parentName": "W�osy",
+    "parent_id": 2,
+    "path": "3."
+  },
+  {
+    "category_id": 34,
+    "category": "Piel�gnacja twarzy",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja",
+    "parentName": "Piel�gnacja",
+    "parent_id": 1,
+    "path": "2."
+  },
+  {
+    "category_id": 35,
+    "category": "Piel�gnacja cia�a",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja",
+    "parentName": "Piel�gnacja",
+    "parent_id": 1,
+    "path": "2."
+  },
+  {
+    "category_id": 36,
+    "category": "Piel�gnacja s�oneczna",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-sloneczna",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja",
+    "parentName": "Piel�gnacja",
+    "parent_id": 1,
+    "path": "2."
+  },
+  {
+    "category_id": 37,
+    "category": "Higiena jamy ustnej",
+    "href": "https://wizaz.pl/kosmetyki/higiena-jamy-ustnej",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja",
+    "parentName": "Piel�gnacja",
+    "parent_id": 1,
+    "path": "2."
+  },
+  {
+    "category_id": 38,
+    "category": "Mama i dziecko",
+    "href": "https://wizaz.pl/kosmetyki/mama-i-dziecko",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja",
+    "parentName": "Piel�gnacja",
+    "parent_id": 1,
+    "path": "2."
+  },
+  {
+    "category_id": 39,
+    "category": "M�czyzna",
+    "href": "https://wizaz.pl/kosmetyki/mezczyzna",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja",
+    "parentName": "Piel�gnacja",
+    "parent_id": 1,
+    "path": "2."
+  },
+  {
+    "category_id": 40,
+    "category": "Makija� twarzy",
+    "href": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz",
+    "parentName": "Makija�",
+    "parent_id": 0,
+    "path": "1."
+  },
+  {
+    "category_id": 41,
+    "category": "Makija� oczu",
+    "href": "https://wizaz.pl/kosmetyki/makijaz-oczu",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz",
+    "parentName": "Makija�",
+    "parent_id": 0,
+    "path": "1."
+  },
+  {
+    "category_id": 42,
+    "category": "Stylizacja brwi",
+    "href": "https://wizaz.pl/kosmetyki/stylizacja-brwi",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz",
+    "parentName": "Makija�",
+    "parent_id": 0,
+    "path": "1."
+  },
+  {
+    "category_id": 43,
+    "category": "Makija� ust",
+    "href": "https://wizaz.pl/kosmetyki/makijaz-ust",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz",
+    "parentName": "Makija�",
+    "parent_id": 0,
+    "path": "1."
+  },
+  {
+    "category_id": 44,
+    "category": "Makija� cia�a",
+    "href": "https://wizaz.pl/kosmetyki/makijaz-ciala",
+    "depth": 1,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz",
+    "parentName": "Makija�",
+    "parent_id": 0,
+    "path": "1."
+  },
+  {
+    "category_id": 45,
+    "category": "Kosmetyczki",
+    "href": "https://wizaz.pl/kosmetyki/kosmetyczki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/czyszczenie-i-przechowywanie-akcesoriow",
+    "parentName": "Czyszczenie i przechowywanie akcesori�w",
+    "parent_id": 22,
+    "path": "6.23."
+  },
+  {
+    "category_id": 46,
+    "category": "Etui, pasy i tuby",
+    "href": "https://wizaz.pl/kosmetyki/etui-pasy-i-tuby",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/czyszczenie-i-przechowywanie-akcesoriow",
+    "parentName": "Czyszczenie i przechowywanie akcesori�w",
+    "parent_id": 22,
+    "path": "6.23."
+  },
+  {
+    "category_id": 47,
+    "category": "Stojaki i organizery",
+    "href": "https://wizaz.pl/kosmetyki/stojaki-i-organizery",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/czyszczenie-i-przechowywanie-akcesoriow",
+    "parentName": "Czyszczenie i przechowywanie akcesori�w",
+    "parent_id": 22,
+    "path": "6.23."
+  },
+  {
+    "category_id": 48,
+    "category": "Przyrz�dy do czyszczenia szczotek",
+    "href": "https://wizaz.pl/kosmetyki/przyrzady-do-czyszczenia-szczotek",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/czyszczenie-i-przechowywanie-akcesoriow",
+    "parentName": "Czyszczenie i przechowywanie akcesori�w",
+    "parent_id": 22,
+    "path": "6.23."
+  },
+  {
+    "category_id": 49,
+    "category": "Os�onki na p�dzle",
+    "href": "https://wizaz.pl/kosmetyki/oslonki-na-pedzle",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/czyszczenie-i-przechowywanie-akcesoriow",
+    "parentName": "Czyszczenie i przechowywanie akcesori�w",
+    "parent_id": 22,
+    "path": "6.23."
+  },
+  {
+    "category_id": 50,
+    "category": "Mycie i dezynfekcja akcesori�w",
+    "href": "https://wizaz.pl/kosmetyki/mycie-i-dezynfekcja-akcesoriow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/czyszczenie-i-przechowywanie-akcesoriow",
+    "parentName": "Czyszczenie i przechowywanie akcesori�w",
+    "parent_id": 22,
+    "path": "6.23."
+  },
+  {
+    "category_id": 51,
+    "category": "Butelki i pojemniki podr�ne na kosmetyki",
+    "href": "https://wizaz.pl/kosmetyki/butelki-i-pojemniki-podrozne-na-kosmetyki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/czyszczenie-i-przechowywanie-akcesoriow",
+    "parentName": "Czyszczenie i przechowywanie akcesori�w",
+    "parent_id": 22,
+    "path": "6.23."
+  },
+  {
+    "category_id": 52,
+    "category": "Szczoteczki do z�b�w",
+    "href": "https://wizaz.pl/kosmetyki/szczoteczki-do-zebow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-higieny-jamy-ustnej",
+    "parentName": "Akcesoria do higieny jamy ustnej",
+    "parent_id": 21,
+    "path": "6.22."
+  },
+  {
+    "category_id": 53,
+    "category": "Irygatory do z�b�w",
+    "href": "https://wizaz.pl/kosmetyki/irygatory-do-zebow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-higieny-jamy-ustnej",
+    "parentName": "Akcesoria do higieny jamy ustnej",
+    "parent_id": 21,
+    "path": "6.22."
+  },
+  {
+    "category_id": 54,
+    "category": "Nici dentystyczne",
+    "href": "https://wizaz.pl/kosmetyki/nici-dentystyczne",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-higieny-jamy-ustnej",
+    "parentName": "Akcesoria do higieny jamy ustnej",
+    "parent_id": 21,
+    "path": "6.22."
+  },
+  {
+    "category_id": 55,
+    "category": "Czy�ciki do jamy ustnej",
+    "href": "https://wizaz.pl/kosmetyki/czysciki-do-jamy-ustnej",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-higieny-jamy-ustnej",
+    "parentName": "Akcesoria do higieny jamy ustnej",
+    "parent_id": 21,
+    "path": "6.22."
+  },
+  {
+    "category_id": 56,
+    "category": "Maszynki do golenia m�skie",
+    "href": "https://wizaz.pl/kosmetyki/maszynki-do-golenia-meskie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-dla-mezczyzn",
+    "parentName": "Akcesoria dla m�czyzn",
+    "parent_id": 20,
+    "path": "6.21."
+  },
+  {
+    "category_id": 57,
+    "category": "Trymery i maszynki do strzy�enia",
+    "href": "https://wizaz.pl/kosmetyki/trymery-i-maszynki-do-strzyzenia",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-dla-mezczyzn",
+    "parentName": "Akcesoria dla m�czyzn",
+    "parent_id": 20,
+    "path": "6.21."
+  },
+  {
+    "category_id": 58,
+    "category": null,
+    "href": null,
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-dla-mezczyzn",
+    "parentName": "Akcesoria dla m�czyzn",
+    "parent_id": 20,
+    "path": "6.21."
+  },
+  {
+    "category_id": 59,
+    "category": "Szczotki i grzebienie dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/szczotki-i-grzebienie-dla-mezczyzn",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-dla-mezczyzn",
+    "parentName": "Akcesoria dla m�czyzn",
+    "parent_id": 20,
+    "path": "6.21."
+  },
+  {
+    "category_id": 60,
+    "category": "Pilniki, polerki i szczoteczki do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/pilniki-polerki-i-szczoteczki-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 61,
+    "category": "Patyczki do sk�rek",
+    "href": "https://wizaz.pl/kosmetyki/patyczki-do-skorek",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 62,
+    "category": "No�yczki i c��ki do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/nozyczki-i-cazki-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 63,
+    "category": "Rade�ka i zaciskacze do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/radelka-i-zaciskacze-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 64,
+    "category": "Lampy UV/LED",
+    "href": "https://wizaz.pl/kosmetyki/lampy-uv-led",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 65,
+    "category": "Frezarki",
+    "href": "https://wizaz.pl/kosmetyki/frezarki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 66,
+    "category": "Waciki bezpy�owe",
+    "href": "https://wizaz.pl/kosmetyki/waciki-bezpylowe",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 67,
+    "category": "Folie i klipsy do �ci�gania lakieru",
+    "href": "https://wizaz.pl/kosmetyki/folie-i-klipsy-do-sciagania-lakieru",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 68,
+    "category": "P�dzle do paznokci i zdobie�",
+    "href": "https://wizaz.pl/kosmetyki/pedzle-do-paznokci-i-zdobien",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 69,
+    "category": "Ozdoby do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/ozdoby-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 70,
+    "category": "Py�ki do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/pylki-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 71,
+    "category": "Separatory do pedicure",
+    "href": "https://wizaz.pl/kosmetyki/separatory-do-pedicure",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 72,
+    "category": "Akcesoria do manicure japo�skiego",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-manicure-japonskiego",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 73,
+    "category": "Zestawy do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/zestawy-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-paznokci",
+    "parentName": "Akcesoria do paznokci",
+    "parent_id": 19,
+    "path": "6.20."
+  },
+  {
+    "category_id": 74,
+    "category": "Szczotki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/szczotki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 75,
+    "category": "Grzebienie",
+    "href": "https://wizaz.pl/kosmetyki/grzebienie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 76,
+    "category": "Suszarki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/suszarki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 77,
+    "category": "Prostownice i piel�gnice do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/prostownice-i-pielegnice-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 78,
+    "category": "Szczotki prostuj�ce",
+    "href": "https://wizaz.pl/kosmetyki/szczotki-prostujace",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 79,
+    "category": "Lok�wki",
+    "href": "https://wizaz.pl/kosmetyki/lokowki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 80,
+    "category": "Falownice i karbownice",
+    "href": "https://wizaz.pl/kosmetyki/falownice-i-karbownice",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 81,
+    "category": "Wa�ki i papiloty",
+    "href": "https://wizaz.pl/kosmetyki/walki-i-papiloty",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 82,
+    "category": "Termoloki",
+    "href": "https://wizaz.pl/kosmetyki/termoloki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 83,
+    "category": "No�yczki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/nozyczki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 84,
+    "category": "Urz�dzenia wielofunkcyjne do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/urzadzenia-wielofunkcyjne-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 85,
+    "category": "Turbany i r�czniki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/turbany-i-reczniki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 86,
+    "category": "Masa�ery do sk�ry g�owy",
+    "href": "https://wizaz.pl/kosmetyki/masazery-do-skory-glowy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 87,
+    "category": "Gumki i spinki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/gumki-i-spinki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 88,
+    "category": "Opaski do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/opaski-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 89,
+    "category": "P�dzelki do farbowania w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/pedzelki-do-farbowania-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 90,
+    "category": "Czepki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/czepki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-wlosow",
+    "parentName": "Akcesoria do w�os�w",
+    "parent_id": 18,
+    "path": "6.19."
+  },
+  {
+    "category_id": 91,
+    "category": "Zmywacze do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/zmywacze-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/plyny-i-preparaty",
+    "parentName": "P�yny i preparaty",
+    "parent_id": 27,
+    "path": "5.28."
+  },
+  {
+    "category_id": 92,
+    "category": "Cleanery i odt�uszczacze do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/cleanery-i-odtluszczacze-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/plyny-i-preparaty",
+    "parentName": "P�yny i preparaty",
+    "parent_id": 27,
+    "path": "5.28."
+  },
+  {
+    "category_id": 93,
+    "category": "Primery do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/primery-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/plyny-i-preparaty",
+    "parentName": "P�yny i preparaty",
+    "parent_id": 27,
+    "path": "5.28."
+  },
+  {
+    "category_id": 94,
+    "category": "Wody perfumowane unisex",
+    "href": "https://wizaz.pl/kosmetyki/wody-perfumowane-unisex",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-unisex",
+    "parentName": "Perfumy unisex",
+    "parent_id": 30,
+    "path": "4.31."
+  },
+  {
+    "category_id": 95,
+    "category": "Wody toaletowe unisex",
+    "href": "https://wizaz.pl/kosmetyki/wody-toaletowe-unisex",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-unisex",
+    "parentName": "Perfumy unisex",
+    "parent_id": 30,
+    "path": "4.31."
+  },
+  {
+    "category_id": 96,
+    "category": "Farby do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/farby-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/koloryzacja-wlosow",
+    "parentName": "Koloryzacja w�os�w",
+    "parent_id": 33,
+    "path": "3.34."
+  },
+  {
+    "category_id": 97,
+    "category": "Szampony koloryzuj�ce",
+    "href": "https://wizaz.pl/kosmetyki/szampony-koloryzujace",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/koloryzacja-wlosow",
+    "parentName": "Koloryzacja w�os�w",
+    "parent_id": 33,
+    "path": "3.34."
+  },
+  {
+    "category_id": 98,
+    "category": "Rozja�niacze do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/rozjasniacze-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/koloryzacja-wlosow",
+    "parentName": "Koloryzacja w�os�w",
+    "parent_id": 33,
+    "path": "3.34."
+  },
+  {
+    "category_id": 99,
+    "category": "Dekoloryzatory",
+    "href": "https://wizaz.pl/kosmetyki/dekoloryzatory",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/koloryzacja-wlosow",
+    "parentName": "Koloryzacja w�os�w",
+    "parent_id": 33,
+    "path": "3.34."
+  },
+  {
+    "category_id": 100,
+    "category": "Henny do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/henny-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/koloryzacja-wlosow",
+    "parentName": "Koloryzacja w�os�w",
+    "parent_id": 33,
+    "path": "3.34."
+  },
+  {
+    "category_id": 101,
+    "category": "Tonery do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/tonery-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/koloryzacja-wlosow",
+    "parentName": "Koloryzacja w�os�w",
+    "parent_id": 33,
+    "path": "3.34."
+  },
+  {
+    "category_id": 102,
+    "category": "P�ukanki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/plukanki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/koloryzacja-wlosow",
+    "parentName": "Koloryzacja w�os�w",
+    "parent_id": 33,
+    "path": "3.34."
+  },
+  {
+    "category_id": 103,
+    "category": "M�ska piel�gnacja twarzy",
+    "href": "https://wizaz.pl/kosmetyki/meska-pielegnacja-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mezczyzna",
+    "parentName": "M�czyzna",
+    "parent_id": 39,
+    "path": "2.40."
+  },
+  {
+    "category_id": 104,
+    "category": "Piel�gnacja cia�a i w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-ciala-i-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mezczyzna",
+    "parentName": "M�czyzna",
+    "parent_id": 39,
+    "path": "2.40."
+  },
+  {
+    "category_id": 105,
+    "category": "Piel�gnacja brody i w�s�w",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-brody-i-wasow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mezczyzna",
+    "parentName": "M�czyzna",
+    "parent_id": 39,
+    "path": "2.40."
+  },
+  {
+    "category_id": 106,
+    "category": "Golenie",
+    "href": "https://wizaz.pl/kosmetyki/golenie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mezczyzna",
+    "parentName": "M�czyzna",
+    "parent_id": 39,
+    "path": "2.40."
+  },
+  {
+    "category_id": 107,
+    "category": "Stylizacja w�os�w dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/stylizacja-wlosow-dla-mezczyzn",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mezczyzna",
+    "parentName": "M�czyzna",
+    "parent_id": 39,
+    "path": "2.40."
+  },
+  {
+    "category_id": 108,
+    "category": "Podk�ady do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/podklady-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-ciala",
+    "parentName": "Makija� cia�a",
+    "parent_id": 44,
+    "path": "1.45."
+  },
+  {
+    "category_id": 109,
+    "category": "Pudry do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/pudry-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-ciala",
+    "parentName": "Makija� cia�a",
+    "parent_id": 44,
+    "path": "1.45."
+  },
+  {
+    "category_id": 110,
+    "category": "Rajstopy w sprayu",
+    "href": "https://wizaz.pl/kosmetyki/rajstopy-w-sprayu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-ciala",
+    "parentName": "Makija� cia�a",
+    "parent_id": 44,
+    "path": "1.45."
+  },
+  {
+    "category_id": 111,
+    "category": "Brokaty do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/brokaty-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-ciala",
+    "parentName": "Makija� cia�a",
+    "parent_id": 44,
+    "path": "1.45."
+  },
+  {
+    "category_id": 112,
+    "category": "B�yszczyki",
+    "href": "https://wizaz.pl/kosmetyki/blyszczyki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-ust",
+    "parentName": "Makija� ust",
+    "parent_id": 43,
+    "path": "1.44."
+  },
+  {
+    "category_id": 113,
+    "category": "Pomadki i szminki",
+    "href": "https://wizaz.pl/kosmetyki/pomadki-i-szminki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-ust",
+    "parentName": "Makija� ust",
+    "parent_id": 43,
+    "path": "1.44."
+  },
+  {
+    "category_id": 114,
+    "category": "Kontur�wki do ust",
+    "href": "https://wizaz.pl/kosmetyki/konturowki-do-ust",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-ust",
+    "parentName": "Makija� ust",
+    "parent_id": 43,
+    "path": "1.44."
+  },
+  {
+    "category_id": 115,
+    "category": "Bazy do makija�u ust",
+    "href": "https://wizaz.pl/kosmetyki/bazy-do-makijazu-ust",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-ust",
+    "parentName": "Makija� ust",
+    "parent_id": 43,
+    "path": "1.44."
+  },
+  {
+    "category_id": 116,
+    "category": "Utrwalenie brwi",
+    "href": "https://wizaz.pl/kosmetyki/utrwalenie-brwi",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-brwi",
+    "parentName": "Stylizacja brwi",
+    "parent_id": 42,
+    "path": "1.43."
+  },
+  {
+    "category_id": 117,
+    "category": "Uzupe�nianie brwi/malowanie",
+    "href": "https://wizaz.pl/kosmetyki/uzupelnianie-brwi-malowanie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-brwi",
+    "parentName": "Stylizacja brwi",
+    "parent_id": 42,
+    "path": "1.43."
+  },
+  {
+    "category_id": 118,
+    "category": "Henna brwi",
+    "href": "https://wizaz.pl/kosmetyki/henna-brwi",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-brwi",
+    "parentName": "Stylizacja brwi",
+    "parent_id": 42,
+    "path": "1.43."
+  },
+  {
+    "category_id": 119,
+    "category": "Tusze do rz�s",
+    "href": "https://wizaz.pl/kosmetyki/tusze-do-rzes",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-oczu",
+    "parentName": "Makija� oczu",
+    "parent_id": 41,
+    "path": "1.42."
+  },
+  {
+    "category_id": 120,
+    "category": "Eyelinery",
+    "href": "https://wizaz.pl/kosmetyki/eyelinery",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-oczu",
+    "parentName": "Makija� oczu",
+    "parent_id": 41,
+    "path": "1.42."
+  },
+  {
+    "category_id": 121,
+    "category": "Kredki do oczu",
+    "href": "https://wizaz.pl/kosmetyki/kredki-do-oczu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-oczu",
+    "parentName": "Makija� oczu",
+    "parent_id": 41,
+    "path": "1.42."
+  },
+  {
+    "category_id": 122,
+    "category": "Cienie do powiek",
+    "href": "https://wizaz.pl/kosmetyki/cienie-do-powiek",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-oczu",
+    "parentName": "Makija� oczu",
+    "parent_id": 41,
+    "path": "1.42."
+  },
+  {
+    "category_id": 123,
+    "category": "Bazy pod cienie",
+    "href": "https://wizaz.pl/kosmetyki/bazy-pod-cienie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-oczu",
+    "parentName": "Makija� oczu",
+    "parent_id": 41,
+    "path": "1.42."
+  },
+  {
+    "category_id": 124,
+    "category": "Bazy pod tusz do rz�s",
+    "href": "https://wizaz.pl/kosmetyki/bazy-pod-tusz-do-rzes",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-oczu",
+    "parentName": "Makija� oczu",
+    "parent_id": 41,
+    "path": "1.42."
+  },
+  {
+    "category_id": 125,
+    "category": "Podk�ady i kremy koloryzuj�ce",
+    "href": "https://wizaz.pl/kosmetyki/podklady-i-kremy-koloryzujace",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 126,
+    "category": "Pudry",
+    "href": "https://wizaz.pl/kosmetyki/pudry",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 127,
+    "category": "Korektory",
+    "href": "https://wizaz.pl/kosmetyki/korektory",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 128,
+    "category": "Przed�u�enie trwa�o�ci makija�u",
+    "href": "https://wizaz.pl/kosmetyki/przedluzenie-trwalosci-makijazu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 129,
+    "category": "Bronzery",
+    "href": "https://wizaz.pl/kosmetyki/bronzery",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 130,
+    "category": "R�e do policzk�w",
+    "href": "https://wizaz.pl/kosmetyki/roze-do-policzkow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 131,
+    "category": "Roz�wietlacze",
+    "href": "https://wizaz.pl/kosmetyki/rozswietlacze",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 132,
+    "category": "Pisaki do pieg�w",
+    "href": "https://wizaz.pl/kosmetyki/pisaki-do-piegow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 133,
+    "category": "Palety do konturowania",
+    "href": "https://wizaz.pl/kosmetyki/palety-do-konturowania",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 134,
+    "category": "Palety do makija�u",
+    "href": "https://wizaz.pl/kosmetyki/palety-do-makijazu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/makijaz-twarzy",
+    "parentName": "Makija� twarzy",
+    "parent_id": 40,
+    "path": "1.41."
+  },
+  {
+    "category_id": 135,
+    "category": "Kosmetyki dla kobiet w ci��y i karmi�cych",
+    "href": "https://wizaz.pl/kosmetyki/kosmetyki-dla-kobiet-w-ciazy-i-karmiacych",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mama-i-dziecko",
+    "parentName": "Mama i dziecko",
+    "parent_id": 38,
+    "path": "2.39."
+  },
+  {
+    "category_id": 136,
+    "category": "K�piel i mycie maluszka",
+    "href": "https://wizaz.pl/kosmetyki/kapiel-i-mycie-maluszka",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mama-i-dziecko",
+    "parentName": "Mama i dziecko",
+    "parent_id": 38,
+    "path": "2.39."
+  },
+  {
+    "category_id": 137,
+    "category": "Piel�gnacja niemowl�t i dzieci",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-niemowlat-i-dzieci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mama-i-dziecko",
+    "parentName": "Mama i dziecko",
+    "parent_id": 38,
+    "path": "2.39."
+  },
+  {
+    "category_id": 138,
+    "category": "Akcesoria dzieci�ce",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-kosmetyczne-dzieciece",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mama-i-dziecko",
+    "parentName": "Mama i dziecko",
+    "parent_id": 38,
+    "path": "2.39."
+  },
+  {
+    "category_id": 139,
+    "category": "Dezodoranty i antyperspiranty dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/dezodoranty-i-antyperspiranty-dla-dzieci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mama-i-dziecko",
+    "parentName": "Mama i dziecko",
+    "parent_id": 38,
+    "path": "2.39."
+  },
+  {
+    "category_id": 140,
+    "category": "Perfumy dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/perfumy-dla-dzieci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/mama-i-dziecko",
+    "parentName": "Mama i dziecko",
+    "parent_id": 38,
+    "path": "2.39."
+  },
+  {
+    "category_id": 141,
+    "category": "Pasty do z�b�w",
+    "href": "https://wizaz.pl/kosmetyki/pasty-do-zebow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-jamy-ustnej",
+    "parentName": "Higiena jamy ustnej",
+    "parent_id": 37,
+    "path": "2.38."
+  },
+  {
+    "category_id": 142,
+    "category": "P�yny do p�ukania jamy ustnej",
+    "href": "https://wizaz.pl/kosmetyki/plyny-do-plukania-jamy-ustnej",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-jamy-ustnej",
+    "parentName": "Higiena jamy ustnej",
+    "parent_id": 37,
+    "path": "2.38."
+  },
+  {
+    "category_id": 143,
+    "category": "Wybielanie z�b�w",
+    "href": "https://wizaz.pl/kosmetyki/wybielanie-zebow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-jamy-ustnej",
+    "parentName": "Higiena jamy ustnej",
+    "parent_id": 37,
+    "path": "2.38."
+  },
+  {
+    "category_id": 144,
+    "category": "Od�wie�acze do ust",
+    "href": "https://wizaz.pl/kosmetyki/odswiezacze-do-ust",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-jamy-ustnej",
+    "parentName": "Higiena jamy ustnej",
+    "parent_id": 37,
+    "path": "2.38."
+  },
+  {
+    "category_id": 145,
+    "category": "Kremy z filtrem do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/kremy-z-filtrem-do-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-sloneczna",
+    "parentName": "Piel�gnacja s�oneczna",
+    "parent_id": 36,
+    "path": "2.37."
+  },
+  {
+    "category_id": 146,
+    "category": "Kremy z filtrem do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/kremy-z-filtrem-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-sloneczna",
+    "parentName": "Piel�gnacja s�oneczna",
+    "parent_id": 36,
+    "path": "2.37."
+  },
+  {
+    "category_id": 147,
+    "category": "Samoopalacze do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/samoopalacze-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-sloneczna",
+    "parentName": "Piel�gnacja s�oneczna",
+    "parent_id": 36,
+    "path": "2.37."
+  },
+  {
+    "category_id": 148,
+    "category": "Samoopalacze do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/samoopalacze-do-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-sloneczna",
+    "parentName": "Piel�gnacja s�oneczna",
+    "parent_id": 36,
+    "path": "2.37."
+  },
+  {
+    "category_id": 149,
+    "category": "Przyspieszacze do opalania",
+    "href": "https://wizaz.pl/kosmetyki/przyspieszacze-do-opalania",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-sloneczna",
+    "parentName": "Piel�gnacja s�oneczna",
+    "parent_id": 36,
+    "path": "2.37."
+  },
+  {
+    "category_id": 150,
+    "category": "Kosmetyki po opalaniu",
+    "href": "https://wizaz.pl/kosmetyki/kosmetyki-po-opalaniu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-sloneczna",
+    "parentName": "Piel�gnacja s�oneczna",
+    "parent_id": 36,
+    "path": "2.37."
+  },
+  {
+    "category_id": 151,
+    "category": "Kosmetyki br�zuj�ce",
+    "href": "https://wizaz.pl/kosmetyki/kosmetyki-brazujace",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-sloneczna",
+    "parentName": "Piel�gnacja s�oneczna",
+    "parent_id": 36,
+    "path": "2.37."
+  },
+  {
+    "category_id": 152,
+    "category": "�ele do w�os�w dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/zele-do-wlosow-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow-dla-mezczyzn",
+    "parentName": "Stylizacja w�os�w dla m�czyzn",
+    "parent_id": 107,
+    "path": "2.40.108."
+  },
+  {
+    "category_id": 153,
+    "category": "Pasty do w�os�w dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/pasty-do-wlosow-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow-dla-mezczyzn",
+    "parentName": "Stylizacja w�os�w dla m�czyzn",
+    "parent_id": 107,
+    "path": "2.40.108."
+  },
+  {
+    "category_id": 154,
+    "category": "Pomady i woski do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/pomady-i-woski-do-wlosow",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow-dla-mezczyzn",
+    "parentName": "Stylizacja w�os�w dla m�czyzn",
+    "parent_id": 107,
+    "path": "2.40.108."
+  },
+  {
+    "category_id": 155,
+    "category": "Gumy do w�os�w dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/gumy-do-wlosow-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow-dla-mezczyzn",
+    "parentName": "Stylizacja w�os�w dla m�czyzn",
+    "parent_id": 107,
+    "path": "2.40.108."
+  },
+  {
+    "category_id": 156,
+    "category": "Paski i proszki wybielaj�ce z�by",
+    "href": "https://wizaz.pl/kosmetyki/paski-i-proszki-wybielajace-zeby",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/wybielanie-zebow",
+    "parentName": "Wybielanie z�b�w",
+    "parent_id": 143,
+    "path": "2.38.144."
+  },
+  {
+    "category_id": 157,
+    "category": "Zestawy do wybielania z�b�w",
+    "href": "https://wizaz.pl/kosmetyki/zestawy-do-wybielania-zebow",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/wybielanie-zebow",
+    "parentName": "Wybielanie z�b�w",
+    "parent_id": 143,
+    "path": "2.38.144."
+  },
+  {
+    "category_id": 158,
+    "category": "P�atki i patyczki higieniczne dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/platki-i-patyczki-higieniczne-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-kosmetyczne-dzieciece",
+    "parentName": "Akcesoria dzieci�ce",
+    "parent_id": 138,
+    "path": "2.39.139."
+  },
+  {
+    "category_id": 159,
+    "category": "Butelki dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/butelki-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-kosmetyczne-dzieciece",
+    "parentName": "Akcesoria dzieci�ce",
+    "parent_id": 138,
+    "path": "2.39.139."
+  },
+  {
+    "category_id": 160,
+    "category": "Szczoteczki do z�b�w dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/szczoteczki-do-zebow-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-kosmetyczne-dzieciece",
+    "parentName": "Akcesoria dzieci�ce",
+    "parent_id": 138,
+    "path": "2.39.139."
+  },
+  {
+    "category_id": 161,
+    "category": "Obcinanie paznokci",
+    "href": "https://wizaz.pl/kosmetyki/obcinanie-paznokci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-kosmetyczne-dzieciece",
+    "parentName": "Akcesoria dzieci�ce",
+    "parent_id": 138,
+    "path": "2.39.139."
+  },
+  {
+    "category_id": 162,
+    "category": "Szczotki i grzebienie dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/szczotki-i-grzebienie-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-kosmetyczne-dzieciece",
+    "parentName": "Akcesoria dzieci�ce",
+    "parent_id": 138,
+    "path": "2.39.139."
+  },
+  {
+    "category_id": 163,
+    "category": "Myjki i g�bki dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/myjki-i-gabki-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-kosmetyczne-dzieciece",
+    "parentName": "Akcesoria dzieci�ce",
+    "parent_id": 138,
+    "path": "2.39.139."
+  },
+  {
+    "category_id": 164,
+    "category": "Kremy do twarzy dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/kremy-do-twarzy-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-niemowlat-i-dzieci",
+    "parentName": "Piel�gnacja niemowl�t i dzieci",
+    "parent_id": 137,
+    "path": "2.39.138."
+  },
+  {
+    "category_id": 165,
+    "category": "Kremy i balsamy do cia�a dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/kremy-i-balsamy-do-ciala-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-niemowlat-i-dzieci",
+    "parentName": "Piel�gnacja niemowl�t i dzieci",
+    "parent_id": 137,
+    "path": "2.39.138."
+  },
+  {
+    "category_id": 166,
+    "category": "Oliwki dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/oliwki-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-niemowlat-i-dzieci",
+    "parentName": "Piel�gnacja niemowl�t i dzieci",
+    "parent_id": 137,
+    "path": "2.39.138."
+  },
+  {
+    "category_id": 167,
+    "category": "Talki, pudry i zasypki dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/talki-pudry-i-zasypki-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-niemowlat-i-dzieci",
+    "parentName": "Piel�gnacja niemowl�t i dzieci",
+    "parent_id": 137,
+    "path": "2.39.138."
+  },
+  {
+    "category_id": 168,
+    "category": "Ma�ci i kremy lecznicze dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/masci-i-kremy-lecznicze-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-niemowlat-i-dzieci",
+    "parentName": "Piel�gnacja niemowl�t i dzieci",
+    "parent_id": 137,
+    "path": "2.39.138."
+  },
+  {
+    "category_id": 169,
+    "category": "Pomadki ochronne dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/pomadki-ochronne-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-niemowlat-i-dzieci",
+    "parentName": "Piel�gnacja niemowl�t i dzieci",
+    "parent_id": 137,
+    "path": "2.39.138."
+  },
+  {
+    "category_id": 170,
+    "category": "Chusteczki dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/chusteczki-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-niemowlat-i-dzieci",
+    "parentName": "Piel�gnacja niemowl�t i dzieci",
+    "parent_id": 137,
+    "path": "2.39.138."
+  },
+  {
+    "category_id": 171,
+    "category": "P�yny do k�pieli dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/plyny-do-kapieli-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-mycie-maluszka",
+    "parentName": "K�piel i mycie maluszka",
+    "parent_id": 136,
+    "path": "2.39.137."
+  },
+  {
+    "category_id": 172,
+    "category": "�ele do k�pieli dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/zele-do-kapieli-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-mycie-maluszka",
+    "parentName": "K�piel i mycie maluszka",
+    "parent_id": 136,
+    "path": "2.39.137."
+  },
+  {
+    "category_id": 173,
+    "category": "Olejki myj�ce dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/olejki-myjace-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-mycie-maluszka",
+    "parentName": "K�piel i mycie maluszka",
+    "parent_id": 136,
+    "path": "2.39.137."
+  },
+  {
+    "category_id": 174,
+    "category": "Myd�a dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/mydla-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-mycie-maluszka",
+    "parentName": "K�piel i mycie maluszka",
+    "parent_id": 136,
+    "path": "2.39.137."
+  },
+  {
+    "category_id": 175,
+    "category": "Szampony dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/szampony-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-mycie-maluszka",
+    "parentName": "K�piel i mycie maluszka",
+    "parent_id": 136,
+    "path": "2.39.137."
+  },
+  {
+    "category_id": 176,
+    "category": "Od�ywki do w�os�w dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/odzywki-do-wlosow-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-mycie-maluszka",
+    "parentName": "K�piel i mycie maluszka",
+    "parent_id": 136,
+    "path": "2.39.137."
+  },
+  {
+    "category_id": 177,
+    "category": "Pasty i p�yny do z�b�w dla dzieci",
+    "href": "https://wizaz.pl/kosmetyki/pasty-i-plyny-do-zebow-dla-dzieci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-mycie-maluszka",
+    "parentName": "K�piel i mycie maluszka",
+    "parent_id": 136,
+    "path": "2.39.137."
+  },
+  {
+    "category_id": 178,
+    "category": "Kosmetyki na rozst�py",
+    "href": "https://wizaz.pl/kosmetyki/kosmetyki-na-rozstepy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kosmetyki-dla-kobiet-w-ciazy-i-karmiacych",
+    "parentName": "Kosmetyki dla kobiet w ci��y i karmi�cych",
+    "parent_id": 135,
+    "path": "2.39.136."
+  },
+  {
+    "category_id": 179,
+    "category": "Kosmetyki antycellulitowe",
+    "href": "https://wizaz.pl/kosmetyki/kosmetyki-antycellulitowe",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kosmetyki-dla-kobiet-w-ciazy-i-karmiacych",
+    "parentName": "Kosmetyki dla kobiet w ci��y i karmi�cych",
+    "parent_id": 135,
+    "path": "2.39.136."
+  },
+  {
+    "category_id": 180,
+    "category": "Higiena intymna kobiet w ci��y i karmi�cych",
+    "href": "https://wizaz.pl/kosmetyki/higiena-intymna-kobiet-w-ciazy-i-karmiacych",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kosmetyki-dla-kobiet-w-ciazy-i-karmiacych",
+    "parentName": "Kosmetyki dla kobiet w ci��y i karmi�cych",
+    "parent_id": 135,
+    "path": "2.39.136."
+  },
+  {
+    "category_id": 181,
+    "category": "Bazy pod makija�",
+    "href": "https://wizaz.pl/kosmetyki/bazy-pod-makijaz",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/przedluzenie-trwalosci-makijazu",
+    "parentName": "Przed�u�enie trwa�o�ci makija�u",
+    "parent_id": 128,
+    "path": "1.41.129."
+  },
+  {
+    "category_id": 182,
+    "category": "Fixery i utrwalacze makija�u",
+    "href": "https://wizaz.pl/kosmetyki/fixery-i-utrwalacze-makijazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/przedluzenie-trwalosci-makijazu",
+    "parentName": "Przed�u�enie trwa�o�ci makija�u",
+    "parent_id": 128,
+    "path": "1.41.129."
+  },
+  {
+    "category_id": 183,
+    "category": "Korektory do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/korektory-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/korektory",
+    "parentName": "Korektory",
+    "parent_id": 127,
+    "path": "1.41.128."
+  },
+  {
+    "category_id": 184,
+    "category": "Korektory pod oczy",
+    "href": "https://wizaz.pl/kosmetyki/korektory-pod-oczy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/korektory",
+    "parentName": "Korektory",
+    "parent_id": 127,
+    "path": "1.41.128."
+  },
+  {
+    "category_id": 185,
+    "category": "Pudry do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/pudry-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pudry",
+    "parentName": "Pudry",
+    "parent_id": 126,
+    "path": "1.41.127."
+  },
+  {
+    "category_id": 186,
+    "category": "Pudry pod oczy",
+    "href": "https://wizaz.pl/kosmetyki/pudry-pod-oczy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pudry",
+    "parentName": "Pudry",
+    "parent_id": 126,
+    "path": "1.41.127."
+  },
+  {
+    "category_id": 187,
+    "category": "Podk�ady",
+    "href": "https://wizaz.pl/kosmetyki/podklady",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/podklady-i-kremy-koloryzujace",
+    "parentName": "Podk�ady i kremy koloryzuj�ce",
+    "parent_id": 125,
+    "path": "1.41.126."
+  },
+  {
+    "category_id": 188,
+    "category": "Kremy tonuj�ce",
+    "href": "https://wizaz.pl/kosmetyki/kremy-tonujace",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/podklady-i-kremy-koloryzujace",
+    "parentName": "Podk�ady i kremy koloryzuj�ce",
+    "parent_id": 125,
+    "path": "1.41.126."
+  },
+  {
+    "category_id": 189,
+    "category": "Kremy BB, CC i DD",
+    "href": "https://wizaz.pl/kosmetyki/kremy-bb-cc-i-dd",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/podklady-i-kremy-koloryzujace",
+    "parentName": "Podk�ady i kremy koloryzuj�ce",
+    "parent_id": 125,
+    "path": "1.41.126."
+  },
+  {
+    "category_id": 190,
+    "category": "Kredki do brwi",
+    "href": "https://wizaz.pl/kosmetyki/kredki-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/uzupelnianie-brwi-malowanie",
+    "parentName": "Uzupe�nianie brwi/malowanie",
+    "parent_id": 117,
+    "path": "1.43.118."
+  },
+  {
+    "category_id": 191,
+    "category": "Cienie do brwi",
+    "href": "https://wizaz.pl/kosmetyki/cienie-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/uzupelnianie-brwi-malowanie",
+    "parentName": "Uzupe�nianie brwi/malowanie",
+    "parent_id": 117,
+    "path": "1.43.118."
+  },
+  {
+    "category_id": 192,
+    "category": "Pisaki do brwi",
+    "href": "https://wizaz.pl/kosmetyki/pisaki-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/uzupelnianie-brwi-malowanie",
+    "parentName": "Uzupe�nianie brwi/malowanie",
+    "parent_id": 117,
+    "path": "1.43.118."
+  },
+  {
+    "category_id": 193,
+    "category": "Paletki do brwi",
+    "href": "https://wizaz.pl/kosmetyki/paletki-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/uzupelnianie-brwi-malowanie",
+    "parentName": "Uzupe�nianie brwi/malowanie",
+    "parent_id": 117,
+    "path": "1.43.118."
+  },
+  {
+    "category_id": 194,
+    "category": "Pomady do brwi",
+    "href": "https://wizaz.pl/kosmetyki/pomady-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/uzupelnianie-brwi-malowanie",
+    "parentName": "Uzupe�nianie brwi/malowanie",
+    "parent_id": 117,
+    "path": "1.43.118."
+  },
+  {
+    "category_id": 195,
+    "category": "�ele do brwi",
+    "href": "https://wizaz.pl/kosmetyki/zele-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/utrwalenie-brwi",
+    "parentName": "Utrwalenie brwi",
+    "parent_id": 116,
+    "path": "1.43.117."
+  },
+  {
+    "category_id": 196,
+    "category": "Myd�a do brwi",
+    "href": "https://wizaz.pl/kosmetyki/mydla-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/utrwalenie-brwi",
+    "parentName": "Utrwalenie brwi",
+    "parent_id": 116,
+    "path": "1.43.117."
+  },
+  {
+    "category_id": 197,
+    "category": "Tusze i tinty do brwi",
+    "href": "https://wizaz.pl/kosmetyki/tusze-i-tinty-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/utrwalenie-brwi",
+    "parentName": "Utrwalenie brwi",
+    "parent_id": 116,
+    "path": "1.43.117."
+  },
+  {
+    "category_id": 198,
+    "category": "Woski do brwi",
+    "href": "https://wizaz.pl/kosmetyki/woski-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/utrwalenie-brwi",
+    "parentName": "Utrwalenie brwi",
+    "parent_id": 116,
+    "path": "1.43.117."
+  },
+  {
+    "category_id": 199,
+    "category": "Zestawy do laminacji brwi",
+    "href": "https://wizaz.pl/kosmetyki/zestawy-do-laminacji-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/utrwalenie-brwi",
+    "parentName": "Utrwalenie brwi",
+    "parent_id": 116,
+    "path": "1.43.117."
+  },
+  {
+    "category_id": 200,
+    "category": "�ele do golenia",
+    "href": "https://wizaz.pl/kosmetyki/zele-do-golenia",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/golenie",
+    "parentName": "Golenie",
+    "parent_id": 106,
+    "path": "2.40.107."
+  },
+  {
+    "category_id": 201,
+    "category": "Kremy do golenia",
+    "href": "https://wizaz.pl/kosmetyki/kremy-do-golenia",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/golenie",
+    "parentName": "Golenie",
+    "parent_id": 106,
+    "path": "2.40.107."
+  },
+  {
+    "category_id": 202,
+    "category": "Pianki do golenia",
+    "href": "https://wizaz.pl/kosmetyki/pianki-do-golenia",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/golenie",
+    "parentName": "Golenie",
+    "parent_id": 106,
+    "path": "2.40.107."
+  },
+  {
+    "category_id": 203,
+    "category": "Balsamy po goleniu",
+    "href": "https://wizaz.pl/kosmetyki/balsamy-po-goleniu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/golenie",
+    "parentName": "Golenie",
+    "parent_id": 106,
+    "path": "2.40.107."
+  },
+  {
+    "category_id": 204,
+    "category": "Wody po goleniu",
+    "href": "https://wizaz.pl/kosmetyki/wody-po-goleniu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/golenie",
+    "parentName": "Golenie",
+    "parent_id": 106,
+    "path": "2.40.107."
+  },
+  {
+    "category_id": 205,
+    "category": "Olejki do brody",
+    "href": "https://wizaz.pl/kosmetyki/olejki-do-brody",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-brody-i-wasow",
+    "parentName": "Piel�gnacja brody i w�s�w",
+    "parent_id": 105,
+    "path": "2.40.106."
+  },
+  {
+    "category_id": 206,
+    "category": "Balsamy i kremy do brody",
+    "href": "https://wizaz.pl/kosmetyki/balsamy-i-kremy-do-brody",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-brody-i-wasow",
+    "parentName": "Piel�gnacja brody i w�s�w",
+    "parent_id": 105,
+    "path": "2.40.106."
+  },
+  {
+    "category_id": 207,
+    "category": "Woski do brody",
+    "href": "https://wizaz.pl/kosmetyki/woski-do-brody",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-brody-i-wasow",
+    "parentName": "Piel�gnacja brody i w�s�w",
+    "parent_id": 105,
+    "path": "2.40.106."
+  },
+  {
+    "category_id": 208,
+    "category": "Farby do brody",
+    "href": "https://wizaz.pl/kosmetyki/farby-do-brody",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-brody-i-wasow",
+    "parentName": "Piel�gnacja brody i w�s�w",
+    "parent_id": 105,
+    "path": "2.40.106."
+  },
+  {
+    "category_id": 209,
+    "category": "�ele pod prysznic dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/zele-pod-prysznic-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala-i-wlosow",
+    "parentName": "Piel�gnacja cia�a i w�os�w",
+    "parent_id": 104,
+    "path": "2.40.105."
+  },
+  {
+    "category_id": 210,
+    "category": "P�yny do higieny intymnej dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/plyny-do-higieny-intymnej-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala-i-wlosow",
+    "parentName": "Piel�gnacja cia�a i w�os�w",
+    "parent_id": 104,
+    "path": "2.40.105."
+  },
+  {
+    "category_id": 211,
+    "category": "Myd�a dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/mydla-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala-i-wlosow",
+    "parentName": "Piel�gnacja cia�a i w�os�w",
+    "parent_id": 104,
+    "path": "2.40.105."
+  },
+  {
+    "category_id": 212,
+    "category": "Balsamy i kremy do cia�a dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/balsamy-i-kremy-do-ciala-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala-i-wlosow",
+    "parentName": "Piel�gnacja cia�a i w�os�w",
+    "parent_id": 104,
+    "path": "2.40.105."
+  },
+  {
+    "category_id": 213,
+    "category": "Szampony i od�ywki dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/szampony-i-odzywki-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala-i-wlosow",
+    "parentName": "Piel�gnacja cia�a i w�os�w",
+    "parent_id": 104,
+    "path": "2.40.105."
+  },
+  {
+    "category_id": 214,
+    "category": "Kosmetyki do sk�ry g�owy dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/kosmetyki-do-skory-glowy-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala-i-wlosow",
+    "parentName": "Piel�gnacja cia�a i w�os�w",
+    "parent_id": 104,
+    "path": "2.40.105."
+  },
+  {
+    "category_id": 215,
+    "category": "Dezodoranty i antyperspiranty dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/dezodoranty-i-antyperspiranty-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala-i-wlosow",
+    "parentName": "Piel�gnacja cia�a i w�os�w",
+    "parent_id": 104,
+    "path": "2.40.105."
+  },
+  {
+    "category_id": 216,
+    "category": "Kremy do twarzy dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/kremy-do-twarzy-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/meska-pielegnacja-twarzy",
+    "parentName": "M�ska piel�gnacja twarzy",
+    "parent_id": 103,
+    "path": "2.40.104."
+  },
+  {
+    "category_id": 217,
+    "category": "Kremy pod oczy dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/kremy-pod-oczy-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/meska-pielegnacja-twarzy",
+    "parentName": "M�ska piel�gnacja twarzy",
+    "parent_id": 103,
+    "path": "2.40.104."
+  },
+  {
+    "category_id": 218,
+    "category": "�ele do mycia twarzy i brody",
+    "href": "https://wizaz.pl/kosmetyki/zele-do-mycia-twarzy-i-brody",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/meska-pielegnacja-twarzy",
+    "parentName": "M�ska piel�gnacja twarzy",
+    "parent_id": 103,
+    "path": "2.40.104."
+  },
+  {
+    "category_id": 219,
+    "category": "Serum dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/serum-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/meska-pielegnacja-twarzy",
+    "parentName": "M�ska piel�gnacja twarzy",
+    "parent_id": 103,
+    "path": "2.40.104."
+  },
+  {
+    "category_id": 220,
+    "category": "Maseczki dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/maseczki-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/meska-pielegnacja-twarzy",
+    "parentName": "M�ska piel�gnacja twarzy",
+    "parent_id": 103,
+    "path": "2.40.104."
+  },
+  {
+    "category_id": 221,
+    "category": "Peelingi dla m�czyzn",
+    "href": "https://wizaz.pl/kosmetyki/peelingi-dla-mezczyzn",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/meska-pielegnacja-twarzy",
+    "parentName": "M�ska piel�gnacja twarzy",
+    "parent_id": 103,
+    "path": "2.40.104."
+  },
+  {
+    "category_id": 222,
+    "category": "Zmywacze do lakier�w klasycznych",
+    "href": "https://wizaz.pl/kosmetyki/zmywacze-do-lakierow-klasycznych",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/zmywacze-do-paznokci",
+    "parentName": "Zmywacze do paznokci",
+    "parent_id": 91,
+    "path": "5.28.92."
+  },
+  {
+    "category_id": 223,
+    "category": "Acetony i removery do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/acetony-i-removery-do-paznokci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/zmywacze-do-paznokci",
+    "parentName": "Zmywacze do paznokci",
+    "parent_id": 91,
+    "path": "5.28.92."
+  },
+  {
+    "category_id": 224,
+    "category": "Korektory lakieru do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/korektory-lakieru-do-paznokci",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/zmywacze-do-paznokci",
+    "parentName": "Zmywacze do paznokci",
+    "parent_id": 91,
+    "path": "5.28.92."
+  },
+  {
+    "category_id": 225,
+    "category": "Szczoteczki soniczne",
+    "href": "https://wizaz.pl/kosmetyki/szczoteczki-soniczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/szczoteczki-do-zebow",
+    "parentName": "Szczoteczki do z�b�w",
+    "parent_id": 52,
+    "path": "6.22.53."
+  },
+  {
+    "category_id": 226,
+    "category": "Szczoteczki elektryczne",
+    "href": "https://wizaz.pl/kosmetyki/szczoteczki-elektryczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/szczoteczki-do-zebow",
+    "parentName": "Szczoteczki do z�b�w",
+    "parent_id": 52,
+    "path": "6.22.53."
+  },
+  {
+    "category_id": 227,
+    "category": "Szczoteczki manualne",
+    "href": "https://wizaz.pl/kosmetyki/szczoteczki-manualne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/szczoteczki-do-zebow",
+    "parentName": "Szczoteczki do z�b�w",
+    "parent_id": 52,
+    "path": "6.22.53."
+  },
+  {
+    "category_id": 228,
+    "category": "Maty i czy�ciki do mycia p�dzli",
+    "href": "https://wizaz.pl/kosmetyki/maty-i-czysciki-do-mycia-pedzli",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/mycie-i-dezynfekcja-akcesoriow",
+    "parentName": "Mycie i dezynfekcja akcesori�w",
+    "parent_id": 50,
+    "path": "6.23.51."
+  },
+  {
+    "category_id": 229,
+    "category": "P�yny do mycia p�dzli",
+    "href": "https://wizaz.pl/kosmetyki/plyny-do-mycia-pedzli",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/mycie-i-dezynfekcja-akcesoriow",
+    "parentName": "Mycie i dezynfekcja akcesori�w",
+    "parent_id": 50,
+    "path": "6.23.51."
+  },
+  {
+    "category_id": 230,
+    "category": "Dezynfekcja akcesori�w",
+    "href": "https://wizaz.pl/kosmetyki/dezynfekcja-akcesoriow",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/mycie-i-dezynfekcja-akcesoriow",
+    "parentName": "Mycie i dezynfekcja akcesori�w",
+    "parent_id": 50,
+    "path": "6.23.51."
+  },
+  {
+    "category_id": 231,
+    "category": "Nawil�anie cia�a",
+    "href": "https://wizaz.pl/kosmetyki/nawilzanie-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 232,
+    "category": "Chusteczki nawil�ane",
+    "href": "https://wizaz.pl/kosmetyki/chusteczki-nawilzane",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 233,
+    "category": "Dezodoranty i antyperspiranty",
+    "href": "https://wizaz.pl/kosmetyki/dezodoranty-i-antyperspiranty",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 234,
+    "category": "Piel�gnacja d�oni i st�p",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 235,
+    "category": "Peelingi do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/peelingi-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 236,
+    "category": "Depilacja",
+    "href": "https://wizaz.pl/kosmetyki/depilacja",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 237,
+    "category": "Higiena intymna",
+    "href": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 238,
+    "category": "K�piel i prysznic",
+    "href": "https://wizaz.pl/kosmetyki/kapiel-i-prysznic",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 239,
+    "category": "Szyja, dekolt i biust",
+    "href": "https://wizaz.pl/kosmetyki/szyja-dekolt-i-biust",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 240,
+    "category": "Ma�ci, �ele i kremy lecznicze",
+    "href": "https://wizaz.pl/kosmetyki/masci-zele-i-kremy-lecznicze",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ciala",
+    "parentName": "Piel�gnacja cia�a",
+    "parent_id": 35,
+    "path": "2.36."
+  },
+  {
+    "category_id": 241,
+    "category": "Kremy do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/kremy-do-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 242,
+    "category": "Piel�gnacja okolic oczu",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-okolic-oczu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 243,
+    "category": "Demakija� i oczyszczanie",
+    "href": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 244,
+    "category": "Od�ywki do brwi i rz�s",
+    "href": "https://wizaz.pl/kosmetyki/odzywki-do-brwi-i-rzes",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 245,
+    "category": "Piel�gnacja ust",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-ust",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 246,
+    "category": "Serum i olejki",
+    "href": "https://wizaz.pl/kosmetyki/serum-i-olejki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 247,
+    "category": "Emulsje, esencje i boostery",
+    "href": "https://wizaz.pl/kosmetyki/emulsje-esencje-i-boostery",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 248,
+    "category": "Preparaty punktowe",
+    "href": "https://wizaz.pl/kosmetyki/preparaty-punktowe",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 249,
+    "category": "Peelingi do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/peelingi-do-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 250,
+    "category": "Maseczki do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/maseczki-do-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 251,
+    "category": "Wody termalne i mgie�ki do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/wody-termalne-i-mgielki-do-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-twarzy",
+    "parentName": "Piel�gnacja twarzy",
+    "parent_id": 34,
+    "path": "2.35."
+  },
+  {
+    "category_id": 252,
+    "category": "Kremy i mleczka do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/kremy-i-mleczka-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 253,
+    "category": "Spray'e do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/spraye-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 254,
+    "category": "Lakiery do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/lakiery-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 255,
+    "category": "Pianki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/pianki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 256,
+    "category": "Suche szampony",
+    "href": "https://wizaz.pl/kosmetyki/suche-szampony",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 257,
+    "category": "�ele do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/zele-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 258,
+    "category": "Woski do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/woski-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 259,
+    "category": "Pasty do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/pasty-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 260,
+    "category": "Gumy do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/gumy-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 261,
+    "category": "Pudry do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/pudry-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 262,
+    "category": "Nab�yszczacze do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/nablyszczacze-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/stylizacja-wlosow",
+    "parentName": "Stylizacja w�os�w",
+    "parent_id": 32,
+    "path": "3.33."
+  },
+  {
+    "category_id": 263,
+    "category": "Szampony do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/szampony-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 264,
+    "category": "Od�ywki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/odzywki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 265,
+    "category": "Maski do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/maski-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 266,
+    "category": "Serum do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/serum-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 267,
+    "category": "Olejki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/olejki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 268,
+    "category": "Wcierki do w�os�w i sk�ry g�owy",
+    "href": "https://wizaz.pl/kosmetyki/wcierki-do-wlosow-i-skory-glowy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 269,
+    "category": "Peelingi do sk�ry g�owy",
+    "href": "https://wizaz.pl/kosmetyki/peelingi-do-skory-glowy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 270,
+    "category": "Ampu�ki do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/ampulki-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 271,
+    "category": "Jedwab do w�os�w",
+    "href": "https://wizaz.pl/kosmetyki/jedwab-do-wlosow",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-wlosow",
+    "parentName": "Piel�gnacja w�os�w",
+    "parent_id": 31,
+    "path": "3.32."
+  },
+  {
+    "category_id": 272,
+    "category": "Wody perfumowane m�skie",
+    "href": "https://wizaz.pl/kosmetyki/wody-perfumowane-meskie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-meskie",
+    "parentName": "Perfumy m�skie",
+    "parent_id": 29,
+    "path": "4.30."
+  },
+  {
+    "category_id": 273,
+    "category": "Wody toaletowe m�skie",
+    "href": "https://wizaz.pl/kosmetyki/wody-toaletowe-meskie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-meskie",
+    "parentName": "Perfumy m�skie",
+    "parent_id": 29,
+    "path": "4.30."
+  },
+  {
+    "category_id": 274,
+    "category": "Wody kolo�skie m�skie",
+    "href": "https://wizaz.pl/kosmetyki/wody-kolonskie-meskie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-meskie",
+    "parentName": "Perfumy m�skie",
+    "parent_id": 29,
+    "path": "4.30."
+  },
+  {
+    "category_id": 275,
+    "category": "Wody perfumowane damskie",
+    "href": "https://wizaz.pl/kosmetyki/wody-perfumowane-damskie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-damskie",
+    "parentName": "Perfumy damskie",
+    "parent_id": 28,
+    "path": "4.29."
+  },
+  {
+    "category_id": 276,
+    "category": "Wody toaletowe damskie",
+    "href": "https://wizaz.pl/kosmetyki/wody-toaletowe-damskie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-damskie",
+    "parentName": "Perfumy damskie",
+    "parent_id": 28,
+    "path": "4.29."
+  },
+  {
+    "category_id": 277,
+    "category": "Wody kolo�skie damskie",
+    "href": "https://wizaz.pl/kosmetyki/wody-kolonskie-damskie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-damskie",
+    "parentName": "Perfumy damskie",
+    "parent_id": 28,
+    "path": "4.29."
+  },
+  {
+    "category_id": 278,
+    "category": "Perfumy w olejku i absoluty",
+    "href": "https://wizaz.pl/kosmetyki/perfumy-w-olejku-i-absoluty",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-damskie",
+    "parentName": "Perfumy damskie",
+    "parent_id": 28,
+    "path": "4.29."
+  },
+  {
+    "category_id": 279,
+    "category": "Perfumy w kremie i sztyfcie",
+    "href": "https://wizaz.pl/kosmetyki/perfumy-w-kremie-i-sztyfcie",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-damskie",
+    "parentName": "Perfumy damskie",
+    "parent_id": 28,
+    "path": "4.29."
+  },
+  {
+    "category_id": 280,
+    "category": "Mgie�ki do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/mgielki-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/perfumy-damskie",
+    "parentName": "Perfumy damskie",
+    "parent_id": 28,
+    "path": "4.29."
+  },
+  {
+    "category_id": 281,
+    "category": "Bazy do przed�u�ania paznokci",
+    "href": "https://wizaz.pl/kosmetyki/bazy-do-przedluzania-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/przedluzanie-paznokci",
+    "parentName": "Przed�u�anie paznokci",
+    "parent_id": 26,
+    "path": "5.27."
+  },
+  {
+    "category_id": 282,
+    "category": "�ele do przed�u�ania paznokci",
+    "href": "https://wizaz.pl/kosmetyki/zele-do-przedluzania-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/przedluzanie-paznokci",
+    "parentName": "Przed�u�anie paznokci",
+    "parent_id": 26,
+    "path": "5.27."
+  },
+  {
+    "category_id": 283,
+    "category": "Szablony i formy do przed�u�ania paznokci",
+    "href": "https://wizaz.pl/kosmetyki/szablony-i-formy-do-przedluzania-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/przedluzanie-paznokci",
+    "parentName": "Przed�u�anie paznokci",
+    "parent_id": 26,
+    "path": "5.27."
+  },
+  {
+    "category_id": 284,
+    "category": "Sztuczne paznokcie i tipsy",
+    "href": "https://wizaz.pl/kosmetyki/sztuczne-paznokcie-i-tipsy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/przedluzanie-paznokci",
+    "parentName": "Przed�u�anie paznokci",
+    "parent_id": 26,
+    "path": "5.27."
+  },
+  {
+    "category_id": 285,
+    "category": "Lakiery do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/lakiery-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/malowanie-paznokci",
+    "parentName": "Malowanie paznokci",
+    "parent_id": 25,
+    "path": "5.26."
+  },
+  {
+    "category_id": 286,
+    "category": "Bazy do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/bazy-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/malowanie-paznokci",
+    "parentName": "Malowanie paznokci",
+    "parent_id": 25,
+    "path": "5.26."
+  },
+  {
+    "category_id": 287,
+    "category": "Topy do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/topy-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/malowanie-paznokci",
+    "parentName": "Malowanie paznokci",
+    "parent_id": 25,
+    "path": "5.26."
+  },
+  {
+    "category_id": 288,
+    "category": "Wysuszacze lakier�w do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/wysuszacze-lakierow-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/malowanie-paznokci",
+    "parentName": "Malowanie paznokci",
+    "parent_id": 25,
+    "path": "5.26."
+  },
+  {
+    "category_id": 289,
+    "category": "Pasty do zdobie�",
+    "href": "https://wizaz.pl/kosmetyki/pasty-do-zdobien",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/malowanie-paznokci",
+    "parentName": "Malowanie paznokci",
+    "parent_id": 25,
+    "path": "5.26."
+  },
+  {
+    "category_id": 290,
+    "category": "Od�ywki do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/odzywki-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-paznokci",
+    "parentName": "Piel�gnacja paznokci",
+    "parent_id": 24,
+    "path": "5.25."
+  },
+  {
+    "category_id": 291,
+    "category": "Oliwki do sk�rek i paznokci",
+    "href": "https://wizaz.pl/kosmetyki/oliwki-do-skorek-i-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-paznokci",
+    "parentName": "Piel�gnacja paznokci",
+    "parent_id": 24,
+    "path": "5.25."
+  },
+  {
+    "category_id": 292,
+    "category": "Serum do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/serum-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-paznokci",
+    "parentName": "Piel�gnacja paznokci",
+    "parent_id": 24,
+    "path": "5.25."
+  },
+  {
+    "category_id": 293,
+    "category": "Preparaty do usuwania sk�rek",
+    "href": "https://wizaz.pl/kosmetyki/preparaty-do-usuwania-skorek",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-paznokci",
+    "parentName": "Piel�gnacja paznokci",
+    "parent_id": 24,
+    "path": "5.25."
+  },
+  {
+    "category_id": 294,
+    "category": "Utwardzacze do paznokci",
+    "href": "https://wizaz.pl/kosmetyki/utwardzacze-do-paznokci",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-paznokci",
+    "parentName": "Piel�gnacja paznokci",
+    "parent_id": 24,
+    "path": "5.25."
+  },
+  {
+    "category_id": 295,
+    "category": "Akcesoria do golenia i depilacji",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-golenia-i-depilacji",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "parentName": "Akcesoria do cia�a",
+    "parent_id": 17,
+    "path": "6.18."
+  },
+  {
+    "category_id": 296,
+    "category": "G�bki i myjki do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/gabki-i-myjki-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "parentName": "Akcesoria do cia�a",
+    "parent_id": 17,
+    "path": "6.18."
+  },
+  {
+    "category_id": 297,
+    "category": "Szczotki do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/szczotki-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "parentName": "Akcesoria do cia�a",
+    "parent_id": 17,
+    "path": "6.18."
+  },
+  {
+    "category_id": 298,
+    "category": "R�kawice i skarpetki piel�gnacyjne",
+    "href": "https://wizaz.pl/kosmetyki/rekawice-i-skarpetki-pielegnacyjne",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "parentName": "Akcesoria do cia�a",
+    "parent_id": 17,
+    "path": "6.18."
+  },
+  {
+    "category_id": 299,
+    "category": "Tarki i pumeksy do st�p",
+    "href": "https://wizaz.pl/kosmetyki/tarki-i-pumeksy-do-stop",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "parentName": "Akcesoria do cia�a",
+    "parent_id": 17,
+    "path": "6.18."
+  },
+  {
+    "category_id": 300,
+    "category": "Pilniki do st�p",
+    "href": "https://wizaz.pl/kosmetyki/pilniki-do-stop",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "parentName": "Akcesoria do cia�a",
+    "parent_id": 17,
+    "path": "6.18."
+  },
+  {
+    "category_id": 301,
+    "category": "Plastry do st�p",
+    "href": "https://wizaz.pl/kosmetyki/plastry-do-stop",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "parentName": "Akcesoria do cia�a",
+    "parent_id": 17,
+    "path": "6.18."
+  },
+  {
+    "category_id": 302,
+    "category": "Masa�ery do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/masazery-do-ciala",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-ciala",
+    "parentName": "Akcesoria do cia�a",
+    "parent_id": 17,
+    "path": "6.18."
+  },
+  {
+    "category_id": 303,
+    "category": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-twarzy",
+    "parentName": "Akcesoria do twarzy",
+    "parent_id": 16,
+    "path": "6.17."
+  },
+  {
+    "category_id": 304,
+    "category": "Depilatory do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/depilatory-do-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-twarzy",
+    "parentName": "Akcesoria do twarzy",
+    "parent_id": 16,
+    "path": "6.17."
+  },
+  {
+    "category_id": 305,
+    "category": "Akcesoria do masa�u twarzy",
+    "href": "https://wizaz.pl/kosmetyki/akcesoria-do-masazu-twarzy",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-twarzy",
+    "parentName": "Akcesoria do twarzy",
+    "parent_id": 16,
+    "path": "6.17."
+  },
+  {
+    "category_id": 306,
+    "category": "Piel�gnacja biustu",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-biustu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/szyja-dekolt-i-biust",
+    "parentName": "Szyja, dekolt i biust",
+    "parent_id": 239,
+    "path": "2.36.240."
+  },
+  {
+    "category_id": 307,
+    "category": "Piel�gnacja szyi i dekoltu",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-szyi-i-dekoltu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/szyja-dekolt-i-biust",
+    "parentName": "Szyja, dekolt i biust",
+    "parent_id": 239,
+    "path": "2.36.240."
+  },
+  {
+    "category_id": 308,
+    "category": "R�kawice do peelingu",
+    "href": "https://wizaz.pl/kosmetyki/rekawice-do-peelingu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/rekawice-i-skarpetki-pielegnacyjne",
+    "parentName": "R�kawice i skarpetki piel�gnacyjne",
+    "parent_id": 298,
+    "path": "6.18.299."
+  },
+  {
+    "category_id": 309,
+    "category": "R�kawice do samoopalacza",
+    "href": "https://wizaz.pl/kosmetyki/rekawice-do-samoopalacza",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/rekawice-i-skarpetki-pielegnacyjne",
+    "parentName": "R�kawice i skarpetki piel�gnacyjne",
+    "parent_id": 298,
+    "path": "6.18.299."
+  },
+  {
+    "category_id": 310,
+    "category": "R�kawiczki i skarpetki bawe�niane",
+    "href": "https://wizaz.pl/kosmetyki/rekawiczki-i-skarpetki-bawelniane",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/rekawice-i-skarpetki-pielegnacyjne",
+    "parentName": "R�kawice i skarpetki piel�gnacyjne",
+    "parent_id": 298,
+    "path": "6.18.299."
+  },
+  {
+    "category_id": 311,
+    "category": "Szczotki do mycia cia�a",
+    "href": "https://wizaz.pl/kosmetyki/szczotki-do-mycia-ciala",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/szczotki-do-ciala",
+    "parentName": "Szczotki do cia�a",
+    "parent_id": 297,
+    "path": "6.18.298."
+  },
+  {
+    "category_id": 312,
+    "category": "Szczotki do masa�u",
+    "href": "https://wizaz.pl/kosmetyki/szczotki-do-masazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/szczotki-do-ciala",
+    "parentName": "Szczotki do cia�a",
+    "parent_id": 297,
+    "path": "6.18.298."
+  },
+  {
+    "category_id": 313,
+    "category": "Masa�ery do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/masazery-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-masazu-twarzy",
+    "parentName": "Akcesoria do masa�u twarzy",
+    "parent_id": 305,
+    "path": "6.17.306."
+  },
+  {
+    "category_id": 314,
+    "category": "Rollery do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/rollery-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-masazu-twarzy",
+    "parentName": "Akcesoria do masa�u twarzy",
+    "parent_id": 305,
+    "path": "6.17.306."
+  },
+  {
+    "category_id": 315,
+    "category": "Kamienie Gua Sha",
+    "href": "https://wizaz.pl/kosmetyki/kamienie-gua-sha",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-masazu-twarzy",
+    "parentName": "Akcesoria do masa�u twarzy",
+    "parent_id": 305,
+    "path": "6.17.306."
+  },
+  {
+    "category_id": 316,
+    "category": "Szczoteczki soniczne do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/szczoteczki-soniczne-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 317,
+    "category": "Szczoteczki i myjki do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/szczoteczki-i-myjki-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 318,
+    "category": "�ciereczki i r�czniki",
+    "href": "https://wizaz.pl/kosmetyki/sciereczki-i-reczniki",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 319,
+    "category": "R�kawice do demakija�u",
+    "href": "https://wizaz.pl/kosmetyki/rekawice-do-demakijazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 320,
+    "category": "P�atki kosmetyczne",
+    "href": "https://wizaz.pl/kosmetyki/platki-kosmetyczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 321,
+    "category": "Patyczki higieniczne",
+    "href": "https://wizaz.pl/kosmetyki/patyczki-higieniczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 322,
+    "category": "G�bki do mycia twarzy",
+    "href": "https://wizaz.pl/kosmetyki/gabki-do-mycia-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 323,
+    "category": "�y�eczki do oczyszczania twarzy",
+    "href": "https://wizaz.pl/kosmetyki/lyzeczki-do-oczyszczania-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 324,
+    "category": "Mikrodermabrazja i peelingi kawitacyjne",
+    "href": "https://wizaz.pl/kosmetyki/mikrodermabrazja-i-peelingi-kawitacyjne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-oczyszczania-twarzy-i-demakijazu",
+    "parentName": "Akcesoria do oczyszczania twarzy i demakija�u",
+    "parent_id": 303,
+    "path": "6.17.304."
+  },
+  {
+    "category_id": 325,
+    "category": "Maszynki do golenia dla kobiet",
+    "href": "https://wizaz.pl/kosmetyki/maszynki-do-golenia-dla-kobiet",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-golenia-i-depilacji",
+    "parentName": "Akcesoria do golenia i depilacji",
+    "parent_id": 295,
+    "path": "6.18.296."
+  },
+  {
+    "category_id": 326,
+    "category": "Podgrzewacze do wosku",
+    "href": "https://wizaz.pl/kosmetyki/podgrzewacze-do-wosku",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-golenia-i-depilacji",
+    "parentName": "Akcesoria do golenia i depilacji",
+    "parent_id": 295,
+    "path": "6.18.296."
+  },
+  {
+    "category_id": 327,
+    "category": "Golarki i depilatory r�czne",
+    "href": "https://wizaz.pl/kosmetyki/golarki-i-depilatory-reczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-golenia-i-depilacji",
+    "parentName": "Akcesoria do golenia i depilacji",
+    "parent_id": 295,
+    "path": "6.18.296."
+  },
+  {
+    "category_id": 328,
+    "category": "Urz�dzenia IPL",
+    "href": "https://wizaz.pl/kosmetyki/urzadzenia-ipl",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-golenia-i-depilacji",
+    "parentName": "Akcesoria do golenia i depilacji",
+    "parent_id": 295,
+    "path": "6.18.296."
+  },
+  {
+    "category_id": 329,
+    "category": "Lakiery hybrydowe",
+    "href": "https://wizaz.pl/kosmetyki/lakiery-hybrydowe",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/lakiery-do-paznokci",
+    "parentName": "Lakiery do paznokci",
+    "parent_id": 285,
+    "path": "5.26.286."
+  },
+  {
+    "category_id": 330,
+    "category": "Lakiery klasyczne",
+    "href": "https://wizaz.pl/kosmetyki/lakiery-klasyczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/lakiery-do-paznokci",
+    "parentName": "Lakiery do paznokci",
+    "parent_id": 285,
+    "path": "5.26.286."
+  },
+  {
+    "category_id": 331,
+    "category": "Maseczki klasyczne",
+    "href": "https://wizaz.pl/kosmetyki/maseczki-klasyczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/maseczki-do-twarzy",
+    "parentName": "Maseczki do twarzy",
+    "parent_id": 250,
+    "path": "2.35.251."
+  },
+  {
+    "category_id": 332,
+    "category": "Maseczki w p�achcie",
+    "href": "https://wizaz.pl/kosmetyki/maseczki-w-plachcie",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/maseczki-do-twarzy",
+    "parentName": "Maseczki do twarzy",
+    "parent_id": 250,
+    "path": "2.35.251."
+  },
+  {
+    "category_id": 333,
+    "category": "Glinki i maseczki algowe",
+    "href": "https://wizaz.pl/kosmetyki/glinki-i-maseczki-algowe",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/maseczki-do-twarzy",
+    "parentName": "Maseczki do twarzy",
+    "parent_id": 250,
+    "path": "2.35.251."
+  },
+  {
+    "category_id": 334,
+    "category": "Serum do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/serum-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/serum-i-olejki",
+    "parentName": "Serum i olejki",
+    "parent_id": 246,
+    "path": "2.35.247."
+  },
+  {
+    "category_id": 335,
+    "category": "Olejki do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/olejki-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/serum-i-olejki",
+    "parentName": "Serum i olejki",
+    "parent_id": 246,
+    "path": "2.35.247."
+  },
+  {
+    "category_id": 336,
+    "category": "Balsamy do ust",
+    "href": "https://wizaz.pl/kosmetyki/balsamy-do-ust",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ust",
+    "parentName": "Piel�gnacja ust",
+    "parent_id": 245,
+    "path": "2.35.246."
+  },
+  {
+    "category_id": 337,
+    "category": "Olejki do ust",
+    "href": "https://wizaz.pl/kosmetyki/olejki-do-ust",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ust",
+    "parentName": "Piel�gnacja ust",
+    "parent_id": 245,
+    "path": "2.35.246."
+  },
+  {
+    "category_id": 338,
+    "category": "Mase�ka do ust",
+    "href": "https://wizaz.pl/kosmetyki/maselka-do-ust",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ust",
+    "parentName": "Piel�gnacja ust",
+    "parent_id": 245,
+    "path": "2.35.246."
+  },
+  {
+    "category_id": 339,
+    "category": "Maski do ust",
+    "href": "https://wizaz.pl/kosmetyki/maski-do-ust",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ust",
+    "parentName": "Piel�gnacja ust",
+    "parent_id": 245,
+    "path": "2.35.246."
+  },
+  {
+    "category_id": 340,
+    "category": "Peelingi do ust",
+    "href": "https://wizaz.pl/kosmetyki/peelingi-do-ust",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ust",
+    "parentName": "Piel�gnacja ust",
+    "parent_id": 245,
+    "path": "2.35.246."
+  },
+  {
+    "category_id": 341,
+    "category": "Wazelina do ust",
+    "href": "https://wizaz.pl/kosmetyki/wazelina-do-ust",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-ust",
+    "parentName": "Piel�gnacja ust",
+    "parent_id": 245,
+    "path": "2.35.246."
+  },
+  {
+    "category_id": 342,
+    "category": "Od�ywki do rz�s",
+    "href": "https://wizaz.pl/kosmetyki/odzywki-do-rzes",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/odzywki-do-brwi-i-rzes",
+    "parentName": "Od�ywki do brwi i rz�s",
+    "parent_id": 244,
+    "path": "2.35.245."
+  },
+  {
+    "category_id": 343,
+    "category": "Od�ywki do brwi",
+    "href": "https://wizaz.pl/kosmetyki/odzywki-do-brwi",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/odzywki-do-brwi-i-rzes",
+    "parentName": "Od�ywki do brwi i rz�s",
+    "parent_id": 244,
+    "path": "2.35.245."
+  },
+  {
+    "category_id": 344,
+    "category": "Myd�a, pasty i �ele do mycia twarzy",
+    "href": "https://wizaz.pl/kosmetyki/mydla-pasty-i-zele-do-mycia-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "parentName": "Demakija� i oczyszczanie",
+    "parent_id": 243,
+    "path": "2.35.244."
+  },
+  {
+    "category_id": 345,
+    "category": "Pianki do mycia twarzy",
+    "href": "https://wizaz.pl/kosmetyki/pianki-do-mycia-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "parentName": "Demakija� i oczyszczanie",
+    "parent_id": 243,
+    "path": "2.35.244."
+  },
+  {
+    "category_id": 346,
+    "category": "P�yny do demakija�u",
+    "href": "https://wizaz.pl/kosmetyki/plyny-do-demakijazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "parentName": "Demakija� i oczyszczanie",
+    "parent_id": 243,
+    "path": "2.35.244."
+  },
+  {
+    "category_id": 347,
+    "category": "Balsamy do demakija�u",
+    "href": "https://wizaz.pl/kosmetyki/balsamy-do-demakijazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "parentName": "Demakija� i oczyszczanie",
+    "parent_id": 243,
+    "path": "2.35.244."
+  },
+  {
+    "category_id": 348,
+    "category": "Mleczka do demakija�u",
+    "href": "https://wizaz.pl/kosmetyki/mleczka-do-demakijazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "parentName": "Demakija� i oczyszczanie",
+    "parent_id": 243,
+    "path": "2.35.244."
+  },
+  {
+    "category_id": 349,
+    "category": "Chusteczki do demakija�u",
+    "href": "https://wizaz.pl/kosmetyki/chusteczki-do-demakijazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "parentName": "Demakija� i oczyszczanie",
+    "parent_id": 243,
+    "path": "2.35.244."
+  },
+  {
+    "category_id": 350,
+    "category": "Olejki i mas�a do demakija�u",
+    "href": "https://wizaz.pl/kosmetyki/olejki-i-masla-do-demakijazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "parentName": "Demakija� i oczyszczanie",
+    "parent_id": 243,
+    "path": "2.35.244."
+  },
+  {
+    "category_id": 351,
+    "category": "Toniki i hydrolaty",
+    "href": "https://wizaz.pl/kosmetyki/toniki-i-hydrolaty",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/demakijaz-i-oczyszczanie",
+    "parentName": "Demakija� i oczyszczanie",
+    "parent_id": 243,
+    "path": "2.35.244."
+  },
+  {
+    "category_id": 352,
+    "category": "Kremy pod oczy",
+    "href": "https://wizaz.pl/kosmetyki/kremy-pod-oczy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-okolic-oczu",
+    "parentName": "Piel�gnacja okolic oczu",
+    "parent_id": 242,
+    "path": "2.35.243."
+  },
+  {
+    "category_id": 353,
+    "category": "�ele pod oczy",
+    "href": "https://wizaz.pl/kosmetyki/zele-pod-oczy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-okolic-oczu",
+    "parentName": "Piel�gnacja okolic oczu",
+    "parent_id": 242,
+    "path": "2.35.243."
+  },
+  {
+    "category_id": 354,
+    "category": "Serum pod oczy",
+    "href": "https://wizaz.pl/kosmetyki/serum-pod-oczy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-okolic-oczu",
+    "parentName": "Piel�gnacja okolic oczu",
+    "parent_id": 242,
+    "path": "2.35.243."
+  },
+  {
+    "category_id": 355,
+    "category": "P�atki pod oczy",
+    "href": "https://wizaz.pl/kosmetyki/platki-pod-oczy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-okolic-oczu",
+    "parentName": "Piel�gnacja okolic oczu",
+    "parent_id": 242,
+    "path": "2.35.243."
+  },
+  {
+    "category_id": 356,
+    "category": "Maseczki pod oczy",
+    "href": "https://wizaz.pl/kosmetyki/maseczki-pod-oczy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-okolic-oczu",
+    "parentName": "Piel�gnacja okolic oczu",
+    "parent_id": 242,
+    "path": "2.35.243."
+  },
+  {
+    "category_id": 357,
+    "category": "Kremy na dzie�",
+    "href": "https://wizaz.pl/kosmetyki/kremy-na-dzien",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kremy-do-twarzy",
+    "parentName": "Kremy do twarzy",
+    "parent_id": 241,
+    "path": "2.35.242."
+  },
+  {
+    "category_id": 358,
+    "category": "Kremy na noc",
+    "href": "https://wizaz.pl/kosmetyki/kremy-na-noc",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kremy-do-twarzy",
+    "parentName": "Kremy do twarzy",
+    "parent_id": 241,
+    "path": "2.35.242."
+  },
+  {
+    "category_id": 359,
+    "category": "Kremy uniwersalne",
+    "href": "https://wizaz.pl/kosmetyki/kremy-uniwersalne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kremy-do-twarzy",
+    "parentName": "Kremy do twarzy",
+    "parent_id": 241,
+    "path": "2.35.242."
+  },
+  {
+    "category_id": 360,
+    "category": "�ele pod prysznic",
+    "href": "https://wizaz.pl/kosmetyki/zele-pod-prysznic",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-prysznic",
+    "parentName": "K�piel i prysznic",
+    "parent_id": 238,
+    "path": "2.36.239."
+  },
+  {
+    "category_id": 361,
+    "category": "P�yny do k�pieli",
+    "href": "https://wizaz.pl/kosmetyki/plyny-do-kapieli",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-prysznic",
+    "parentName": "K�piel i prysznic",
+    "parent_id": 238,
+    "path": "2.36.239."
+  },
+  {
+    "category_id": 362,
+    "category": "Myd�a",
+    "href": "https://wizaz.pl/kosmetyki/mydla",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-prysznic",
+    "parentName": "K�piel i prysznic",
+    "parent_id": 238,
+    "path": "2.36.239."
+  },
+  {
+    "category_id": 363,
+    "category": "Olejki do k�pieli i pod prysznic",
+    "href": "https://wizaz.pl/kosmetyki/olejki-do-kapieli-i-pod-prysznic",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-prysznic",
+    "parentName": "K�piel i prysznic",
+    "parent_id": 238,
+    "path": "2.36.239."
+  },
+  {
+    "category_id": 364,
+    "category": "Sole do k�pieli",
+    "href": "https://wizaz.pl/kosmetyki/sole-do-kapieli",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-prysznic",
+    "parentName": "K�piel i prysznic",
+    "parent_id": 238,
+    "path": "2.36.239."
+  },
+  {
+    "category_id": 365,
+    "category": "Kule i p�atki do k�pieli",
+    "href": "https://wizaz.pl/kosmetyki/kule-i-platki-do-kapieli",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/kapiel-i-prysznic",
+    "parentName": "K�piel i prysznic",
+    "parent_id": 238,
+    "path": "2.36.239."
+  },
+  {
+    "category_id": 366,
+    "category": "P�yny do higieny intymnej",
+    "href": "https://wizaz.pl/kosmetyki/plyny-do-higieny-intymnej",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "parentName": "Higiena intymna",
+    "parent_id": 237,
+    "path": "2.36.238."
+  },
+  {
+    "category_id": 367,
+    "category": "Chusteczki do higieny intymnej",
+    "href": "https://wizaz.pl/kosmetyki/chusteczki-do-higieny-intymnej",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "parentName": "Higiena intymna",
+    "parent_id": 237,
+    "path": "2.36.238."
+  },
+  {
+    "category_id": 368,
+    "category": "Podpaski",
+    "href": "https://wizaz.pl/kosmetyki/podpaski",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "parentName": "Higiena intymna",
+    "parent_id": 237,
+    "path": "2.36.238."
+  },
+  {
+    "category_id": 369,
+    "category": "Wk�adki higieniczne",
+    "href": "https://wizaz.pl/kosmetyki/wkladki-higieniczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "parentName": "Higiena intymna",
+    "parent_id": 237,
+    "path": "2.36.238."
+  },
+  {
+    "category_id": 370,
+    "category": "Tampony",
+    "href": "https://wizaz.pl/kosmetyki/tampony",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "parentName": "Higiena intymna",
+    "parent_id": 237,
+    "path": "2.36.238."
+  },
+  {
+    "category_id": 371,
+    "category": "Bielizna menstruacyjna",
+    "href": "https://wizaz.pl/kosmetyki/bielizna-menstruacyjna",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "parentName": "Higiena intymna",
+    "parent_id": 237,
+    "path": "2.36.238."
+  },
+  {
+    "category_id": 372,
+    "category": "Kubeczki menstruacyjne",
+    "href": "https://wizaz.pl/kosmetyki/kubeczki-menstruacyjne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "parentName": "Higiena intymna",
+    "parent_id": 237,
+    "path": "2.36.238."
+  },
+  {
+    "category_id": 373,
+    "category": "Dezodoranty i mgie�ki do higieny intymnej",
+    "href": "https://wizaz.pl/kosmetyki/dezodoranty-i-mgielki-do-higieny-intymnej",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/higiena-intymna",
+    "parentName": "Higiena intymna",
+    "parent_id": 237,
+    "path": "2.36.238."
+  },
+  {
+    "category_id": 374,
+    "category": "Pianki do golenia dla kobiet",
+    "href": "https://wizaz.pl/kosmetyki/pianki-do-golenia-dla-kobiet",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/depilacja",
+    "parentName": "Depilacja",
+    "parent_id": 236,
+    "path": "2.36.237."
+  },
+  {
+    "category_id": 375,
+    "category": "�ele do golenia dla kobiet",
+    "href": "https://wizaz.pl/kosmetyki/zele-do-golenia-dla-kobiet",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/depilacja",
+    "parentName": "Depilacja",
+    "parent_id": 236,
+    "path": "2.36.237."
+  },
+  {
+    "category_id": 376,
+    "category": "Pasty do depilacji",
+    "href": "https://wizaz.pl/kosmetyki/pasty-do-depilacji",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/depilacja",
+    "parentName": "Depilacja",
+    "parent_id": 236,
+    "path": "2.36.237."
+  },
+  {
+    "category_id": 377,
+    "category": "Woski do depilacji",
+    "href": "https://wizaz.pl/kosmetyki/woski-do-depilacji",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/depilacja",
+    "parentName": "Depilacja",
+    "parent_id": 236,
+    "path": "2.36.237."
+  },
+  {
+    "category_id": 378,
+    "category": "Plastry do depilacji",
+    "href": "https://wizaz.pl/kosmetyki/plastry-do-depilacji",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/depilacja",
+    "parentName": "Depilacja",
+    "parent_id": 236,
+    "path": "2.36.237."
+  },
+  {
+    "category_id": 379,
+    "category": "Kremy do depilacji",
+    "href": "https://wizaz.pl/kosmetyki/kremy-do-depilacji",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/depilacja",
+    "parentName": "Depilacja",
+    "parent_id": 236,
+    "path": "2.36.237."
+  },
+  {
+    "category_id": 380,
+    "category": "Piel�gnacja po depilacji",
+    "href": "https://wizaz.pl/kosmetyki/pielegnacja-po-depilacji",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/depilacja",
+    "parentName": "Depilacja",
+    "parent_id": 236,
+    "path": "2.36.237."
+  },
+  {
+    "category_id": 381,
+    "category": "Kremy i maski do r�k",
+    "href": "https://wizaz.pl/kosmetyki/kremy-i-maski-do-rak",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "parentName": "Piel�gnacja d�oni i st�p",
+    "parent_id": 234,
+    "path": "2.36.235."
+  },
+  {
+    "category_id": 382,
+    "category": "Kremy i maski do st�p",
+    "href": "https://wizaz.pl/kosmetyki/kremy-i-maski-do-stop",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "parentName": "Piel�gnacja d�oni i st�p",
+    "parent_id": 234,
+    "path": "2.36.235."
+  },
+  {
+    "category_id": 383,
+    "category": "Peelingi do r�k",
+    "href": "https://wizaz.pl/kosmetyki/peelingi-do-rak",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "parentName": "Piel�gnacja d�oni i st�p",
+    "parent_id": 234,
+    "path": "2.36.235."
+  },
+  {
+    "category_id": 384,
+    "category": "Peelingi do st�p",
+    "href": "https://wizaz.pl/kosmetyki/peelingi-do-stop",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "parentName": "Piel�gnacja d�oni i st�p",
+    "parent_id": 234,
+    "path": "2.36.235."
+  },
+  {
+    "category_id": 385,
+    "category": "K�piele do d�oni",
+    "href": "https://wizaz.pl/kosmetyki/kapiele-do-dloni",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "parentName": "Piel�gnacja d�oni i st�p",
+    "parent_id": 234,
+    "path": "2.36.235."
+  },
+  {
+    "category_id": 386,
+    "category": "K�piele do st�p",
+    "href": "https://wizaz.pl/kosmetyki/kapiele-do-stop",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "parentName": "Piel�gnacja d�oni i st�p",
+    "parent_id": 234,
+    "path": "2.36.235."
+  },
+  {
+    "category_id": 387,
+    "category": "�ele antybakteryjne do r�k",
+    "href": "https://wizaz.pl/kosmetyki/zele-antybakteryjne-do-rak",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "parentName": "Piel�gnacja d�oni i st�p",
+    "parent_id": 234,
+    "path": "2.36.235."
+  },
+  {
+    "category_id": 388,
+    "category": "Dezodoranty i mgie�ki do st�p",
+    "href": "https://wizaz.pl/kosmetyki/dezodoranty-i-mgielki-do-stop",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pielegnacja-dloni-i-stop",
+    "parentName": "Piel�gnacja d�oni i st�p",
+    "parent_id": 234,
+    "path": "2.36.235."
+  },
+  {
+    "category_id": 389,
+    "category": "Balsamy do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/balsamy-do-ciala",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/nawilzanie-ciala",
+    "parentName": "Nawil�anie cia�a",
+    "parent_id": 231,
+    "path": "2.36.232."
+  },
+  {
+    "category_id": 390,
+    "category": "Mleczka do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/mleczka-do-ciala",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/nawilzanie-ciala",
+    "parentName": "Nawil�anie cia�a",
+    "parent_id": 231,
+    "path": "2.36.232."
+  },
+  {
+    "category_id": 391,
+    "category": "Mas�a do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/masla-do-ciala",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/nawilzanie-ciala",
+    "parentName": "Nawil�anie cia�a",
+    "parent_id": 231,
+    "path": "2.36.232."
+  },
+  {
+    "category_id": 392,
+    "category": "Olejki do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/olejki-do-ciala",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/nawilzanie-ciala",
+    "parentName": "Nawil�anie cia�a",
+    "parent_id": 231,
+    "path": "2.36.232."
+  },
+  {
+    "category_id": 393,
+    "category": "�wiece do masa�u",
+    "href": "https://wizaz.pl/kosmetyki/swiece-do-masazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/nawilzanie-ciala",
+    "parentName": "Nawil�anie cia�a",
+    "parent_id": 231,
+    "path": "2.36.232."
+  },
+  {
+    "category_id": 394,
+    "category": "G�bki i aplikatory do makija�u",
+    "href": "https://wizaz.pl/kosmetyki/gabki-i-aplikatory-do-makijazu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 395,
+    "category": "P�dzle do makija�u",
+    "href": "https://wizaz.pl/kosmetyki/pedzle-do-makijazu",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 396,
+    "category": "Puszki do pudru",
+    "href": "https://wizaz.pl/kosmetyki/puszki-do-pudru",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 397,
+    "category": "Sztuczne rz�sy i akcesoria",
+    "href": "https://wizaz.pl/kosmetyki/sztuczne-rzesy-i-akcesoria",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 398,
+    "category": "P�sety",
+    "href": "https://wizaz.pl/kosmetyki/pesety",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 399,
+    "category": "No�yki do brwi",
+    "href": "https://wizaz.pl/kosmetyki/nozyki-do-brwi",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 400,
+    "category": "Szablony do brwi i kresek",
+    "href": "https://wizaz.pl/kosmetyki/szablony-do-brwi-i-kresek",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 401,
+    "category": "Temper�wki",
+    "href": "https://wizaz.pl/kosmetyki/temperowki",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 402,
+    "category": "Lusterka kosmetyczne",
+    "href": "https://wizaz.pl/kosmetyki/lusterka-kosmetyczne",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 403,
+    "category": "Palety magnetyczne",
+    "href": "https://wizaz.pl/kosmetyki/palety-magnetyczne",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 404,
+    "category": "Bibu�ki matuj�ce",
+    "href": "https://wizaz.pl/kosmetyki/bibulki-matujace",
+    "depth": 2,
+    "parentURL": "https://wizaz.pl/kosmetyki/akcesoria-do-makijazu",
+    "parentName": "Akcesoria do makija�u",
+    "parent_id": 15,
+    "path": "6.16."
+  },
+  {
+    "category_id": 405,
+    "category": "Sztuczne rz�sy na pasku",
+    "href": "https://wizaz.pl/kosmetyki/sztuczne-rzesy-na-pasku",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/sztuczne-rzesy-i-akcesoria",
+    "parentName": "Sztuczne rz�sy i akcesoria",
+    "parent_id": 397,
+    "path": "6.16.398."
+  },
+  {
+    "category_id": 406,
+    "category": "K�pki rz�s",
+    "href": "https://wizaz.pl/kosmetyki/kepki-rzes",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/sztuczne-rzesy-i-akcesoria",
+    "parentName": "Sztuczne rz�sy i akcesoria",
+    "parent_id": 397,
+    "path": "6.16.398."
+  },
+  {
+    "category_id": 407,
+    "category": "Rz�sy magnetyczne",
+    "href": "https://wizaz.pl/kosmetyki/rzesy-magnetyczne",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/sztuczne-rzesy-i-akcesoria",
+    "parentName": "Sztuczne rz�sy i akcesoria",
+    "parent_id": 397,
+    "path": "6.16.398."
+  },
+  {
+    "category_id": 408,
+    "category": "Zalotki",
+    "href": "https://wizaz.pl/kosmetyki/zalotki",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/sztuczne-rzesy-i-akcesoria",
+    "parentName": "Sztuczne rz�sy i akcesoria",
+    "parent_id": 397,
+    "path": "6.16.398."
+  },
+  {
+    "category_id": 409,
+    "category": "Kleje do rz�s",
+    "href": "https://wizaz.pl/kosmetyki/kleje-do-rzes",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/sztuczne-rzesy-i-akcesoria",
+    "parentName": "Sztuczne rz�sy i akcesoria",
+    "parent_id": 397,
+    "path": "6.16.398."
+  },
+  {
+    "category_id": 410,
+    "category": "P�dzle do twarzy",
+    "href": "https://wizaz.pl/kosmetyki/pedzle-do-twarzy",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pedzle-do-makijazu",
+    "parentName": "P�dzle do makija�u",
+    "parent_id": 395,
+    "path": "6.16.396."
+  },
+  {
+    "category_id": 411,
+    "category": "P�dzle do oczu",
+    "href": "https://wizaz.pl/kosmetyki/pedzle-do-oczu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pedzle-do-makijazu",
+    "parentName": "P�dzle do makija�u",
+    "parent_id": 395,
+    "path": "6.16.396."
+  },
+  {
+    "category_id": 412,
+    "category": "P�dzle do cia�a",
+    "href": "https://wizaz.pl/kosmetyki/pedzle-do-ciala",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pedzle-do-makijazu",
+    "parentName": "P�dzle do makija�u",
+    "parent_id": 395,
+    "path": "6.16.396."
+  },
+  {
+    "category_id": 413,
+    "category": "Zestawy p�dzli do makija�u",
+    "href": "https://wizaz.pl/kosmetyki/zestawy-pedzli-do-makijazu",
+    "depth": 3,
+    "parentURL": "https://wizaz.pl/kosmetyki/pedzle-do-makijazu",
+    "parentName": "P�dzle do makija�u",
+    "parent_id": 395,
+    "path": "6.16.396."
+  }
+]

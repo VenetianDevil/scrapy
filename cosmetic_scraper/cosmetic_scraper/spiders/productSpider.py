@@ -15,17 +15,17 @@ param_link_labels = {
 class ProductSpider(scrapy.Spider):
     name = "products"
     # start_urls = json.load((open("startUrls/_categories_urls.json")))
-    start_urls = json.load((open("startUrls/lostLinks.json")))
+    start_urls = json.load((open("startUrls/catHrefs.json")))
     avoid_urls = [prod["href"] for prod in json.load(open("prods_pandas_joined.json")) if
                   not prod["href"] is None] + json.load(open("startUrls/doneLinks.json"))
 
     def parse(self, response):
-    #     products_links = response.css("div.products-listing-element a.product-tile")
-    #     to_scrape = [prodLink for prodLink in products_links if ("https://wizaz.pl"+prodLink.css("::attr(href)").get())
-    #                  not in self.avoid_urls]
-    #     yield from response.follow_all(to_scrape, self.parse_product)
-    #
-    # def parse_product(self, response):
+        products_links = response.css("div.products-listing-element a.product-tile")
+        to_scrape = [prodLink for prodLink in products_links if ("https://wizaz.pl"+prodLink.css("::attr(href)").get())
+                     not in self.avoid_urls]
+        yield from response.follow_all(to_scrape, self.parse_product)
+
+    def parse_product(self, response):
         if response.url not in self.avoid_urls:
             product = {}
             prod_desc_extras = response.css('div.product-description > div.product-extras')
@@ -66,6 +66,5 @@ class ProductSpider(scrapy.Spider):
             yield productConcat
 
     def closed(self, reason):
-        print(self.avoid_urls)
         with open("visited.json", "w") as outf:
-            json.dump(self.avoid_urls.tolist(), outf, force_ascii=False)
+            json.dump(self.avoid_urls, outf, force_ascii=False)

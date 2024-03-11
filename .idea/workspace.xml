@@ -2,22 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8d96734-dc82-45f1-93e6-478c29a312aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cosmetic_scraper/catPullHref.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cosmetic_scraper/mapProducts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scrape.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrape.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/.~lock.prods_pandas_joined.xlsx#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/_categories_urls.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/startUrls/_categories_urls.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/brands_db.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/brands_db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/categorySpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/categorySpider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/prodImgSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/prodImgSpider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/productSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/productSpider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/lostLinks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/prodImg.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/prodImg.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/prods_pandas_joined.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/prods_pandas_joined.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/prods_pandas_joined.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/prods_pandas_joined.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cosmetic_scraper/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/startUrls/doneLinks.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/startUrls/doneLinks.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,11 +39,110 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rolci\Documents\Projket_kosmetyki\scrape\cosmetic_scraper\startUrls" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.mapProducts">
+    <configuration name="catPullHref" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rolci\AppData\Local\Microsoft\WindowsApps\python3.8.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cosmetic_scraper" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cosmetic_scraper/catPullHref.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="completeIdx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rolci\AppData\Local\Microsoft\WindowsApps\python3.8.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cosmetic_scraper" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cosmetic_scraper/completeIdx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createCategoryPaths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rolci\AppData\Local\Microsoft\WindowsApps\python3.8.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cosmetic_scraper" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cosmetic_scraper/createCategoryPaths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mapProducts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rolci\AppData\Local\Microsoft\WindowsApps\python3.8.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cosmetic_scraper" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cosmetic_scraper/mapProducts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mapProducts" />
+        <item itemvalue="Python.catPullHref" />
+        <item itemvalue="Python.createCategoryPaths" />
+        <item itemvalue="Python.completeIdx" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,6 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709065350633</updated>
       <workItem from="1709065353397" duration="13910000" />
+      <workItem from="1709719993866" duration="33493000" />
     </task>
     <servers />
   </component>
@@ -56,13 +163,67 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1639" y="138" key="#catPullHref" timestamp="1710072917300">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1639" y="138" key="#catPullHref/0.0.2560.1040@0.0.2560.1040" timestamp="1710072917300" />
+    <state x="1370" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1710066589815">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1370" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1710066589815" />
     <state x="1674" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1709157451571">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1674" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1709157451571" />
-    <state x="1616" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1709065435408">
+    <state x="359" y="138" key="#completeIdx" timestamp="1710068083750">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1616" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1709065435408" />
+    <state x="359" y="138" key="#completeIdx/0.0.2560.1040@0.0.2560.1040" timestamp="1710068083750" />
+    <state x="1636" y="138" key="#createCategoryPaths" timestamp="1710001975184">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1636" y="138" key="#createCategoryPaths/0.0.2560.1040@0.0.2560.1040" timestamp="1710001975184" />
+    <state x="359" y="134" key="#mapProducts" timestamp="1710074711476">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="359" y="134" key="#mapProducts/0.0.2560.1040@0.0.2560.1040" timestamp="1710074711476" />
+    <state width="1234" height="244" key="GridCell.Tab.0.bottom" timestamp="1710158892450">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="244" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1710158892450" />
+    <state width="1234" height="244" key="GridCell.Tab.0.center" timestamp="1710158892450">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="244" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1710158892450" />
+    <state width="1234" height="244" key="GridCell.Tab.0.left" timestamp="1710158892450">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="244" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1710158892450" />
+    <state width="1234" height="244" key="GridCell.Tab.0.right" timestamp="1710158892450">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="244" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1710158892450" />
+    <state x="1417" y="166" key="SettingsEditor" timestamp="1710149789548">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1417" y="166" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1710149789548" />
+    <state x="1616" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1709719993554">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1616" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1709719993554" />
+    <state x="1718" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710075973742">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1718" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1710075973742" />
+    <state x="1583" y="230" key="search.everywhere.popup" timestamp="1710149558471">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1583" y="230" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1710149558471" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scrape$completeIdx.coverage" NAME="completeIdx Coverage Results" MODIFIED="1710071831650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
+    <SUITE FILE_PATH="coverage/scrape$mapProducts.coverage" NAME="mapProducts Coverage Results" MODIFIED="1710156635509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
+    <SUITE FILE_PATH="coverage/scrape$catPullHref.coverage" NAME="catPullHref Coverage Results" MODIFIED="1710072963727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
+    <SUITE FILE_PATH="coverage/scrape$createCategoryPaths.coverage" NAME="createCategoryPaths Coverage Results" MODIFIED="1710072110661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
   </component>
 </project>

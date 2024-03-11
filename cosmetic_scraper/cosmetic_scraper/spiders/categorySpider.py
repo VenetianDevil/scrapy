@@ -1,7 +1,5 @@
 import scrapy
 
-print(scrapy.__version__)
-
 
 class CategorySpider(scrapy.Spider):
     name = "categories"
@@ -11,11 +9,21 @@ class CategorySpider(scrapy.Spider):
     visited = []
 
     def parse(self, response):
-        mainCat = response.css("div.category-navigation-tree-segment.zero-level-element > a")
-        yield from response.follow_all(mainCat, self.parse_subCategory)
+        depth = 0
+        mainCats = response.css("div.category-navigation-tree-segment.zero-level-element > a")
+        for mainCat in mainCats:
+            self.visited.append(mainCat.css("a::text").get())
+            yield {
+                "name": mainCat.css("a::text").get(),
+                "href": mainCat.css("a::attr(href)").get(),
+                "depth": depth,
+            }
 
-    def parse_subCategory(self, response):
-        cubCat_divs = response.css("div.category-navigation-tree-segment.zero-level-element div.category-navigation-tree-segment")
+        yield from response.follow_all(mainCats, self.parse_subCategory, cb_kwargs=dict(depth=depth+1))
+
+    def parse_subCategory(self, response, depth):
+        cubCat_divs = response.css(
+            "div.category-navigation-tree-segment.zero-level-element div.category-navigation-tree-segment")
         cubCat_links = cubCat_divs.css("a")
 
         if cubCat_divs[0].css("a::text").get() not in self.visited:
@@ -25,8 +33,10 @@ class CategorySpider(scrapy.Spider):
                 yield {
                     "name": subCat.css("a::text").get(),
                     "href": subCat.css("a::attr(href)").get(),
+                    "parentURL": response.url,
+                    "depth": depth,
                 }
 
-            yield from response.follow_all(cubCat_links, self.parse_subCategory)
+            yield from response.follow_all(cubCat_links, self.parse_subCategory, cb_kwargs=dict(depth=depth + 1))
 
         print("-------------------ODWIEDZONYCH", len(self.visited))

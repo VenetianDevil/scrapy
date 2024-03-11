@@ -1,0 +1,2898 @@
+  (
+    1,
+    "Acetony i removery do paznokci",
+    3,
+    259,
+    "208.225.259."
+  ),
+  (
+    2,
+    "Akcesoria do manicure japońskiego",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    3,
+    "Ampułki do włosów",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    4,
+    "Balsamy do ciała",
+    3,
+    323,
+    "205.233.323."
+  ),
+  (
+    5,
+    "Balsamy do demakijażu",
+    3,
+    333,
+    "205.232.333."
+  ),
+  (
+    6,
+    "Balsamy do ust",
+    3,
+    335,
+    "205.232.335."
+  ),
+  (
+    7,
+    "Balsamy i kremy do ciała dla mężczyzn",
+    3,
+    265,
+    "205.237.265."
+  ),
+  (
+    8,
+    "Balsamy po goleniu",
+    3,
+    267,
+    "205.237.267."
+  ),
+  (
+    9,
+    "Bazy do makijażu ust",
+    2,
+    241,
+    "204.241."
+  ),
+  (
+    10,
+    "Bazy do paznokci",
+    2,
+    223,
+    "208.223."
+  ),
+  (
+    11,
+    "Bazy do przedłużania paznokci",
+    2,
+    224,
+    "208.224."
+  ),
+  (
+    12,
+    "Bazy pod cienie",
+    2,
+    239,
+    "204.239."
+  ),
+  (
+    13,
+    "Bazy pod makijaż",
+    3,
+    273,
+    "204.238.273."
+  ),
+  (
+    14,
+    "Bazy pod tusz do rzęs",
+    2,
+    239,
+    "204.239."
+  ),
+  (
+    15,
+    "Bibułki matujące",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    16,
+    "Brokaty do ciała",
+    2,
+    242,
+    "204.242."
+  ),
+  (
+    17,
+    "Bronzery",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    18,
+    "Butelki i pojemniki podróżne na kosmetyki",
+    2,
+    221,
+    "209.221."
+  ),
+  (
+    19,
+    "Błyszczyki",
+    2,
+    241,
+    "204.241."
+  ),
+  (
+    20,
+    "Cienie do brwi",
+    3,
+    270,
+    "204.240.270."
+  ),
+  (
+    21,
+    "Cienie do powiek",
+    2,
+    239,
+    "204.239."
+  ),
+  (
+    22,
+    "Cleanery i odtłuszczacze do paznokci",
+    2,
+    225,
+    "208.225."
+  ),
+  (
+    23,
+    "Czyściki do jamy ustnej",
+    2,
+    220,
+    "209.220."
+  ),
+  (
+    24,
+    "Dezodoranty i antyperspiranty",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    25,
+    "Dezodoranty i antyperspiranty dla mężczyzn",
+    3,
+    265,
+    "205.237.265."
+  ),
+  (
+    26,
+    "Etui, pasy i tuby",
+    2,
+    221,
+    "209.221."
+  ),
+  (
+    27,
+    "Eyelinery",
+    2,
+    239,
+    "204.239."
+  ),
+  (
+    28,
+    "Farby do włosów",
+    2,
+    231,
+    "206.231."
+  ),
+  (
+    29,
+    "Fixery i utrwalacze makijażu",
+    3,
+    273,
+    "204.238.273."
+  ),
+  (
+    30,
+    "Frezarki",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    31,
+    "Golarki i depilatory ręczne",
+    3,
+    342,
+    "209.216.342."
+  ),
+  (
+    32,
+    "Grzebienie",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    33,
+    "Gumki i spinki do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    34,
+    "Gumy do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    35,
+    "Gumy do włosów dla mężczyzn",
+    3,
+    268,
+    "205.237.268."
+  ),
+  (
+    36,
+    "Gąbki do mycia twarzy",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    37,
+    "Gąbki i aplikatory do makijażu",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    38,
+    "Gąbki i myjki do ciała",
+    2,
+    216,
+    "209.216."
+  ),
+  (
+    39,
+    "Henna brwi",
+    2,
+    240,
+    "204.240."
+  ),
+  (
+    40,
+    "Irygatory do zębów",
+    2,
+    220,
+    "209.220."
+  ),
+  (
+    41,
+    "Jedwab do włosów",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    42,
+    "Kamienie Gua Sha",
+    3,
+    347,
+    "209.215.347."
+  ),
+  (
+    43,
+    "Kleje do rzęs",
+    3,
+    404,
+    "209.214.404."
+  ),
+  (
+    44,
+    "Konturówki do ust",
+    2,
+    241,
+    "204.241."
+  ),
+  (
+    45,
+    "Korektory do twarzy",
+    3,
+    272,
+    "204.238.272."
+  ),
+  (
+    46,
+    "Korektory pod oczy",
+    3,
+    272,
+    "204.238.272."
+  ),
+  (
+    47,
+    "Kosmetyczki",
+    2,
+    221,
+    "209.221."
+  ),
+  (
+    48,
+    "Kosmetyki brązujące",
+    2,
+    234,
+    "205.234."
+  ),
+  (
+    49,
+    "Kosmetyki na rozstępy",
+    3,
+    274,
+    "205.236.274."
+  ),
+  (
+    50,
+    "Kosmetyki po opalaniu",
+    2,
+    234,
+    "205.234."
+  ),
+  (
+    51,
+    "Kredki do brwi",
+    3,
+    270,
+    "204.240.270."
+  ),
+  (
+    52,
+    "Kredki do oczu",
+    2,
+    239,
+    "204.239."
+  ),
+  (
+    53,
+    "Kremy BB, CC i DD",
+    3,
+    271,
+    "204.238.271."
+  ),
+  (
+    54,
+    "Kremy do twarzy dla dzieci",
+    3,
+    276,
+    "205.236.276."
+  ),
+  (
+    55,
+    "Kremy do twarzy dla mężczyzn",
+    3,
+    264,
+    "205.237.264."
+  ),
+  (
+    56,
+    "Kremy i balsamy do ciała dla dzieci",
+    3,
+    276,
+    "205.236.276."
+  ),
+  (
+    57,
+    "Kremy i maski do rąk",
+    3,
+    325,
+    "205.233.325."
+  ),
+  (
+    58,
+    "Kremy i mleczka do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    59,
+    "Kremy na dzień",
+    3,
+    331,
+    "205.232.331."
+  ),
+  (
+    60,
+    "Kremy na noc",
+    3,
+    331,
+    "205.232.331."
+  ),
+  (
+    61,
+    "Kremy uniwersalne",
+    3,
+    331,
+    "205.232.331."
+  ),
+  (
+    62,
+    "Kremy z filtrem do twarzy",
+    2,
+    234,
+    "205.234."
+  ),
+  (
+    63,
+    "Lakiery do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    64,
+    "Lakiery hybrydowe",
+    3,
+    340,
+    "208.223.340."
+  ),
+  (
+    65,
+    "Lakiery klasyczne",
+    3,
+    340,
+    "208.223.340."
+  ),
+  (
+    66,
+    "Lampy UV/LED",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    67,
+    "Lubrykanty i żele intymne",
+    1,
+    211,
+    "211."
+  ),
+  (
+    68,
+    "Masażery do ciała",
+    2,
+    216,
+    "209.216."
+  ),
+  (
+    69,
+    "Masażery do skóry głowy",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    70,
+    "Maski do włosów",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    71,
+    "Maszynki do golenia dla kobiet",
+    3,
+    342,
+    "209.216.342."
+  ),
+  (
+    72,
+    "Maszynki do golenia męskie",
+    2,
+    219,
+    "209.219."
+  ),
+  (
+    73,
+    "Maty i czyściki do mycia pędzli",
+    3,
+    245,
+    "209.221.245."
+  ),
+  (
+    74,
+    "Maści i kremy lecznicze dla dzieci",
+    3,
+    276,
+    "205.236.276."
+  ),
+  (
+    75,
+    "Mgiełki do ciała",
+    2,
+    226,
+    "207.226."
+  ),
+  (
+    76,
+    "Mleczka do ciała",
+    3,
+    323,
+    "205.233.323."
+  ),
+  (
+    77,
+    "Mydła dla mężczyzn",
+    3,
+    265,
+    "205.237.265."
+  ),
+  (
+    78,
+    "Mydła do brwi",
+    3,
+    269,
+    "204.240.269."
+  ),
+  (
+    79,
+    "Mydła, pasty i żele do mycia twarzy",
+    3,
+    333,
+    "205.232.333."
+  ),
+  (
+    80,
+    "Nabłyszczacze do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    81,
+    "Nici dentystyczne",
+    2,
+    220,
+    "209.220."
+  ),
+  (
+    82,
+    "Nożyczki i cążki do paznokci",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    83,
+    "Odżywki do brwi",
+    3,
+    334,
+    "205.232.334."
+  ),
+  (
+    84,
+    "Odżywki do paznokci",
+    2,
+    222,
+    "208.222."
+  ),
+  (
+    85,
+    "Odżywki do rzęs",
+    3,
+    334,
+    "205.232.334."
+  ),
+  (
+    86,
+    "Odżywki do włosów",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    87,
+    "Olejki do kąpieli i pod prysznic",
+    3,
+    328,
+    "205.233.328."
+  ),
+  (
+    88,
+    "Olejki do włosów",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    89,
+    "Oliwki dla dzieci",
+    3,
+    276,
+    "205.236.276."
+  ),
+  (
+    90,
+    "Oliwki do skórek i paznokci",
+    2,
+    222,
+    "208.222."
+  ),
+  (
+    91,
+    "Opaski do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    92,
+    "Ozdoby do paznokci",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    93,
+    "Paletki do brwi",
+    3,
+    270,
+    "204.240.270."
+  ),
+  (
+    94,
+    "Palety do konturowania",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    95,
+    "Palety do makijażu",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    96,
+    "Paski i proszki wybielające zęby",
+    3,
+    280,
+    "205.235.280."
+  ),
+  (
+    97,
+    "Pasty do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    98,
+    "Pasty do zdobień",
+    2,
+    223,
+    "208.223."
+  ),
+  (
+    99,
+    "Pasty do zębów",
+    2,
+    235,
+    "205.235."
+  ),
+  (
+    100,
+    "Pasty i płyny do zębów dla dzieci",
+    3,
+    275,
+    "205.236.275."
+  ),
+  (
+    101,
+    "Patyczki do skórek",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    102,
+    "Patyczki higieniczne",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    103,
+    "Peelingi do ciała",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    104,
+    "Peelingi do skóry głowy",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    105,
+    "Peelingi do twarzy",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    106,
+    "Perfumy w kremie i sztyfcie",
+    2,
+    226,
+    "207.226."
+  ),
+  (
+    107,
+    "Perfumy w olejku i absoluty",
+    2,
+    226,
+    "207.226."
+  ),
+  (
+    108,
+    "Pianki do golenia",
+    3,
+    267,
+    "205.237.267."
+  ),
+  (
+    109,
+    "Pianki do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    110,
+    "Pilniki do stóp",
+    2,
+    216,
+    "209.216."
+  ),
+  (
+    111,
+    "Pilniki, polerki i szczoteczki do paznokci",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    112,
+    "Pisaki do piegów",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    113,
+    "Plastry do stóp",
+    2,
+    216,
+    "209.216."
+  ),
+  (
+    114,
+    "Podkłady",
+    3,
+    271,
+    "204.238.271."
+  ),
+  (
+    115,
+    "Podkłady do ciała",
+    2,
+    242,
+    "204.242."
+  ),
+  (
+    116,
+    "Pomadki i szminki",
+    2,
+    241,
+    "204.241."
+  ),
+  (
+    117,
+    "Pomady do brwi",
+    3,
+    270,
+    "204.240.270."
+  ),
+  (
+    118,
+    "Pozostałe akcesoria",
+    1,
+    209,
+    "209."
+  ),
+  (
+    119,
+    "Preparaty do usuwania skórek",
+    2,
+    222,
+    "208.222."
+  ),
+  (
+    120,
+    "Preparaty punktowe",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    121,
+    "Prezerwatywy",
+    1,
+    211,
+    "211."
+  ),
+  (
+    122,
+    "Prostownice i pielęgnice do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    123,
+    "Pudry",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    124,
+    "Pudry do ciała",
+    2,
+    242,
+    "204.242."
+  ),
+  (
+    125,
+    "Pudry do twarzy",
+    3,
+    123,
+    "204.238.123."
+  ),
+  (
+    126,
+    "Pudry do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    127,
+    "Pudry pod oczy",
+    3,
+    123,
+    "204.238.123."
+  ),
+  (
+    128,
+    "Pyłki do paznokci",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    129,
+    "Pędzle do oczu",
+    3,
+    402,
+    "209.214.402."
+  ),
+  (
+    130,
+    "Pędzle do paznokci i zdobień",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    131,
+    "Pędzle do twarzy",
+    3,
+    402,
+    "209.214.402."
+  ),
+  (
+    132,
+    "Płatki kosmetyczne",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    133,
+    "Płukanki do włosów",
+    2,
+    231,
+    "206.231."
+  ),
+  (
+    134,
+    "Płyny do demakijażu",
+    3,
+    333,
+    "205.232.333."
+  ),
+  (
+    135,
+    "Płyny do higieny intymnej",
+    3,
+    327,
+    "205.233.327."
+  ),
+  (
+    136,
+    "Płyny do kąpieli dla dzieci",
+    3,
+    275,
+    "205.236.275."
+  ),
+  (
+    137,
+    "Płyny do mycia pędzli",
+    3,
+    245,
+    "209.221.245."
+  ),
+  (
+    138,
+    "Płyny do płukania jamy ustnej",
+    2,
+    235,
+    "205.235."
+  ),
+  (
+    139,
+    "Rajstopy w sprayu",
+    2,
+    242,
+    "204.242."
+  ),
+  (
+    140,
+    "Rollery do twarzy",
+    3,
+    347,
+    "209.215.347."
+  ),
+  (
+    141,
+    "Rozjaśniacze do włosów",
+    2,
+    231,
+    "206.231."
+  ),
+  (
+    142,
+    "Rozświetlacze",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    143,
+    "Róże do policzków",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    144,
+    "Rękawice do demakijażu",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    145,
+    "Rękawice do peelingu",
+    3,
+    344,
+    "209.216.344."
+  ),
+  (
+    146,
+    "Rękawiczki i skarpetki bawełniane",
+    3,
+    344,
+    "209.216.344."
+  ),
+  (
+    147,
+    "Samoopalacze do ciała",
+    2,
+    234,
+    "205.234."
+  ),
+  (
+    148,
+    "Samoopalacze do twarzy",
+    2,
+    234,
+    "205.234."
+  ),
+  (
+    149,
+    "Serum do paznokci",
+    2,
+    222,
+    "208.222."
+  ),
+  (
+    150,
+    "Serum do twarzy",
+    3,
+    336,
+    "205.232.336."
+  ),
+  (
+    151,
+    "Serum do włosów",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    152,
+    "Skóra, włosy, paznokcie",
+    1,
+    210,
+    "210."
+  ),
+  (
+    153,
+    "Sole do kąpieli",
+    3,
+    328,
+    "205.233.328."
+  ),
+  (
+    154,
+    "Spray'e do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    155,
+    "Stojaki i organizery",
+    2,
+    221,
+    "209.221."
+  ),
+  (
+    156,
+    "Suche szampony",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    157,
+    "Suplementy na libido",
+    1,
+    210,
+    "210."
+  ),
+  (
+    158,
+    "Suszarki do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    159,
+    "Szablony i formy do przedłużania paznokci",
+    2,
+    224,
+    "208.224."
+  ),
+  (
+    160,
+    "Szampony dla dzieci",
+    3,
+    275,
+    "205.236.275."
+  ),
+  (
+    161,
+    "Szampony do włosów",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    162,
+    "Szampony koloryzujące",
+    2,
+    231,
+    "206.231."
+  ),
+  (
+    163,
+    "Szczoteczki elektryczne",
+    3,
+    246,
+    "209.220.246."
+  ),
+  (
+    164,
+    "Szczoteczki i myjki do twarzy",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    165,
+    "Szczoteczki manualne",
+    3,
+    246,
+    "209.220.246."
+  ),
+  (
+    166,
+    "Szczoteczki soniczne",
+    3,
+    246,
+    "209.220.246."
+  ),
+  (
+    167,
+    "Szczoteczki soniczne do twarzy",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    168,
+    "Szczotki do masażu",
+    3,
+    343,
+    "209.216.343."
+  ),
+  (
+    169,
+    "Szczotki do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    170,
+    "Szczotki i grzebienie dla mężczyzn",
+    2,
+    219,
+    "209.219."
+  ),
+  (
+    171,
+    "Sztuczne paznokcie i tipsy",
+    2,
+    224,
+    "208.224."
+  ),
+  (
+    172,
+    "Tarki i pumeksy do stóp",
+    2,
+    216,
+    "209.216."
+  ),
+  (
+    173,
+    "Temperówki",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    174,
+    "Topy do paznokci",
+    2,
+    223,
+    "208.223."
+  ),
+  (
+    175,
+    "Trymery i maszynki do strzyżenia",
+    2,
+    219,
+    "209.219."
+  ),
+  (
+    176,
+    "Turbany i ręczniki do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    177,
+    "Tusze do rzęs",
+    2,
+    239,
+    "204.239."
+  ),
+  (
+    178,
+    "Tusze i tinty do brwi",
+    3,
+    269,
+    "204.240.269."
+  ),
+  (
+    179,
+    "Urządzenia IPL",
+    3,
+    342,
+    "209.216.342."
+  ),
+  (
+    180,
+    "Utwardzacze do paznokci",
+    2,
+    222,
+    "208.222."
+  ),
+  (
+    181,
+    "Waciki bezpyłowe",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    182,
+    "Wałki i papiloty",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    183,
+    "Wcierki do włosów i skóry głowy",
+    2,
+    229,
+    "206.229."
+  ),
+  (
+    184,
+    "Wody kolońskie damskie",
+    2,
+    226,
+    "207.226."
+  ),
+  (
+    185,
+    "Wody kolońskie męskie",
+    2,
+    227,
+    "207.227."
+  ),
+  (
+    186,
+    "Wody perfumowane damskie",
+    2,
+    226,
+    "207.226."
+  ),
+  (
+    187,
+    "Wody perfumowane męskie",
+    2,
+    227,
+    "207.227."
+  ),
+  (
+    188,
+    "Wody perfumowane unisex",
+    2,
+    228,
+    "207.228."
+  ),
+  (
+    189,
+    "Wody toaletowe damskie",
+    2,
+    226,
+    "207.226."
+  ),
+  (
+    190,
+    "Wody toaletowe męskie",
+    2,
+    227,
+    "207.227."
+  ),
+  (
+    191,
+    "Wody toaletowe unisex",
+    2,
+    228,
+    "207.228."
+  ),
+  (
+    192,
+    "Woski do brwi",
+    3,
+    269,
+    "204.240.269."
+  ),
+  (
+    193,
+    "Woski do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    194,
+    "Wspomaganie odchudzania i utrzymanie formy",
+    1,
+    210,
+    "210."
+  ),
+  (
+    195,
+    "Zalotki",
+    3,
+    404,
+    "209.214.404."
+  ),
+  (
+    196,
+    "Zestawy do paznokci",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    197,
+    "Zmywacze do lakierów klasycznych",
+    3,
+    259,
+    "208.225.259."
+  ),
+  (
+    198,
+    "Ściereczki i ręczniki",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    199,
+    "Żele do brwi",
+    3,
+    269,
+    "204.240.269."
+  ),
+  (
+    200,
+    "Żele do przedłużania paznokci",
+    2,
+    224,
+    "208.224."
+  ),
+  (
+    201,
+    "Żele do włosów",
+    2,
+    230,
+    "206.230."
+  ),
+  (
+    202,
+    "Żele pod prysznic",
+    3,
+    328,
+    "205.233.328."
+  ),
+  (
+    203,
+    "Żele pod prysznic dla mężczyzn",
+    3,
+    265,
+    "205.237.265."
+  ),
+  (
+    204,
+    "Makijaż",
+    0,
+    null,
+    ""
+  ),
+  (
+    205,
+    "Pielęgnacja",
+    0,
+    null,
+    ""
+  ),
+  (
+    206,
+    "Włosy",
+    0,
+    null,
+    ""
+  ),
+  (
+    207,
+    "Perfumy",
+    0,
+    null,
+    ""
+  ),
+  (
+    208,
+    "Paznokcie",
+    0,
+    null,
+    ""
+  ),
+  (
+    209,
+    "Akcesoria",
+    0,
+    null,
+    ""
+  ),
+  (
+    210,
+    "Suplementy",
+    0,
+    null,
+    ""
+  ),
+  (
+    211,
+    "Seks i zdrowie intymne",
+    0,
+    null,
+    ""
+  ),
+  (
+    212,
+    "Produkty wycofane",
+    0,
+    null,
+    ""
+  ),
+  (
+    213,
+    "Poprawa samopoczucia i witalność",
+    1,
+    210,
+    "210."
+  ),
+  (
+    214,
+    "Akcesoria do makijażu",
+    1,
+    209,
+    "209."
+  ),
+  (
+    215,
+    "Akcesoria do twarzy",
+    1,
+    209,
+    "209."
+  ),
+  (
+    216,
+    "Akcesoria do ciała",
+    1,
+    209,
+    "209."
+  ),
+  (
+    217,
+    "Akcesoria do włosów",
+    1,
+    209,
+    "209."
+  ),
+  (
+    218,
+    "Akcesoria do paznokci",
+    1,
+    209,
+    "209."
+  ),
+  (
+    219,
+    "Akcesoria dla mężczyzn",
+    1,
+    209,
+    "209."
+  ),
+  (
+    220,
+    "Akcesoria do higieny jamy ustnej",
+    1,
+    209,
+    "209."
+  ),
+  (
+    221,
+    "Czyszczenie i przechowywanie akcesoriów",
+    1,
+    209,
+    "209."
+  ),
+  (
+    222,
+    "Pielęgnacja paznokci",
+    1,
+    208,
+    "208."
+  ),
+  (
+    223,
+    "Malowanie paznokci",
+    1,
+    208,
+    "208."
+  ),
+  (
+    224,
+    "Przedłużanie paznokci",
+    1,
+    208,
+    "208."
+  ),
+  (
+    225,
+    "Płyny i preparaty",
+    1,
+    208,
+    "208."
+  ),
+  (
+    226,
+    "Perfumy damskie",
+    1,
+    207,
+    "207."
+  ),
+  (
+    227,
+    "Perfumy męskie",
+    1,
+    207,
+    "207."
+  ),
+  (
+    228,
+    "Perfumy unisex",
+    1,
+    207,
+    "207."
+  ),
+  (
+    229,
+    "Pielęgnacja włosów",
+    1,
+    206,
+    "206."
+  ),
+  (
+    230,
+    "Stylizacja włosów",
+    1,
+    206,
+    "206."
+  ),
+  (
+    231,
+    "Koloryzacja włosów",
+    1,
+    206,
+    "206."
+  ),
+  (
+    232,
+    "Pielęgnacja twarzy",
+    1,
+    205,
+    "205."
+  ),
+  (
+    233,
+    "Pielęgnacja ciała",
+    1,
+    205,
+    "205."
+  ),
+  (
+    234,
+    "Pielęgnacja słoneczna",
+    1,
+    205,
+    "205."
+  ),
+  (
+    235,
+    "Higiena jamy ustnej",
+    1,
+    205,
+    "205."
+  ),
+  (
+    236,
+    "Mama i dziecko",
+    1,
+    205,
+    "205."
+  ),
+  (
+    237,
+    "Mężczyzna",
+    1,
+    205,
+    "205."
+  ),
+  (
+    238,
+    "Makijaż twarzy",
+    1,
+    204,
+    "204."
+  ),
+  (
+    239,
+    "Makijaż oczu",
+    1,
+    204,
+    "204."
+  ),
+  (
+    240,
+    "Stylizacja brwi",
+    1,
+    204,
+    "204."
+  ),
+  (
+    241,
+    "Makijaż ust",
+    1,
+    204,
+    "204."
+  ),
+  (
+    242,
+    "Makijaż ciała",
+    1,
+    204,
+    "204."
+  ),
+  (
+    243,
+    "Przyrządy do czyszczenia szczotek",
+    2,
+    221,
+    "209.221."
+  ),
+  (
+    244,
+    "Osłonki na pędzle",
+    2,
+    221,
+    "209.221."
+  ),
+  (
+    245,
+    "Mycie i dezynfekcja akcesoriów",
+    2,
+    221,
+    "209.221."
+  ),
+  (
+    246,
+    "Szczoteczki do zębów",
+    2,
+    220,
+    "209.220."
+  ),
+  (
+    247,
+    "Akcesoria dla mężczyzn",
+    2,
+    219,
+    "209.219."
+  ),
+  (
+    248,
+    "Radełka i zaciskacze do paznokci",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    249,
+    "Folie i klipsy do ściągania lakieru",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    250,
+    "Separatory do pedicure",
+    2,
+    218,
+    "209.218."
+  ),
+  (
+    251,
+    "Szczotki prostujące",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    252,
+    "Lokówki",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    253,
+    "Falownice i karbownice",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    254,
+    "Termoloki",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    255,
+    "Nożyczki do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    256,
+    "Urządzenia wielofunkcyjne do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    257,
+    "Pędzelki do farbowania włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    258,
+    "Czepki do włosów",
+    2,
+    217,
+    "209.217."
+  ),
+  (
+    259,
+    "Zmywacze do paznokci",
+    2,
+    225,
+    "208.225."
+  ),
+  (
+    260,
+    "Primery do paznokci",
+    2,
+    225,
+    "208.225."
+  ),
+  (
+    261,
+    "Dekoloryzatory",
+    2,
+    231,
+    "206.231."
+  ),
+  (
+    262,
+    "Henny do włosów",
+    2,
+    231,
+    "206.231."
+  ),
+  (
+    263,
+    "Tonery do włosów",
+    2,
+    231,
+    "206.231."
+  ),
+  (
+    264,
+    "Męska pielęgnacja twarzy",
+    2,
+    237,
+    "205.237."
+  ),
+  (
+    265,
+    "Pielęgnacja ciała i włosów",
+    2,
+    237,
+    "205.237."
+  ),
+  (
+    266,
+    "Pielęgnacja brody i wąsów",
+    2,
+    237,
+    "205.237."
+  ),
+  (
+    267,
+    "Golenie",
+    2,
+    237,
+    "205.237."
+  ),
+  (
+    268,
+    "Stylizacja włosów dla mężczyzn",
+    2,
+    237,
+    "205.237."
+  ),
+  (
+    269,
+    "Utrwalenie brwi",
+    2,
+    240,
+    "204.240."
+  ),
+  (
+    270,
+    "Uzupełnianie brwi/malowanie",
+    2,
+    240,
+    "204.240."
+  ),
+  (
+    271,
+    "Podkłady i kremy koloryzujące",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    272,
+    "Korektory",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    273,
+    "Przedłużenie trwałości makijażu",
+    2,
+    238,
+    "204.238."
+  ),
+  (
+    274,
+    "Kosmetyki dla kobiet w ciąży i karmiących",
+    2,
+    236,
+    "205.236."
+  ),
+  (
+    275,
+    "Kąpiel i mycie maluszka",
+    2,
+    236,
+    "205.236."
+  ),
+  (
+    276,
+    "Pielęgnacja niemowląt i dzieci",
+    2,
+    236,
+    "205.236."
+  ),
+  (
+    277,
+    "Akcesoria dziecięce",
+    2,
+    236,
+    "205.236."
+  ),
+  (
+    278,
+    "Dezodoranty i antyperspiranty dla dzieci",
+    2,
+    236,
+    "205.236."
+  ),
+  (
+    279,
+    "Perfumy dla dzieci",
+    2,
+    236,
+    "205.236."
+  ),
+  (
+    280,
+    "Wybielanie zębów",
+    2,
+    235,
+    "205.235."
+  ),
+  (
+    281,
+    "Odświeżacze do ust",
+    2,
+    235,
+    "205.235."
+  ),
+  (
+    282,
+    "Kremy z filtrem do ciała",
+    2,
+    234,
+    "205.234."
+  ),
+  (
+    283,
+    "Przyspieszacze do opalania",
+    2,
+    234,
+    "205.234."
+  ),
+  (
+    284,
+    "Żele do włosów dla mężczyzn",
+    3,
+    268,
+    "205.237.268."
+  ),
+  (
+    285,
+    "Pasty do włosów dla mężczyzn",
+    3,
+    268,
+    "205.237.268."
+  ),
+  (
+    286,
+    "Pomady i woski do włosów",
+    3,
+    268,
+    "205.237.268."
+  ),
+  (
+    287,
+    "Zestawy do wybielania zębów",
+    3,
+    280,
+    "205.235.280."
+  ),
+  (
+    288,
+    "Płatki i patyczki higieniczne dla dzieci",
+    3,
+    277,
+    "205.236.277."
+  ),
+  (
+    289,
+    "Butelki dla dzieci",
+    3,
+    277,
+    "205.236.277."
+  ),
+  (
+    290,
+    "Szczoteczki do zębów dla dzieci",
+    3,
+    277,
+    "205.236.277."
+  ),
+  (
+    291,
+    "Obcinanie paznokci",
+    3,
+    277,
+    "205.236.277."
+  ),
+  (
+    292,
+    "Szczotki i grzebienie dla dzieci",
+    3,
+    277,
+    "205.236.277."
+  ),
+  (
+    293,
+    "Myjki i gąbki dla dzieci",
+    3,
+    277,
+    "205.236.277."
+  ),
+  (
+    294,
+    "Talki, pudry i zasypki dla dzieci",
+    3,
+    276,
+    "205.236.276."
+  ),
+  (
+    295,
+    "Pomadki ochronne dla dzieci",
+    3,
+    276,
+    "205.236.276."
+  ),
+  (
+    296,
+    "Chusteczki dla dzieci",
+    3,
+    276,
+    "205.236.276."
+  ),
+  (
+    297,
+    "Żele do kąpieli dla dzieci",
+    3,
+    275,
+    "205.236.275."
+  ),
+  (
+    298,
+    "Olejki myjące dla dzieci",
+    3,
+    275,
+    "205.236.275."
+  ),
+  (
+    299,
+    "Mydła dla dzieci",
+    3,
+    275,
+    "205.236.275."
+  ),
+  (
+    300,
+    "Odżywki do włosów dla dzieci",
+    3,
+    275,
+    "205.236.275."
+  ),
+  (
+    301,
+    "Kosmetyki antycellulitowe",
+    3,
+    274,
+    "205.236.274."
+  ),
+  (
+    302,
+    "Higiena intymna kobiet w ciąży i karmiących",
+    3,
+    274,
+    "205.236.274."
+  ),
+  (
+    303,
+    "Kremy tonujące",
+    3,
+    271,
+    "204.238.271."
+  ),
+  (
+    304,
+    "Pisaki do brwi",
+    3,
+    270,
+    "204.240.270."
+  ),
+  (
+    305,
+    "Zestawy do laminacji brwi",
+    3,
+    269,
+    "204.240.269."
+  ),
+  (
+    306,
+    "Żele do golenia",
+    3,
+    267,
+    "205.237.267."
+  ),
+  (
+    307,
+    "Kremy do golenia",
+    3,
+    267,
+    "205.237.267."
+  ),
+  (
+    308,
+    "Wody po goleniu",
+    3,
+    267,
+    "205.237.267."
+  ),
+  (
+    309,
+    "Olejki do brody",
+    3,
+    266,
+    "205.237.266."
+  ),
+  (
+    310,
+    "Balsamy i kremy do brody",
+    3,
+    266,
+    "205.237.266."
+  ),
+  (
+    311,
+    "Woski do brody",
+    3,
+    266,
+    "205.237.266."
+  ),
+  (
+    312,
+    "Farby do brody",
+    3,
+    266,
+    "205.237.266."
+  ),
+  (
+    313,
+    "Płyny do higieny intymnej dla mężczyzn",
+    3,
+    265,
+    "205.237.265."
+  ),
+  (
+    314,
+    "Szampony i odżywki dla mężczyzn",
+    3,
+    265,
+    "205.237.265."
+  ),
+  (
+    315,
+    "Kosmetyki do skóry głowy dla mężczyzn",
+    3,
+    265,
+    "205.237.265."
+  ),
+  (
+    316,
+    "Kremy pod oczy dla mężczyzn",
+    3,
+    264,
+    "205.237.264."
+  ),
+  (
+    317,
+    "Żele do mycia twarzy i brody",
+    3,
+    264,
+    "205.237.264."
+  ),
+  (
+    318,
+    "Serum dla mężczyzn",
+    3,
+    264,
+    "205.237.264."
+  ),
+  (
+    319,
+    "Maseczki dla mężczyzn",
+    3,
+    264,
+    "205.237.264."
+  ),
+  (
+    320,
+    "Peelingi dla mężczyzn",
+    3,
+    264,
+    "205.237.264."
+  ),
+  (
+    321,
+    "Korektory lakieru do paznokci",
+    3,
+    259,
+    "208.225.259."
+  ),
+  (
+    322,
+    "Dezynfekcja akcesoriów",
+    3,
+    245,
+    "209.221.245."
+  ),
+  (
+    323,
+    "Nawilżanie ciała",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    324,
+    "Chusteczki nawilżane",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    325,
+    "Pielęgnacja dłoni i stóp",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    326,
+    "Depilacja",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    327,
+    "Higiena intymna",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    328,
+    "Kąpiel i prysznic",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    329,
+    "Szyja, dekolt i biust",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    330,
+    "Maści, żele i kremy lecznicze",
+    2,
+    233,
+    "205.233."
+  ),
+  (
+    331,
+    "Kremy do twarzy",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    332,
+    "Pielęgnacja okolic oczu",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    333,
+    "Demakijaż i oczyszczanie",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    334,
+    "Odżywki do brwi i rzęs",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    335,
+    "Pielęgnacja ust",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    336,
+    "Serum i olejki",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    337,
+    "Emulsje, esencje i boostery",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    338,
+    "Maseczki do twarzy",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    339,
+    "Wody termalne i mgiełki do twarzy",
+    2,
+    232,
+    "205.232."
+  ),
+  (
+    340,
+    "Lakiery do paznokci",
+    2,
+    223,
+    "208.223."
+  ),
+  (
+    341,
+    "Wysuszacze lakierów do paznokci",
+    2,
+    223,
+    "208.223."
+  ),
+  (
+    342,
+    "Akcesoria do golenia i depilacji",
+    2,
+    216,
+    "209.216."
+  ),
+  (
+    343,
+    "Szczotki do ciała",
+    2,
+    216,
+    "209.216."
+  ),
+  (
+    344,
+    "Rękawice i skarpetki pielęgnacyjne",
+    2,
+    216,
+    "209.216."
+  ),
+  (
+    345,
+    "Akcesoria do oczyszczania twarzy i demakijażu",
+    2,
+    215,
+    "209.215."
+  ),
+  (
+    346,
+    "Depilatory do twarzy",
+    2,
+    215,
+    "209.215."
+  ),
+  (
+    347,
+    "Akcesoria do masażu twarzy",
+    2,
+    215,
+    "209.215."
+  ),
+  (
+    348,
+    "Pielęgnacja biustu",
+    3,
+    329,
+    "205.233.329."
+  ),
+  (
+    349,
+    "Pielęgnacja szyi i dekoltu",
+    3,
+    329,
+    "205.233.329."
+  ),
+  (
+    350,
+    "Rękawice do samoopalacza",
+    3,
+    344,
+    "209.216.344."
+  ),
+  (
+    351,
+    "Szczotki do mycia ciała",
+    3,
+    343,
+    "209.216.343."
+  ),
+  (
+    352,
+    "Masażery do twarzy",
+    3,
+    347,
+    "209.215.347."
+  ),
+  (
+    353,
+    "Łyżeczki do oczyszczania twarzy",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    354,
+    "Mikrodermabrazja i peelingi kawitacyjne",
+    3,
+    345,
+    "209.215.345."
+  ),
+  (
+    355,
+    "Podgrzewacze do wosku",
+    3,
+    342,
+    "209.216.342."
+  ),
+  (
+    356,
+    "Maseczki klasyczne",
+    3,
+    338,
+    "205.232.338."
+  ),
+  (
+    357,
+    "Maseczki w płachcie",
+    3,
+    338,
+    "205.232.338."
+  ),
+  (
+    358,
+    "Glinki i maseczki algowe",
+    3,
+    338,
+    "205.232.338."
+  ),
+  (
+    359,
+    "Olejki do twarzy",
+    3,
+    336,
+    "205.232.336."
+  ),
+  (
+    360,
+    "Olejki do ust",
+    3,
+    335,
+    "205.232.335."
+  ),
+  (
+    361,
+    "Masełka do ust",
+    3,
+    335,
+    "205.232.335."
+  ),
+  (
+    362,
+    "Maski do ust",
+    3,
+    335,
+    "205.232.335."
+  ),
+  (
+    363,
+    "Peelingi do ust",
+    3,
+    335,
+    "205.232.335."
+  ),
+  (
+    364,
+    "Wazelina do ust",
+    3,
+    335,
+    "205.232.335."
+  ),
+  (
+    365,
+    "Pianki do mycia twarzy",
+    3,
+    333,
+    "205.232.333."
+  ),
+  (
+    366,
+    "Mleczka do demakijażu",
+    3,
+    333,
+    "205.232.333."
+  ),
+  (
+    367,
+    "Chusteczki do demakijażu",
+    3,
+    333,
+    "205.232.333."
+  ),
+  (
+    368,
+    "Olejki i masła do demakijażu",
+    3,
+    333,
+    "205.232.333."
+  ),
+  (
+    369,
+    "Toniki i hydrolaty",
+    3,
+    333,
+    "205.232.333."
+  ),
+  (
+    370,
+    "Kremy pod oczy",
+    3,
+    332,
+    "205.232.332."
+  ),
+  (
+    371,
+    "Żele pod oczy",
+    3,
+    332,
+    "205.232.332."
+  ),
+  (
+    372,
+    "Serum pod oczy",
+    3,
+    332,
+    "205.232.332."
+  ),
+  (
+    373,
+    "Płatki pod oczy",
+    3,
+    332,
+    "205.232.332."
+  ),
+  (
+    374,
+    "Maseczki pod oczy",
+    3,
+    332,
+    "205.232.332."
+  ),
+  (
+    375,
+    "Płyny do kąpieli",
+    3,
+    328,
+    "205.233.328."
+  ),
+  (
+    376,
+    "Mydła",
+    3,
+    328,
+    "205.233.328."
+  ),
+  (
+    377,
+    "Kule i płatki do kąpieli",
+    3,
+    328,
+    "205.233.328."
+  ),
+  (
+    378,
+    "Chusteczki do higieny intymnej",
+    3,
+    327,
+    "205.233.327."
+  ),
+  (
+    379,
+    "Podpaski",
+    3,
+    327,
+    "205.233.327."
+  ),
+  (
+    380,
+    "Wkładki higieniczne",
+    3,
+    327,
+    "205.233.327."
+  ),
+  (
+    381,
+    "Tampony",
+    3,
+    327,
+    "205.233.327."
+  ),
+  (
+    382,
+    "Bielizna menstruacyjna",
+    3,
+    327,
+    "205.233.327."
+  ),
+  (
+    383,
+    "Kubeczki menstruacyjne",
+    3,
+    327,
+    "205.233.327."
+  ),
+  (
+    384,
+    "Dezodoranty i mgiełki do higieny intymnej",
+    3,
+    327,
+    "205.233.327."
+  ),
+  (
+    385,
+    "Pianki do golenia dla kobiet",
+    3,
+    326,
+    "205.233.326."
+  ),
+  (
+    386,
+    "Żele do golenia dla kobiet",
+    3,
+    326,
+    "205.233.326."
+  ),
+  (
+    387,
+    "Pasty do depilacji",
+    3,
+    326,
+    "205.233.326."
+  ),
+  (
+    388,
+    "Woski do depilacji",
+    3,
+    326,
+    "205.233.326."
+  ),
+  (
+    389,
+    "Plastry do depilacji",
+    3,
+    326,
+    "205.233.326."
+  ),
+  (
+    390,
+    "Kremy do depilacji",
+    3,
+    326,
+    "205.233.326."
+  ),
+  (
+    391,
+    "Pielęgnacja po depilacji",
+    3,
+    326,
+    "205.233.326."
+  ),
+  (
+    392,
+    "Kremy i maski do stóp",
+    3,
+    325,
+    "205.233.325."
+  ),
+  (
+    393,
+    "Peelingi do rąk",
+    3,
+    325,
+    "205.233.325."
+  ),
+  (
+    394,
+    "Peelingi do stóp",
+    3,
+    325,
+    "205.233.325."
+  ),
+  (
+    395,
+    "Kąpiele do dłoni",
+    3,
+    325,
+    "205.233.325."
+  ),
+  (
+    396,
+    "Kąpiele do stóp",
+    3,
+    325,
+    "205.233.325."
+  ),
+  (
+    397,
+    "Żele antybakteryjne do rąk",
+    3,
+    325,
+    "205.233.325."
+  ),
+  (
+    398,
+    "Dezodoranty i mgiełki do stóp",
+    3,
+    325,
+    "205.233.325."
+  ),
+  (
+    399,
+    "Masła do ciała",
+    3,
+    323,
+    "205.233.323."
+  ),
+  (
+    400,
+    "Olejki do ciała",
+    3,
+    323,
+    "205.233.323."
+  ),
+  (
+    401,
+    "Świece do masażu",
+    3,
+    323,
+    "205.233.323."
+  ),
+  (
+    402,
+    "Pędzle do makijażu",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    403,
+    "Puszki do pudru",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    404,
+    "Sztuczne rzęsy i akcesoria",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    405,
+    "Pęsety",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    406,
+    "Nożyki do brwi",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    407,
+    "Szablony do brwi i kresek",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    408,
+    "Lusterka kosmetyczne",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    409,
+    "Palety magnetyczne",
+    2,
+    214,
+    "209.214."
+  ),
+  (
+    410,
+    "Sztuczne rzęsy na pasku",
+    3,
+    404,
+    "209.214.404."
+  ),
+  (
+    411,
+    "Kępki rzęs",
+    3,
+    404,
+    "209.214.404."
+  ),
+  (
+    412,
+    "Rzęsy magnetyczne",
+    3,
+    404,
+    "209.214.404."
+  ),
+  (
+    413,
+    "Pędzle do ciała",
+    3,
+    402,
+    "209.214.402."
+  ),
+  (
+    414,
+    "Zestawy pędzli do makijażu",
+    3,
+    402,
+    "209.214.402."
+  )

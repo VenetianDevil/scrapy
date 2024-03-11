@@ -1,0 +1,2486 @@
+[
+  {
+    "category": "Acetony i removery do paznokci",
+    "depth": 3,
+    "category_id": 1,
+    "parent_id": 259
+  },
+  {
+    "category": "Akcesoria do manicure japońskiego",
+    "depth": 2,
+    "category_id": 2,
+    "parent_id": 218
+  },
+  {
+    "category": "Ampułki do włosów",
+    "depth": 2,
+    "category_id": 3,
+    "parent_id": 229
+  },
+  {
+    "category": "Balsamy do ciała",
+    "depth": 3,
+    "category_id": 4,
+    "parent_id": 323
+  },
+  {
+    "category": "Balsamy do demakijażu",
+    "depth": 3,
+    "category_id": 5,
+    "parent_id": 333
+  },
+  {
+    "category": "Balsamy do ust",
+    "depth": 3,
+    "category_id": 6,
+    "parent_id": 335
+  },
+  {
+    "category": "Balsamy i kremy do ciała dla mężczyzn",
+    "depth": 3,
+    "category_id": 7,
+    "parent_id": 265
+  },
+  {
+    "category": "Balsamy po goleniu",
+    "depth": 3,
+    "category_id": 8,
+    "parent_id": 267
+  },
+  {
+    "category": "Bazy do makijażu ust",
+    "depth": 2,
+    "category_id": 9,
+    "parent_id": 241
+  },
+  {
+    "category": "Bazy do paznokci",
+    "depth": 2,
+    "category_id": 10,
+    "parent_id": 223
+  },
+  {
+    "category": "Bazy do przedłużania paznokci",
+    "depth": 2,
+    "category_id": 11,
+    "parent_id": 224
+  },
+  {
+    "category": "Bazy pod cienie",
+    "depth": 2,
+    "category_id": 12,
+    "parent_id": 239
+  },
+  {
+    "category": "Bazy pod makijaż",
+    "depth": 3,
+    "category_id": 13,
+    "parent_id": 273
+  },
+  {
+    "category": "Bazy pod tusz do rzęs",
+    "depth": 2,
+    "category_id": 14,
+    "parent_id": 239
+  },
+  {
+    "category": "Bibułki matujące",
+    "depth": 2,
+    "category_id": 15,
+    "parent_id": 214
+  },
+  {
+    "category": "Brokaty do ciała",
+    "depth": 2,
+    "category_id": 16,
+    "parent_id": 242
+  },
+  {
+    "category": "Bronzery",
+    "depth": 2,
+    "category_id": 17,
+    "parent_id": 238
+  },
+  {
+    "category": "Butelki i pojemniki podróżne na kosmetyki",
+    "depth": 2,
+    "category_id": 18,
+    "parent_id": 221
+  },
+  {
+    "category": "Błyszczyki",
+    "depth": 2,
+    "category_id": 19,
+    "parent_id": 241
+  },
+  {
+    "category": "Cienie do brwi",
+    "depth": 3,
+    "category_id": 20,
+    "parent_id": 270
+  },
+  {
+    "category": "Cienie do powiek",
+    "depth": 2,
+    "category_id": 21,
+    "parent_id": 239
+  },
+  {
+    "category": "Cleanery i odtłuszczacze do paznokci",
+    "depth": 2,
+    "category_id": 22,
+    "parent_id": 225
+  },
+  {
+    "category": "Czyściki do jamy ustnej",
+    "depth": 2,
+    "category_id": 23,
+    "parent_id": 220
+  },
+  {
+    "category": "Dezodoranty i antyperspiranty",
+    "depth": 2,
+    "category_id": 24,
+    "parent_id": 233
+  },
+  {
+    "category": "Dezodoranty i antyperspiranty dla mężczyzn",
+    "depth": 3,
+    "category_id": 25,
+    "parent_id": 265
+  },
+  {
+    "category": "Etui, pasy i tuby",
+    "depth": 2,
+    "category_id": 26,
+    "parent_id": 221
+  },
+  {
+    "category": "Eyelinery",
+    "depth": 2,
+    "category_id": 27,
+    "parent_id": 239
+  },
+  {
+    "category": "Farby do włosów",
+    "depth": 2,
+    "category_id": 28,
+    "parent_id": 231
+  },
+  {
+    "category": "Fixery i utrwalacze makijażu",
+    "depth": 3,
+    "category_id": 29,
+    "parent_id": 273
+  },
+  {
+    "category": "Frezarki",
+    "depth": 2,
+    "category_id": 30,
+    "parent_id": 218
+  },
+  {
+    "category": "Golarki i depilatory ręczne",
+    "depth": 3,
+    "category_id": 31,
+    "parent_id": 342
+  },
+  {
+    "category": "Grzebienie",
+    "depth": 2,
+    "category_id": 32,
+    "parent_id": 217
+  },
+  {
+    "category": "Gumki i spinki do włosów",
+    "depth": 2,
+    "category_id": 33,
+    "parent_id": 217
+  },
+  {
+    "category": "Gumy do włosów",
+    "depth": 2,
+    "category_id": 34,
+    "parent_id": 230
+  },
+  {
+    "category": "Gumy do włosów dla mężczyzn",
+    "depth": 3,
+    "category_id": 35,
+    "parent_id": 268
+  },
+  {
+    "category": "Gąbki do mycia twarzy",
+    "depth": 3,
+    "category_id": 36,
+    "parent_id": 345
+  },
+  {
+    "category": "Gąbki i aplikatory do makijażu",
+    "depth": 2,
+    "category_id": 37,
+    "parent_id": 214
+  },
+  {
+    "category": "Gąbki i myjki do ciała",
+    "depth": 2,
+    "category_id": 38,
+    "parent_id": 216
+  },
+  {
+    "category": "Henna brwi",
+    "depth": 2,
+    "category_id": 39,
+    "parent_id": 240
+  },
+  {
+    "category": "Irygatory do zębów",
+    "depth": 2,
+    "category_id": 40,
+    "parent_id": 220
+  },
+  {
+    "category": "Jedwab do włosów",
+    "depth": 2,
+    "category_id": 41,
+    "parent_id": 229
+  },
+  {
+    "category": "Kamienie Gua Sha",
+    "depth": 3,
+    "category_id": 42,
+    "parent_id": 347
+  },
+  {
+    "category": "Kleje do rzęs",
+    "depth": 3,
+    "category_id": 43,
+    "parent_id": 404
+  },
+  {
+    "category": "Konturówki do ust",
+    "depth": 2,
+    "category_id": 44,
+    "parent_id": 241
+  },
+  {
+    "category": "Korektory do twarzy",
+    "depth": 3,
+    "category_id": 45,
+    "parent_id": 272
+  },
+  {
+    "category": "Korektory pod oczy",
+    "depth": 3,
+    "category_id": 46,
+    "parent_id": 272
+  },
+  {
+    "category": "Kosmetyczki",
+    "depth": 2,
+    "category_id": 47,
+    "parent_id": 221
+  },
+  {
+    "category": "Kosmetyki brązujące",
+    "depth": 2,
+    "category_id": 48,
+    "parent_id": 234
+  },
+  {
+    "category": "Kosmetyki na rozstępy",
+    "depth": 3,
+    "category_id": 49,
+    "parent_id": 274
+  },
+  {
+    "category": "Kosmetyki po opalaniu",
+    "depth": 2,
+    "category_id": 50,
+    "parent_id": 234
+  },
+  {
+    "category": "Kredki do brwi",
+    "depth": 3,
+    "category_id": 51,
+    "parent_id": 270
+  },
+  {
+    "category": "Kredki do oczu",
+    "depth": 2,
+    "category_id": 52,
+    "parent_id": 239
+  },
+  {
+    "category": "Kremy BB, CC i DD",
+    "depth": 3,
+    "category_id": 53,
+    "parent_id": 271
+  },
+  {
+    "category": "Kremy do twarzy dla dzieci",
+    "depth": 3,
+    "category_id": 54,
+    "parent_id": 276
+  },
+  {
+    "category": "Kremy do twarzy dla mężczyzn",
+    "depth": 3,
+    "category_id": 55,
+    "parent_id": 264
+  },
+  {
+    "category": "Kremy i balsamy do ciała dla dzieci",
+    "depth": 3,
+    "category_id": 56,
+    "parent_id": 276
+  },
+  {
+    "category": "Kremy i maski do rąk",
+    "depth": 3,
+    "category_id": 57,
+    "parent_id": 325
+  },
+  {
+    "category": "Kremy i mleczka do włosów",
+    "depth": 2,
+    "category_id": 58,
+    "parent_id": 230
+  },
+  {
+    "category": "Kremy na dzień",
+    "depth": 3,
+    "category_id": 59,
+    "parent_id": 331
+  },
+  {
+    "category": "Kremy na noc",
+    "depth": 3,
+    "category_id": 60,
+    "parent_id": 331
+  },
+  {
+    "category": "Kremy uniwersalne",
+    "depth": 3,
+    "category_id": 61,
+    "parent_id": 331
+  },
+  {
+    "category": "Kremy z filtrem do twarzy",
+    "depth": 2,
+    "category_id": 62,
+    "parent_id": 234
+  },
+  {
+    "category": "Lakiery do włosów",
+    "depth": 2,
+    "category_id": 63,
+    "parent_id": 230
+  },
+  {
+    "category": "Lakiery hybrydowe",
+    "depth": 3,
+    "category_id": 64,
+    "parent_id": 340
+  },
+  {
+    "category": "Lakiery klasyczne",
+    "depth": 3,
+    "category_id": 65,
+    "parent_id": 340
+  },
+  {
+    "category": "Lampy UV\/LED",
+    "depth": 2,
+    "category_id": 66,
+    "parent_id": 218
+  },
+  {
+    "category": "Lubrykanty i żele intymne",
+    "depth": 1,
+    "category_id": 67,
+    "parent_id": 211
+  },
+  {
+    "category": "Masażery do ciała",
+    "depth": 2,
+    "category_id": 68,
+    "parent_id": 216
+  },
+  {
+    "category": "Masażery do skóry głowy",
+    "depth": 2,
+    "category_id": 69,
+    "parent_id": 217
+  },
+  {
+    "category": "Maski do włosów",
+    "depth": 2,
+    "category_id": 70,
+    "parent_id": 229
+  },
+  {
+    "category": "Maszynki do golenia dla kobiet",
+    "depth": 3,
+    "category_id": 71,
+    "parent_id": 342
+  },
+  {
+    "category": "Maszynki do golenia męskie",
+    "depth": 2,
+    "category_id": 72,
+    "parent_id": 219
+  },
+  {
+    "category": "Maty i czyściki do mycia pędzli",
+    "depth": 3,
+    "category_id": 73,
+    "parent_id": 245
+  },
+  {
+    "category": "Maści i kremy lecznicze dla dzieci",
+    "depth": 3,
+    "category_id": 74,
+    "parent_id": 276
+  },
+  {
+    "category": "Mgiełki do ciała",
+    "depth": 2,
+    "category_id": 75,
+    "parent_id": 226
+  },
+  {
+    "category": "Mleczka do ciała",
+    "depth": 3,
+    "category_id": 76,
+    "parent_id": 323
+  },
+  {
+    "category": "Mydła dla mężczyzn",
+    "depth": 3,
+    "category_id": 77,
+    "parent_id": 265
+  },
+  {
+    "category": "Mydła do brwi",
+    "depth": 3,
+    "category_id": 78,
+    "parent_id": 269
+  },
+  {
+    "category": "Mydła, pasty i żele do mycia twarzy",
+    "depth": 3,
+    "category_id": 79,
+    "parent_id": 333
+  },
+  {
+    "category": "Nabłyszczacze do włosów",
+    "depth": 2,
+    "category_id": 80,
+    "parent_id": 230
+  },
+  {
+    "category": "Nici dentystyczne",
+    "depth": 2,
+    "category_id": 81,
+    "parent_id": 220
+  },
+  {
+    "category": "Nożyczki i cążki do paznokci",
+    "depth": 2,
+    "category_id": 82,
+    "parent_id": 218
+  },
+  {
+    "category": "Odżywki do brwi",
+    "depth": 3,
+    "category_id": 83,
+    "parent_id": 334
+  },
+  {
+    "category": "Odżywki do paznokci",
+    "depth": 2,
+    "category_id": 84,
+    "parent_id": 222
+  },
+  {
+    "category": "Odżywki do rzęs",
+    "depth": 3,
+    "category_id": 85,
+    "parent_id": 334
+  },
+  {
+    "category": "Odżywki do włosów",
+    "depth": 2,
+    "category_id": 86,
+    "parent_id": 229
+  },
+  {
+    "category": "Olejki do kąpieli i pod prysznic",
+    "depth": 3,
+    "category_id": 87,
+    "parent_id": 328
+  },
+  {
+    "category": "Olejki do włosów",
+    "depth": 2,
+    "category_id": 88,
+    "parent_id": 229
+  },
+  {
+    "category": "Oliwki dla dzieci",
+    "depth": 3,
+    "category_id": 89,
+    "parent_id": 276
+  },
+  {
+    "category": "Oliwki do skórek i paznokci",
+    "depth": 2,
+    "category_id": 90,
+    "parent_id": 222
+  },
+  {
+    "category": "Opaski do włosów",
+    "depth": 2,
+    "category_id": 91,
+    "parent_id": 217
+  },
+  {
+    "category": "Ozdoby do paznokci",
+    "depth": 2,
+    "category_id": 92,
+    "parent_id": 218
+  },
+  {
+    "category": "Paletki do brwi",
+    "depth": 3,
+    "category_id": 93,
+    "parent_id": 270
+  },
+  {
+    "category": "Palety do konturowania",
+    "depth": 2,
+    "category_id": 94,
+    "parent_id": 238
+  },
+  {
+    "category": "Palety do makijażu",
+    "depth": 2,
+    "category_id": 95,
+    "parent_id": 238
+  },
+  {
+    "category": "Paski i proszki wybielające zęby",
+    "depth": 3,
+    "category_id": 96,
+    "parent_id": 280
+  },
+  {
+    "category": "Pasty do włosów",
+    "depth": 2,
+    "category_id": 97,
+    "parent_id": 230
+  },
+  {
+    "category": "Pasty do zdobień",
+    "depth": 2,
+    "category_id": 98,
+    "parent_id": 223
+  },
+  {
+    "category": "Pasty do zębów",
+    "depth": 2,
+    "category_id": 99,
+    "parent_id": 235
+  },
+  {
+    "category": "Pasty i płyny do zębów dla dzieci",
+    "depth": 3,
+    "category_id": 100,
+    "parent_id": 275
+  },
+  {
+    "category": "Patyczki do skórek",
+    "depth": 2,
+    "category_id": 101,
+    "parent_id": 218
+  },
+  {
+    "category": "Patyczki higieniczne",
+    "depth": 3,
+    "category_id": 102,
+    "parent_id": 345
+  },
+  {
+    "category": "Peelingi do ciała",
+    "depth": 2,
+    "category_id": 103,
+    "parent_id": 233
+  },
+  {
+    "category": "Peelingi do skóry głowy",
+    "depth": 2,
+    "category_id": 104,
+    "parent_id": 229
+  },
+  {
+    "category": "Peelingi do twarzy",
+    "depth": 2,
+    "category_id": 105,
+    "parent_id": 232
+  },
+  {
+    "category": "Perfumy w kremie i sztyfcie",
+    "depth": 2,
+    "category_id": 106,
+    "parent_id": 226
+  },
+  {
+    "category": "Perfumy w olejku i absoluty",
+    "depth": 2,
+    "category_id": 107,
+    "parent_id": 226
+  },
+  {
+    "category": "Pianki do golenia",
+    "depth": 3,
+    "category_id": 108,
+    "parent_id": 267
+  },
+  {
+    "category": "Pianki do włosów",
+    "depth": 2,
+    "category_id": 109,
+    "parent_id": 230
+  },
+  {
+    "category": "Pilniki do stóp",
+    "depth": 2,
+    "category_id": 110,
+    "parent_id": 216
+  },
+  {
+    "category": "Pilniki, polerki i szczoteczki do paznokci",
+    "depth": 2,
+    "category_id": 111,
+    "parent_id": 218
+  },
+  {
+    "category": "Pisaki do piegów",
+    "depth": 2,
+    "category_id": 112,
+    "parent_id": 238
+  },
+  {
+    "category": "Plastry do stóp",
+    "depth": 2,
+    "category_id": 113,
+    "parent_id": 216
+  },
+  {
+    "category": "Podkłady",
+    "depth": 3,
+    "category_id": 114,
+    "parent_id": 271
+  },
+  {
+    "category": "Podkłady do ciała",
+    "depth": 2,
+    "category_id": 115,
+    "parent_id": 242
+  },
+  {
+    "category": "Pomadki i szminki",
+    "depth": 2,
+    "category_id": 116,
+    "parent_id": 241
+  },
+  {
+    "category": "Pomady do brwi",
+    "depth": 3,
+    "category_id": 117,
+    "parent_id": 270
+  },
+  {
+    "category": "Pozostałe akcesoria",
+    "depth": 1,
+    "category_id": 118,
+    "parent_id": 209
+  },
+  {
+    "category": "Preparaty do usuwania skórek",
+    "depth": 2,
+    "category_id": 119,
+    "parent_id": 222
+  },
+  {
+    "category": "Preparaty punktowe",
+    "depth": 2,
+    "category_id": 120,
+    "parent_id": 232
+  },
+  {
+    "category": "Prezerwatywy",
+    "depth": 1,
+    "category_id": 121,
+    "parent_id": 211
+  },
+  {
+    "category": "Prostownice i pielęgnice do włosów",
+    "depth": 2,
+    "category_id": 122,
+    "parent_id": 217
+  },
+  {
+    "category": "Pudry",
+    "depth": 2,
+    "category_id": 123,
+    "parent_id": 238
+  },
+  {
+    "category": "Pudry do ciała",
+    "depth": 2,
+    "category_id": 124,
+    "parent_id": 242
+  },
+  {
+    "category": "Pudry do twarzy",
+    "depth": 3,
+    "category_id": 125,
+    "parent_id": 123
+  },
+  {
+    "category": "Pudry do włosów",
+    "depth": 2,
+    "category_id": 126,
+    "parent_id": 230
+  },
+  {
+    "category": "Pudry pod oczy",
+    "depth": 3,
+    "category_id": 127,
+    "parent_id": 123
+  },
+  {
+    "category": "Pyłki do paznokci",
+    "depth": 2,
+    "category_id": 128,
+    "parent_id": 218
+  },
+  {
+    "category": "Pędzle do oczu",
+    "depth": 3,
+    "category_id": 129,
+    "parent_id": 402
+  },
+  {
+    "category": "Pędzle do paznokci i zdobień",
+    "depth": 2,
+    "category_id": 130,
+    "parent_id": 218
+  },
+  {
+    "category": "Pędzle do twarzy",
+    "depth": 3,
+    "category_id": 131,
+    "parent_id": 402
+  },
+  {
+    "category": "Płatki kosmetyczne",
+    "depth": 3,
+    "category_id": 132,
+    "parent_id": 345
+  },
+  {
+    "category": "Płukanki do włosów",
+    "depth": 2,
+    "category_id": 133,
+    "parent_id": 231
+  },
+  {
+    "category": "Płyny do demakijażu",
+    "depth": 3,
+    "category_id": 134,
+    "parent_id": 333
+  },
+  {
+    "category": "Płyny do higieny intymnej",
+    "depth": 3,
+    "category_id": 135,
+    "parent_id": 327
+  },
+  {
+    "category": "Płyny do kąpieli dla dzieci",
+    "depth": 3,
+    "category_id": 136,
+    "parent_id": 275
+  },
+  {
+    "category": "Płyny do mycia pędzli",
+    "depth": 3,
+    "category_id": 137,
+    "parent_id": 245
+  },
+  {
+    "category": "Płyny do płukania jamy ustnej",
+    "depth": 2,
+    "category_id": 138,
+    "parent_id": 235
+  },
+  {
+    "category": "Rajstopy w sprayu",
+    "depth": 2,
+    "category_id": 139,
+    "parent_id": 242
+  },
+  {
+    "category": "Rollery do twarzy",
+    "depth": 3,
+    "category_id": 140,
+    "parent_id": 347
+  },
+  {
+    "category": "Rozjaśniacze do włosów",
+    "depth": 2,
+    "category_id": 141,
+    "parent_id": 231
+  },
+  {
+    "category": "Rozświetlacze",
+    "depth": 2,
+    "category_id": 142,
+    "parent_id": 238
+  },
+  {
+    "category": "Róże do policzków",
+    "depth": 2,
+    "category_id": 143,
+    "parent_id": 238
+  },
+  {
+    "category": "Rękawice do demakijażu",
+    "depth": 3,
+    "category_id": 144,
+    "parent_id": 345
+  },
+  {
+    "category": "Rękawice do peelingu",
+    "depth": 3,
+    "category_id": 145,
+    "parent_id": 344
+  },
+  {
+    "category": "Rękawiczki i skarpetki bawełniane",
+    "depth": 3,
+    "category_id": 146,
+    "parent_id": 344
+  },
+  {
+    "category": "Samoopalacze do ciała",
+    "depth": 2,
+    "category_id": 147,
+    "parent_id": 234
+  },
+  {
+    "category": "Samoopalacze do twarzy",
+    "depth": 2,
+    "category_id": 148,
+    "parent_id": 234
+  },
+  {
+    "category": "Serum do paznokci",
+    "depth": 2,
+    "category_id": 149,
+    "parent_id": 222
+  },
+  {
+    "category": "Serum do twarzy",
+    "depth": 3,
+    "category_id": 150,
+    "parent_id": 336
+  },
+  {
+    "category": "Serum do włosów",
+    "depth": 2,
+    "category_id": 151,
+    "parent_id": 229
+  },
+  {
+    "category": "Skóra, włosy, paznokcie",
+    "depth": 1,
+    "category_id": 152,
+    "parent_id": 210
+  },
+  {
+    "category": "Sole do kąpieli",
+    "depth": 3,
+    "category_id": 153,
+    "parent_id": 328
+  },
+  {
+    "category": "Spray'e do włosów",
+    "depth": 2,
+    "category_id": 154,
+    "parent_id": 230
+  },
+  {
+    "category": "Stojaki i organizery",
+    "depth": 2,
+    "category_id": 155,
+    "parent_id": 221
+  },
+  {
+    "category": "Suche szampony",
+    "depth": 2,
+    "category_id": 156,
+    "parent_id": 230
+  },
+  {
+    "category": "Suplementy na libido",
+    "depth": 1,
+    "category_id": 157,
+    "parent_id": 210
+  },
+  {
+    "category": "Suszarki do włosów",
+    "depth": 2,
+    "category_id": 158,
+    "parent_id": 217
+  },
+  {
+    "category": "Szablony i formy do przedłużania paznokci",
+    "depth": 2,
+    "category_id": 159,
+    "parent_id": 224
+  },
+  {
+    "category": "Szampony dla dzieci",
+    "depth": 3,
+    "category_id": 160,
+    "parent_id": 275
+  },
+  {
+    "category": "Szampony do włosów",
+    "depth": 2,
+    "category_id": 161,
+    "parent_id": 229
+  },
+  {
+    "category": "Szampony koloryzujące",
+    "depth": 2,
+    "category_id": 162,
+    "parent_id": 231
+  },
+  {
+    "category": "Szczoteczki elektryczne",
+    "depth": 3,
+    "category_id": 163,
+    "parent_id": 246
+  },
+  {
+    "category": "Szczoteczki i myjki do twarzy",
+    "depth": 3,
+    "category_id": 164,
+    "parent_id": 345
+  },
+  {
+    "category": "Szczoteczki manualne",
+    "depth": 3,
+    "category_id": 165,
+    "parent_id": 246
+  },
+  {
+    "category": "Szczoteczki soniczne",
+    "depth": 3,
+    "category_id": 166,
+    "parent_id": 246
+  },
+  {
+    "category": "Szczoteczki soniczne do twarzy",
+    "depth": 3,
+    "category_id": 167,
+    "parent_id": 345
+  },
+  {
+    "category": "Szczotki do masażu",
+    "depth": 3,
+    "category_id": 168,
+    "parent_id": 343
+  },
+  {
+    "category": "Szczotki do włosów",
+    "depth": 2,
+    "category_id": 169,
+    "parent_id": 217
+  },
+  {
+    "category": "Szczotki i grzebienie dla mężczyzn",
+    "depth": 2,
+    "category_id": 170,
+    "parent_id": 219
+  },
+  {
+    "category": "Sztuczne paznokcie i tipsy",
+    "depth": 2,
+    "category_id": 171,
+    "parent_id": 224
+  },
+  {
+    "category": "Tarki i pumeksy do stóp",
+    "depth": 2,
+    "category_id": 172,
+    "parent_id": 216
+  },
+  {
+    "category": "Temperówki",
+    "depth": 2,
+    "category_id": 173,
+    "parent_id": 214
+  },
+  {
+    "category": "Topy do paznokci",
+    "depth": 2,
+    "category_id": 174,
+    "parent_id": 223
+  },
+  {
+    "category": "Trymery i maszynki do strzyżenia",
+    "depth": 2,
+    "category_id": 175,
+    "parent_id": 219
+  },
+  {
+    "category": "Turbany i ręczniki do włosów",
+    "depth": 2,
+    "category_id": 176,
+    "parent_id": 217
+  },
+  {
+    "category": "Tusze do rzęs",
+    "depth": 2,
+    "category_id": 177,
+    "parent_id": 239
+  },
+  {
+    "category": "Tusze i tinty do brwi",
+    "depth": 3,
+    "category_id": 178,
+    "parent_id": 269
+  },
+  {
+    "category": "Urządzenia IPL",
+    "depth": 3,
+    "category_id": 179,
+    "parent_id": 342
+  },
+  {
+    "category": "Utwardzacze do paznokci",
+    "depth": 2,
+    "category_id": 180,
+    "parent_id": 222
+  },
+  {
+    "category": "Waciki bezpyłowe",
+    "depth": 2,
+    "category_id": 181,
+    "parent_id": 218
+  },
+  {
+    "category": "Wałki i papiloty",
+    "depth": 2,
+    "category_id": 182,
+    "parent_id": 217
+  },
+  {
+    "category": "Wcierki do włosów i skóry głowy",
+    "depth": 2,
+    "category_id": 183,
+    "parent_id": 229
+  },
+  {
+    "category": "Wody kolońskie damskie",
+    "depth": 2,
+    "category_id": 184,
+    "parent_id": 226
+  },
+  {
+    "category": "Wody kolońskie męskie",
+    "depth": 2,
+    "category_id": 185,
+    "parent_id": 227
+  },
+  {
+    "category": "Wody perfumowane damskie",
+    "depth": 2,
+    "category_id": 186,
+    "parent_id": 226
+  },
+  {
+    "category": "Wody perfumowane męskie",
+    "depth": 2,
+    "category_id": 187,
+    "parent_id": 227
+  },
+  {
+    "category": "Wody perfumowane unisex",
+    "depth": 2,
+    "category_id": 188,
+    "parent_id": 228
+  },
+  {
+    "category": "Wody toaletowe damskie",
+    "depth": 2,
+    "category_id": 189,
+    "parent_id": 226
+  },
+  {
+    "category": "Wody toaletowe męskie",
+    "depth": 2,
+    "category_id": 190,
+    "parent_id": 227
+  },
+  {
+    "category": "Wody toaletowe unisex",
+    "depth": 2,
+    "category_id": 191,
+    "parent_id": 228
+  },
+  {
+    "category": "Woski do brwi",
+    "depth": 3,
+    "category_id": 192,
+    "parent_id": 269
+  },
+  {
+    "category": "Woski do włosów",
+    "depth": 2,
+    "category_id": 193,
+    "parent_id": 230
+  },
+  {
+    "category": "Wspomaganie odchudzania i utrzymanie formy",
+    "depth": 1,
+    "category_id": 194,
+    "parent_id": 210
+  },
+  {
+    "category": "Zalotki",
+    "depth": 3,
+    "category_id": 195,
+    "parent_id": 404
+  },
+  {
+    "category": "Zestawy do paznokci",
+    "depth": 2,
+    "category_id": 196,
+    "parent_id": 218
+  },
+  {
+    "category": "Zmywacze do lakierów klasycznych",
+    "depth": 3,
+    "category_id": 197,
+    "parent_id": 259
+  },
+  {
+    "category": "Ściereczki i ręczniki",
+    "depth": 3,
+    "category_id": 198,
+    "parent_id": 345
+  },
+  {
+    "category": "Żele do brwi",
+    "depth": 3,
+    "category_id": 199,
+    "parent_id": 269
+  },
+  {
+    "category": "Żele do przedłużania paznokci",
+    "depth": 2,
+    "category_id": 200,
+    "parent_id": 224
+  },
+  {
+    "category": "Żele do włosów",
+    "depth": 2,
+    "category_id": 201,
+    "parent_id": 230
+  },
+  {
+    "category": "Żele pod prysznic",
+    "depth": 3,
+    "category_id": 202,
+    "parent_id": 328
+  },
+  {
+    "category": "Żele pod prysznic dla mężczyzn",
+    "depth": 3,
+    "category_id": 203,
+    "parent_id": 265
+  },
+  {
+    "category": "Makijaż",
+    "depth": 0,
+    "category_id": 204,
+    "parent_id": null
+  },
+  {
+    "category": "Pielęgnacja",
+    "depth": 0,
+    "category_id": 205,
+    "parent_id": null
+  },
+  {
+    "category": "Włosy",
+    "depth": 0,
+    "category_id": 206,
+    "parent_id": null
+  },
+  {
+    "category": "Perfumy",
+    "depth": 0,
+    "category_id": 207,
+    "parent_id": null
+  },
+  {
+    "category": "Paznokcie",
+    "depth": 0,
+    "category_id": 208,
+    "parent_id": null
+  },
+  {
+    "category": "Akcesoria",
+    "depth": 0,
+    "category_id": 209,
+    "parent_id": null
+  },
+  {
+    "category": "Suplementy",
+    "depth": 0,
+    "category_id": 210,
+    "parent_id": null
+  },
+  {
+    "category": "Seks i zdrowie intymne",
+    "depth": 0,
+    "category_id": 211,
+    "parent_id": null
+  },
+  {
+    "category": "Produkty wycofane",
+    "depth": 0,
+    "category_id": 212,
+    "parent_id": null
+  },
+  {
+    "category": "Poprawa samopoczucia i witalność",
+    "depth": 1,
+    "category_id": 213,
+    "parent_id": 210
+  },
+  {
+    "category": "Akcesoria do makijażu",
+    "depth": 1,
+    "category_id": 214,
+    "parent_id": 209
+  },
+  {
+    "category": "Akcesoria do twarzy",
+    "depth": 1,
+    "category_id": 215,
+    "parent_id": 209
+  },
+  {
+    "category": "Akcesoria do ciała",
+    "depth": 1,
+    "category_id": 216,
+    "parent_id": 209
+  },
+  {
+    "category": "Akcesoria do włosów",
+    "depth": 1,
+    "category_id": 217,
+    "parent_id": 209
+  },
+  {
+    "category": "Akcesoria do paznokci",
+    "depth": 1,
+    "category_id": 218,
+    "parent_id": 209
+  },
+  {
+    "category": "Akcesoria dla mężczyzn",
+    "depth": 1,
+    "category_id": 219,
+    "parent_id": 209
+  },
+  {
+    "category": "Akcesoria do higieny jamy ustnej",
+    "depth": 1,
+    "category_id": 220,
+    "parent_id": 209
+  },
+  {
+    "category": "Czyszczenie i przechowywanie akcesoriów",
+    "depth": 1,
+    "category_id": 221,
+    "parent_id": 209
+  },
+  {
+    "category": "Pielęgnacja paznokci",
+    "depth": 1,
+    "category_id": 222,
+    "parent_id": 208
+  },
+  {
+    "category": "Malowanie paznokci",
+    "depth": 1,
+    "category_id": 223,
+    "parent_id": 208
+  },
+  {
+    "category": "Przedłużanie paznokci",
+    "depth": 1,
+    "category_id": 224,
+    "parent_id": 208
+  },
+  {
+    "category": "Płyny i preparaty",
+    "depth": 1,
+    "category_id": 225,
+    "parent_id": 208
+  },
+  {
+    "category": "Perfumy damskie",
+    "depth": 1,
+    "category_id": 226,
+    "parent_id": 207
+  },
+  {
+    "category": "Perfumy męskie",
+    "depth": 1,
+    "category_id": 227,
+    "parent_id": 207
+  },
+  {
+    "category": "Perfumy unisex",
+    "depth": 1,
+    "category_id": 228,
+    "parent_id": 207
+  },
+  {
+    "category": "Pielęgnacja włosów",
+    "depth": 1,
+    "category_id": 229,
+    "parent_id": 206
+  },
+  {
+    "category": "Stylizacja włosów",
+    "depth": 1,
+    "category_id": 230,
+    "parent_id": 206
+  },
+  {
+    "category": "Koloryzacja włosów",
+    "depth": 1,
+    "category_id": 231,
+    "parent_id": 206
+  },
+  {
+    "category": "Pielęgnacja twarzy",
+    "depth": 1,
+    "category_id": 232,
+    "parent_id": 205
+  },
+  {
+    "category": "Pielęgnacja ciała",
+    "depth": 1,
+    "category_id": 233,
+    "parent_id": 205
+  },
+  {
+    "category": "Pielęgnacja słoneczna",
+    "depth": 1,
+    "category_id": 234,
+    "parent_id": 205
+  },
+  {
+    "category": "Higiena jamy ustnej",
+    "depth": 1,
+    "category_id": 235,
+    "parent_id": 205
+  },
+  {
+    "category": "Mama i dziecko",
+    "depth": 1,
+    "category_id": 236,
+    "parent_id": 205
+  },
+  {
+    "category": "Mężczyzna",
+    "depth": 1,
+    "category_id": 237,
+    "parent_id": 205
+  },
+  {
+    "category": "Makijaż twarzy",
+    "depth": 1,
+    "category_id": 238,
+    "parent_id": 204
+  },
+  {
+    "category": "Makijaż oczu",
+    "depth": 1,
+    "category_id": 239,
+    "parent_id": 204
+  },
+  {
+    "category": "Stylizacja brwi",
+    "depth": 1,
+    "category_id": 240,
+    "parent_id": 204
+  },
+  {
+    "category": "Makijaż ust",
+    "depth": 1,
+    "category_id": 241,
+    "parent_id": 204
+  },
+  {
+    "category": "Makijaż ciała",
+    "depth": 1,
+    "category_id": 242,
+    "parent_id": 204
+  },
+  {
+    "category": "Przyrządy do czyszczenia szczotek",
+    "depth": 2,
+    "category_id": 243,
+    "parent_id": 221
+  },
+  {
+    "category": "Osłonki na pędzle",
+    "depth": 2,
+    "category_id": 244,
+    "parent_id": 221
+  },
+  {
+    "category": "Mycie i dezynfekcja akcesoriów",
+    "depth": 2,
+    "category_id": 245,
+    "parent_id": 221
+  },
+  {
+    "category": "Szczoteczki do zębów",
+    "depth": 2,
+    "category_id": 246,
+    "parent_id": 220
+  },
+  {
+    "category": "Akcesoria dla mężczyzn",
+    "depth": 2,
+    "category_id": 247,
+    "parent_id": 219
+  },
+  {
+    "category": "Radełka i zaciskacze do paznokci",
+    "depth": 2,
+    "category_id": 248,
+    "parent_id": 218
+  },
+  {
+    "category": "Folie i klipsy do ściągania lakieru",
+    "depth": 2,
+    "category_id": 249,
+    "parent_id": 218
+  },
+  {
+    "category": "Separatory do pedicure",
+    "depth": 2,
+    "category_id": 250,
+    "parent_id": 218
+  },
+  {
+    "category": "Szczotki prostujące",
+    "depth": 2,
+    "category_id": 251,
+    "parent_id": 217
+  },
+  {
+    "category": "Lokówki",
+    "depth": 2,
+    "category_id": 252,
+    "parent_id": 217
+  },
+  {
+    "category": "Falownice i karbownice",
+    "depth": 2,
+    "category_id": 253,
+    "parent_id": 217
+  },
+  {
+    "category": "Termoloki",
+    "depth": 2,
+    "category_id": 254,
+    "parent_id": 217
+  },
+  {
+    "category": "Nożyczki do włosów",
+    "depth": 2,
+    "category_id": 255,
+    "parent_id": 217
+  },
+  {
+    "category": "Urządzenia wielofunkcyjne do włosów",
+    "depth": 2,
+    "category_id": 256,
+    "parent_id": 217
+  },
+  {
+    "category": "Pędzelki do farbowania włosów",
+    "depth": 2,
+    "category_id": 257,
+    "parent_id": 217
+  },
+  {
+    "category": "Czepki do włosów",
+    "depth": 2,
+    "category_id": 258,
+    "parent_id": 217
+  },
+  {
+    "category": "Zmywacze do paznokci",
+    "depth": 2,
+    "category_id": 259,
+    "parent_id": 225
+  },
+  {
+    "category": "Primery do paznokci",
+    "depth": 2,
+    "category_id": 260,
+    "parent_id": 225
+  },
+  {
+    "category": "Dekoloryzatory",
+    "depth": 2,
+    "category_id": 261,
+    "parent_id": 231
+  },
+  {
+    "category": "Henny do włosów",
+    "depth": 2,
+    "category_id": 262,
+    "parent_id": 231
+  },
+  {
+    "category": "Tonery do włosów",
+    "depth": 2,
+    "category_id": 263,
+    "parent_id": 231
+  },
+  {
+    "category": "Męska pielęgnacja twarzy",
+    "depth": 2,
+    "category_id": 264,
+    "parent_id": 237
+  },
+  {
+    "category": "Pielęgnacja ciała i włosów",
+    "depth": 2,
+    "category_id": 265,
+    "parent_id": 237
+  },
+  {
+    "category": "Pielęgnacja brody i wąsów",
+    "depth": 2,
+    "category_id": 266,
+    "parent_id": 237
+  },
+  {
+    "category": "Golenie",
+    "depth": 2,
+    "category_id": 267,
+    "parent_id": 237
+  },
+  {
+    "category": "Stylizacja włosów dla mężczyzn",
+    "depth": 2,
+    "category_id": 268,
+    "parent_id": 237
+  },
+  {
+    "category": "Utrwalenie brwi",
+    "depth": 2,
+    "category_id": 269,
+    "parent_id": 240
+  },
+  {
+    "category": "Uzupełnianie brwi\/malowanie",
+    "depth": 2,
+    "category_id": 270,
+    "parent_id": 240
+  },
+  {
+    "category": "Podkłady i kremy koloryzujące",
+    "depth": 2,
+    "category_id": 271,
+    "parent_id": 238
+  },
+  {
+    "category": "Korektory",
+    "depth": 2,
+    "category_id": 272,
+    "parent_id": 238
+  },
+  {
+    "category": "Przedłużenie trwałości makijażu",
+    "depth": 2,
+    "category_id": 273,
+    "parent_id": 238
+  },
+  {
+    "category": "Kosmetyki dla kobiet w ciąży i karmiących",
+    "depth": 2,
+    "category_id": 274,
+    "parent_id": 236
+  },
+  {
+    "category": "Kąpiel i mycie maluszka",
+    "depth": 2,
+    "category_id": 275,
+    "parent_id": 236
+  },
+  {
+    "category": "Pielęgnacja niemowląt i dzieci",
+    "depth": 2,
+    "category_id": 276,
+    "parent_id": 236
+  },
+  {
+    "category": "Akcesoria dziecięce",
+    "depth": 2,
+    "category_id": 277,
+    "parent_id": 236
+  },
+  {
+    "category": "Dezodoranty i antyperspiranty dla dzieci",
+    "depth": 2,
+    "category_id": 278,
+    "parent_id": 236
+  },
+  {
+    "category": "Perfumy dla dzieci",
+    "depth": 2,
+    "category_id": 279,
+    "parent_id": 236
+  },
+  {
+    "category": "Wybielanie zębów",
+    "depth": 2,
+    "category_id": 280,
+    "parent_id": 235
+  },
+  {
+    "category": "Odświeżacze do ust",
+    "depth": 2,
+    "category_id": 281,
+    "parent_id": 235
+  },
+  {
+    "category": "Kremy z filtrem do ciała",
+    "depth": 2,
+    "category_id": 282,
+    "parent_id": 234
+  },
+  {
+    "category": "Przyspieszacze do opalania",
+    "depth": 2,
+    "category_id": 283,
+    "parent_id": 234
+  },
+  {
+    "category": "Żele do włosów dla mężczyzn",
+    "depth": 3,
+    "category_id": 284,
+    "parent_id": 268
+  },
+  {
+    "category": "Pasty do włosów dla mężczyzn",
+    "depth": 3,
+    "category_id": 285,
+    "parent_id": 268
+  },
+  {
+    "category": "Pomady i woski do włosów",
+    "depth": 3,
+    "category_id": 286,
+    "parent_id": 268
+  },
+  {
+    "category": "Zestawy do wybielania zębów",
+    "depth": 3,
+    "category_id": 287,
+    "parent_id": 280
+  },
+  {
+    "category": "Płatki i patyczki higieniczne dla dzieci",
+    "depth": 3,
+    "category_id": 288,
+    "parent_id": 277
+  },
+  {
+    "category": "Butelki dla dzieci",
+    "depth": 3,
+    "category_id": 289,
+    "parent_id": 277
+  },
+  {
+    "category": "Szczoteczki do zębów dla dzieci",
+    "depth": 3,
+    "category_id": 290,
+    "parent_id": 277
+  },
+  {
+    "category": "Obcinanie paznokci",
+    "depth": 3,
+    "category_id": 291,
+    "parent_id": 277
+  },
+  {
+    "category": "Szczotki i grzebienie dla dzieci",
+    "depth": 3,
+    "category_id": 292,
+    "parent_id": 277
+  },
+  {
+    "category": "Myjki i gąbki dla dzieci",
+    "depth": 3,
+    "category_id": 293,
+    "parent_id": 277
+  },
+  {
+    "category": "Talki, pudry i zasypki dla dzieci",
+    "depth": 3,
+    "category_id": 294,
+    "parent_id": 276
+  },
+  {
+    "category": "Pomadki ochronne dla dzieci",
+    "depth": 3,
+    "category_id": 295,
+    "parent_id": 276
+  },
+  {
+    "category": "Chusteczki dla dzieci",
+    "depth": 3,
+    "category_id": 296,
+    "parent_id": 276
+  },
+  {
+    "category": "Żele do kąpieli dla dzieci",
+    "depth": 3,
+    "category_id": 297,
+    "parent_id": 275
+  },
+  {
+    "category": "Olejki myjące dla dzieci",
+    "depth": 3,
+    "category_id": 298,
+    "parent_id": 275
+  },
+  {
+    "category": "Mydła dla dzieci",
+    "depth": 3,
+    "category_id": 299,
+    "parent_id": 275
+  },
+  {
+    "category": "Odżywki do włosów dla dzieci",
+    "depth": 3,
+    "category_id": 300,
+    "parent_id": 275
+  },
+  {
+    "category": "Kosmetyki antycellulitowe",
+    "depth": 3,
+    "category_id": 301,
+    "parent_id": 274
+  },
+  {
+    "category": "Higiena intymna kobiet w ciąży i karmiących",
+    "depth": 3,
+    "category_id": 302,
+    "parent_id": 274
+  },
+  {
+    "category": "Kremy tonujące",
+    "depth": 3,
+    "category_id": 303,
+    "parent_id": 271
+  },
+  {
+    "category": "Pisaki do brwi",
+    "depth": 3,
+    "category_id": 304,
+    "parent_id": 270
+  },
+  {
+    "category": "Zestawy do laminacji brwi",
+    "depth": 3,
+    "category_id": 305,
+    "parent_id": 269
+  },
+  {
+    "category": "Żele do golenia",
+    "depth": 3,
+    "category_id": 306,
+    "parent_id": 267
+  },
+  {
+    "category": "Kremy do golenia",
+    "depth": 3,
+    "category_id": 307,
+    "parent_id": 267
+  },
+  {
+    "category": "Wody po goleniu",
+    "depth": 3,
+    "category_id": 308,
+    "parent_id": 267
+  },
+  {
+    "category": "Olejki do brody",
+    "depth": 3,
+    "category_id": 309,
+    "parent_id": 266
+  },
+  {
+    "category": "Balsamy i kremy do brody",
+    "depth": 3,
+    "category_id": 310,
+    "parent_id": 266
+  },
+  {
+    "category": "Woski do brody",
+    "depth": 3,
+    "category_id": 311,
+    "parent_id": 266
+  },
+  {
+    "category": "Farby do brody",
+    "depth": 3,
+    "category_id": 312,
+    "parent_id": 266
+  },
+  {
+    "category": "Płyny do higieny intymnej dla mężczyzn",
+    "depth": 3,
+    "category_id": 313,
+    "parent_id": 265
+  },
+  {
+    "category": "Szampony i odżywki dla mężczyzn",
+    "depth": 3,
+    "category_id": 314,
+    "parent_id": 265
+  },
+  {
+    "category": "Kosmetyki do skóry głowy dla mężczyzn",
+    "depth": 3,
+    "category_id": 315,
+    "parent_id": 265
+  },
+  {
+    "category": "Kremy pod oczy dla mężczyzn",
+    "depth": 3,
+    "category_id": 316,
+    "parent_id": 264
+  },
+  {
+    "category": "Żele do mycia twarzy i brody",
+    "depth": 3,
+    "category_id": 317,
+    "parent_id": 264
+  },
+  {
+    "category": "Serum dla mężczyzn",
+    "depth": 3,
+    "category_id": 318,
+    "parent_id": 264
+  },
+  {
+    "category": "Maseczki dla mężczyzn",
+    "depth": 3,
+    "category_id": 319,
+    "parent_id": 264
+  },
+  {
+    "category": "Peelingi dla mężczyzn",
+    "depth": 3,
+    "category_id": 320,
+    "parent_id": 264
+  },
+  {
+    "category": "Korektory lakieru do paznokci",
+    "depth": 3,
+    "category_id": 321,
+    "parent_id": 259
+  },
+  {
+    "category": "Dezynfekcja akcesoriów",
+    "depth": 3,
+    "category_id": 322,
+    "parent_id": 245
+  },
+  {
+    "category": "Nawilżanie ciała",
+    "depth": 2,
+    "category_id": 323,
+    "parent_id": 233
+  },
+  {
+    "category": "Chusteczki nawilżane",
+    "depth": 2,
+    "category_id": 324,
+    "parent_id": 233
+  },
+  {
+    "category": "Pielęgnacja dłoni i stóp",
+    "depth": 2,
+    "category_id": 325,
+    "parent_id": 233
+  },
+  {
+    "category": "Depilacja",
+    "depth": 2,
+    "category_id": 326,
+    "parent_id": 233
+  },
+  {
+    "category": "Higiena intymna",
+    "depth": 2,
+    "category_id": 327,
+    "parent_id": 233
+  },
+  {
+    "category": "Kąpiel i prysznic",
+    "depth": 2,
+    "category_id": 328,
+    "parent_id": 233
+  },
+  {
+    "category": "Szyja, dekolt i biust",
+    "depth": 2,
+    "category_id": 329,
+    "parent_id": 233
+  },
+  {
+    "category": "Maści, żele i kremy lecznicze",
+    "depth": 2,
+    "category_id": 330,
+    "parent_id": 233
+  },
+  {
+    "category": "Kremy do twarzy",
+    "depth": 2,
+    "category_id": 331,
+    "parent_id": 232
+  },
+  {
+    "category": "Pielęgnacja okolic oczu",
+    "depth": 2,
+    "category_id": 332,
+    "parent_id": 232
+  },
+  {
+    "category": "Demakijaż i oczyszczanie",
+    "depth": 2,
+    "category_id": 333,
+    "parent_id": 232
+  },
+  {
+    "category": "Odżywki do brwi i rzęs",
+    "depth": 2,
+    "category_id": 334,
+    "parent_id": 232
+  },
+  {
+    "category": "Pielęgnacja ust",
+    "depth": 2,
+    "category_id": 335,
+    "parent_id": 232
+  },
+  {
+    "category": "Serum i olejki",
+    "depth": 2,
+    "category_id": 336,
+    "parent_id": 232
+  },
+  {
+    "category": "Emulsje, esencje i boostery",
+    "depth": 2,
+    "category_id": 337,
+    "parent_id": 232
+  },
+  {
+    "category": "Maseczki do twarzy",
+    "depth": 2,
+    "category_id": 338,
+    "parent_id": 232
+  },
+  {
+    "category": "Wody termalne i mgiełki do twarzy",
+    "depth": 2,
+    "category_id": 339,
+    "parent_id": 232
+  },
+  {
+    "category": "Lakiery do paznokci",
+    "depth": 2,
+    "category_id": 340,
+    "parent_id": 223
+  },
+  {
+    "category": "Wysuszacze lakierów do paznokci",
+    "depth": 2,
+    "category_id": 341,
+    "parent_id": 223
+  },
+  {
+    "category": "Akcesoria do golenia i depilacji",
+    "depth": 2,
+    "category_id": 342,
+    "parent_id": 216
+  },
+  {
+    "category": "Szczotki do ciała",
+    "depth": 2,
+    "category_id": 343,
+    "parent_id": 216
+  },
+  {
+    "category": "Rękawice i skarpetki pielęgnacyjne",
+    "depth": 2,
+    "category_id": 344,
+    "parent_id": 216
+  },
+  {
+    "category": "Akcesoria do oczyszczania twarzy i demakijażu",
+    "depth": 2,
+    "category_id": 345,
+    "parent_id": 215
+  },
+  {
+    "category": "Depilatory do twarzy",
+    "depth": 2,
+    "category_id": 346,
+    "parent_id": 215
+  },
+  {
+    "category": "Akcesoria do masażu twarzy",
+    "depth": 2,
+    "category_id": 347,
+    "parent_id": 215
+  },
+  {
+    "category": "Pielęgnacja biustu",
+    "depth": 3,
+    "category_id": 348,
+    "parent_id": 329
+  },
+  {
+    "category": "Pielęgnacja szyi i dekoltu",
+    "depth": 3,
+    "category_id": 349,
+    "parent_id": 329
+  },
+  {
+    "category": "Rękawice do samoopalacza",
+    "depth": 3,
+    "category_id": 350,
+    "parent_id": 344
+  },
+  {
+    "category": "Szczotki do mycia ciała",
+    "depth": 3,
+    "category_id": 351,
+    "parent_id": 343
+  },
+  {
+    "category": "Masażery do twarzy",
+    "depth": 3,
+    "category_id": 352,
+    "parent_id": 347
+  },
+  {
+    "category": "Łyżeczki do oczyszczania twarzy",
+    "depth": 3,
+    "category_id": 353,
+    "parent_id": 345
+  },
+  {
+    "category": "Mikrodermabrazja i peelingi kawitacyjne",
+    "depth": 3,
+    "category_id": 354,
+    "parent_id": 345
+  },
+  {
+    "category": "Podgrzewacze do wosku",
+    "depth": 3,
+    "category_id": 355,
+    "parent_id": 342
+  },
+  {
+    "category": "Maseczki klasyczne",
+    "depth": 3,
+    "category_id": 356,
+    "parent_id": 338
+  },
+  {
+    "category": "Maseczki w płachcie",
+    "depth": 3,
+    "category_id": 357,
+    "parent_id": 338
+  },
+  {
+    "category": "Glinki i maseczki algowe",
+    "depth": 3,
+    "category_id": 358,
+    "parent_id": 338
+  },
+  {
+    "category": "Olejki do twarzy",
+    "depth": 3,
+    "category_id": 359,
+    "parent_id": 336
+  },
+  {
+    "category": "Olejki do ust",
+    "depth": 3,
+    "category_id": 360,
+    "parent_id": 335
+  },
+  {
+    "category": "Masełka do ust",
+    "depth": 3,
+    "category_id": 361,
+    "parent_id": 335
+  },
+  {
+    "category": "Maski do ust",
+    "depth": 3,
+    "category_id": 362,
+    "parent_id": 335
+  },
+  {
+    "category": "Peelingi do ust",
+    "depth": 3,
+    "category_id": 363,
+    "parent_id": 335
+  },
+  {
+    "category": "Wazelina do ust",
+    "depth": 3,
+    "category_id": 364,
+    "parent_id": 335
+  },
+  {
+    "category": "Pianki do mycia twarzy",
+    "depth": 3,
+    "category_id": 365,
+    "parent_id": 333
+  },
+  {
+    "category": "Mleczka do demakijażu",
+    "depth": 3,
+    "category_id": 366,
+    "parent_id": 333
+  },
+  {
+    "category": "Chusteczki do demakijażu",
+    "depth": 3,
+    "category_id": 367,
+    "parent_id": 333
+  },
+  {
+    "category": "Olejki i masła do demakijażu",
+    "depth": 3,
+    "category_id": 368,
+    "parent_id": 333
+  },
+  {
+    "category": "Toniki i hydrolaty",
+    "depth": 3,
+    "category_id": 369,
+    "parent_id": 333
+  },
+  {
+    "category": "Kremy pod oczy",
+    "depth": 3,
+    "category_id": 370,
+    "parent_id": 332
+  },
+  {
+    "category": "Żele pod oczy",
+    "depth": 3,
+    "category_id": 371,
+    "parent_id": 332
+  },
+  {
+    "category": "Serum pod oczy",
+    "depth": 3,
+    "category_id": 372,
+    "parent_id": 332
+  },
+  {
+    "category": "Płatki pod oczy",
+    "depth": 3,
+    "category_id": 373,
+    "parent_id": 332
+  },
+  {
+    "category": "Maseczki pod oczy",
+    "depth": 3,
+    "category_id": 374,
+    "parent_id": 332
+  },
+  {
+    "category": "Płyny do kąpieli",
+    "depth": 3,
+    "category_id": 375,
+    "parent_id": 328
+  },
+  {
+    "category": "Mydła",
+    "depth": 3,
+    "category_id": 376,
+    "parent_id": 328
+  },
+  {
+    "category": "Kule i płatki do kąpieli",
+    "depth": 3,
+    "category_id": 377,
+    "parent_id": 328
+  },
+  {
+    "category": "Chusteczki do higieny intymnej",
+    "depth": 3,
+    "category_id": 378,
+    "parent_id": 327
+  },
+  {
+    "category": "Podpaski",
+    "depth": 3,
+    "category_id": 379,
+    "parent_id": 327
+  },
+  {
+    "category": "Wkładki higieniczne",
+    "depth": 3,
+    "category_id": 380,
+    "parent_id": 327
+  },
+  {
+    "category": "Tampony",
+    "depth": 3,
+    "category_id": 381,
+    "parent_id": 327
+  },
+  {
+    "category": "Bielizna menstruacyjna",
+    "depth": 3,
+    "category_id": 382,
+    "parent_id": 327
+  },
+  {
+    "category": "Kubeczki menstruacyjne",
+    "depth": 3,
+    "category_id": 383,
+    "parent_id": 327
+  },
+  {
+    "category": "Dezodoranty i mgiełki do higieny intymnej",
+    "depth": 3,
+    "category_id": 384,
+    "parent_id": 327
+  },
+  {
+    "category": "Pianki do golenia dla kobiet",
+    "depth": 3,
+    "category_id": 385,
+    "parent_id": 326
+  },
+  {
+    "category": "Żele do golenia dla kobiet",
+    "depth": 3,
+    "category_id": 386,
+    "parent_id": 326
+  },
+  {
+    "category": "Pasty do depilacji",
+    "depth": 3,
+    "category_id": 387,
+    "parent_id": 326
+  },
+  {
+    "category": "Woski do depilacji",
+    "depth": 3,
+    "category_id": 388,
+    "parent_id": 326
+  },
+  {
+    "category": "Plastry do depilacji",
+    "depth": 3,
+    "category_id": 389,
+    "parent_id": 326
+  },
+  {
+    "category": "Kremy do depilacji",
+    "depth": 3,
+    "category_id": 390,
+    "parent_id": 326
+  },
+  {
+    "category": "Pielęgnacja po depilacji",
+    "depth": 3,
+    "category_id": 391,
+    "parent_id": 326
+  },
+  {
+    "category": "Kremy i maski do stóp",
+    "depth": 3,
+    "category_id": 392,
+    "parent_id": 325
+  },
+  {
+    "category": "Peelingi do rąk",
+    "depth": 3,
+    "category_id": 393,
+    "parent_id": 325
+  },
+  {
+    "category": "Peelingi do stóp",
+    "depth": 3,
+    "category_id": 394,
+    "parent_id": 325
+  },
+  {
+    "category": "Kąpiele do dłoni",
+    "depth": 3,
+    "category_id": 395,
+    "parent_id": 325
+  },
+  {
+    "category": "Kąpiele do stóp",
+    "depth": 3,
+    "category_id": 396,
+    "parent_id": 325
+  },
+  {
+    "category": "Żele antybakteryjne do rąk",
+    "depth": 3,
+    "category_id": 397,
+    "parent_id": 325
+  },
+  {
+    "category": "Dezodoranty i mgiełki do stóp",
+    "depth": 3,
+    "category_id": 398,
+    "parent_id": 325
+  },
+  {
+    "category": "Masła do ciała",
+    "depth": 3,
+    "category_id": 399,
+    "parent_id": 323
+  },
+  {
+    "category": "Olejki do ciała",
+    "depth": 3,
+    "category_id": 400,
+    "parent_id": 323
+  },
+  {
+    "category": "Świece do masażu",
+    "depth": 3,
+    "category_id": 401,
+    "parent_id": 323
+  },
+  {
+    "category": "Pędzle do makijażu",
+    "depth": 2,
+    "category_id": 402,
+    "parent_id": 214
+  },
+  {
+    "category": "Puszki do pudru",
+    "depth": 2,
+    "category_id": 403,
+    "parent_id": 214
+  },
+  {
+    "category": "Sztuczne rzęsy i akcesoria",
+    "depth": 2,
+    "category_id": 404,
+    "parent_id": 214
+  },
+  {
+    "category": "Pęsety",
+    "depth": 2,
+    "category_id": 405,
+    "parent_id": 214
+  },
+  {
+    "category": "Nożyki do brwi",
+    "depth": 2,
+    "category_id": 406,
+    "parent_id": 214
+  },
+  {
+    "category": "Szablony do brwi i kresek",
+    "depth": 2,
+    "category_id": 407,
+    "parent_id": 214
+  },
+  {
+    "category": "Lusterka kosmetyczne",
+    "depth": 2,
+    "category_id": 408,
+    "parent_id": 214
+  },
+  {
+    "category": "Palety magnetyczne",
+    "depth": 2,
+    "category_id": 409,
+    "parent_id": 214
+  },
+  {
+    "category": "Sztuczne rzęsy na pasku",
+    "depth": 3,
+    "category_id": 410,
+    "parent_id": 404
+  },
+  {
+    "category": "Kępki rzęs",
+    "depth": 3,
+    "category_id": 411,
+    "parent_id": 404
+  },
+  {
+    "category": "Rzęsy magnetyczne",
+    "depth": 3,
+    "category_id": 412,
+    "parent_id": 404
+  },
+  {
+    "category": "Pędzle do ciała",
+    "depth": 3,
+    "category_id": 413,
+    "parent_id": 402
+  },
+  {
+    "category": "Zestawy pędzli do makijażu",
+    "depth": 3,
+    "category_id": 414,
+    "parent_id": 402
+  }
+]
