@@ -3,14 +3,18 @@ import re
 
 categories = json.load(open("catMatchPaths.json", encoding="utf8"))
 brands = json.load(open("brands_db.json", encoding="utf8"))
-products = json.load(open("products.json", encoding="utf8"))
+products = json.load(open("products_anwen.json", encoding="utf8"))
 doneLinks = json.load(open("startUrls/doneLinks.json", encoding="utf8"))
 missingLinks = json.load(open("startUrls/lostLinks.json", encoding="utf8")) or []
 new_brands = []
 new_categories = []
 key_order = ["brand_id", "type_id", "category_id", "name", "descriptionHTML", "ingredients", "volume", "unit", "price",
              "currency", "period_of_validity", "img", "imgAlt", "ratingValue", "ratingCount"]
-
+currencyLabel = {
+    'zł': "pln",
+    # '€': "euro",
+    # '$': "USD"
+  }
 
 def parse_volume(prod):
     if prod['volume'] is not None:
@@ -30,7 +34,7 @@ def parse_price(prod):
         # print('price', [val for val in re.split(r'(^\d+\s\d+,\d+|\d+,\d{2})\s', prod['price']) if val not in ['', None]])
         price, currency = [val for val in re.split(r'(^\d+\s\d+,\d{2}|\d+,\d{2})\s', prod['price']) if val not in ['', None]]
         prod['price'] = float(re.sub(r'\s+', '', re.sub(r',', '.', price, count=1), count=1))
-        prod['currency'] = currency
+        prod['currency'] = currencyLabel[currency]
     return prod
 
 
@@ -89,10 +93,10 @@ def map_prods():
     print('NCategories: ', new_categories)
     print('NBrands: ', new_brands)
 
-    with open("parsedProds/batch4.json", "w", encoding="utf-8") as outf:
+    with open("parsedProds/anwen.json", "w", encoding="utf-8") as outf:
         json.dump(toParse, outf, ensure_ascii=False)
 
-    with open("parsedProds/sql_batch4.json", "w", encoding="utf-8") as outf:
+    with open("parsedProds/sql_anwen.json", "w", encoding="utf-8") as outf:
         json.dump(prods_sql_ready, outf, ensure_ascii=False)
 
     with open("startUrls/lostLinks.json", "w", encoding="utf-8") as outf:

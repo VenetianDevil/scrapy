@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8d96734-dc82-45f1-93e6-478c29a312aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cosmetic_scraper/catPullHref.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmetic_scraper/mapProducts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scrape.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrape.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/brands_db.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/brands_db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/categorySpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/categorySpider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/prodImgSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/prodImgSpider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/productSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/cosmetic_scraper/spiders/productSpider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/mapProducts.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/mapProducts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cosmetic_scraper/startUrls/doneLinks.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/startUrls/doneLinks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosmetic_scraper/visited.json" beforeDir="false" afterPath="$PROJECT_DIR$/cosmetic_scraper/visited.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709065350633</updated>
       <workItem from="1709065353397" duration="13910000" />
-      <workItem from="1709719993866" duration="33493000" />
+      <workItem from="1709719993866" duration="45234000" />
     </task>
     <servers />
   </component>
@@ -187,22 +181,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="359" y="134" key="#mapProducts/0.0.2560.1040@0.0.2560.1040" timestamp="1710074711476" />
-    <state width="1234" height="244" key="GridCell.Tab.0.bottom" timestamp="1710158892450">
+    <state width="2517" height="240" key="GridCell.Tab.0.bottom" timestamp="1710364626650">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="244" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1710158892450" />
-    <state width="1234" height="244" key="GridCell.Tab.0.center" timestamp="1710158892450">
+    <state width="2517" height="240" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1710364626650" />
+    <state width="2517" height="240" key="GridCell.Tab.0.center" timestamp="1710364626650">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="244" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1710158892450" />
-    <state width="1234" height="244" key="GridCell.Tab.0.left" timestamp="1710158892450">
+    <state width="2517" height="240" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1710364626650" />
+    <state width="2517" height="240" key="GridCell.Tab.0.left" timestamp="1710364626650">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="244" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1710158892450" />
-    <state width="1234" height="244" key="GridCell.Tab.0.right" timestamp="1710158892450">
+    <state width="2517" height="240" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1710364626650" />
+    <state width="2517" height="240" key="GridCell.Tab.0.right" timestamp="1710364626650">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="244" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1710158892450" />
+    <state width="2517" height="240" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1710364626650" />
     <state x="1417" y="166" key="SettingsEditor" timestamp="1710149789548">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -215,6 +209,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1718" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1710075973742" />
+    <state x="1619" y="255" width="607" height="536" key="find.popup" timestamp="1710328997905">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1619" y="255" width="607" height="536" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1710328997905" />
     <state x="1583" y="230" key="search.everywhere.popup" timestamp="1710149558471">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -222,7 +220,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/scrape$completeIdx.coverage" NAME="completeIdx Coverage Results" MODIFIED="1710071831650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
-    <SUITE FILE_PATH="coverage/scrape$mapProducts.coverage" NAME="mapProducts Coverage Results" MODIFIED="1710156635509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
+    <SUITE FILE_PATH="coverage/scrape$mapProducts.coverage" NAME="mapProducts Coverage Results" MODIFIED="1710364626540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
     <SUITE FILE_PATH="coverage/scrape$catPullHref.coverage" NAME="catPullHref Coverage Results" MODIFIED="1710072963727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
     <SUITE FILE_PATH="coverage/scrape$createCategoryPaths.coverage" NAME="createCategoryPaths Coverage Results" MODIFIED="1710072110661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cosmetic_scraper" />
   </component>

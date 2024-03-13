@@ -15,7 +15,9 @@ param_link_labels = {
 class ProductSpider(scrapy.Spider):
     name = "products"
     # start_urls = json.load((open("startUrls/_categories_urls.json")))
-    start_urls = json.load((open("startUrls/catHrefs.json")))
+    # start_urls = json.load((open("startUrls/catHrefs.json")))
+    start_urls = ["https://wizaz.pl/kosmetyki/marka-anwen?page="+str(idx) for idx in range(1, 5)]
+
     avoid_urls = [prod["href"] for prod in json.load(open("prods_pandas_joined.json")) if
                   not prod["href"] is None] + json.load(open("startUrls/doneLinks.json"))
 
@@ -66,5 +68,5 @@ class ProductSpider(scrapy.Spider):
             yield productConcat
 
     def closed(self, reason):
-        with open("visited.json", "w") as outf:
-            json.dump(self.avoid_urls, outf, force_ascii=False)
+        with open("visited.json", "w", encoding="utf8") as outf:
+            json.dump(self.avoid_urls, outf, ensure_ascii=False)
