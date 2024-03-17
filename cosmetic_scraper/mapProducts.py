@@ -3,7 +3,7 @@ import re
 
 categories = json.load(open("catMatchPaths.json", encoding="utf8"))
 brands = json.load(open("brands_db.json", encoding="utf8"))
-products = json.load(open("products_anwen.json", encoding="utf8"))
+products = json.load(open("products_lumene.json", encoding="utf8"))
 doneLinks = json.load(open("startUrls/doneLinks.json", encoding="utf8"))
 missingLinks = json.load(open("startUrls/lostLinks.json", encoding="utf8")) or []
 new_brands = []
@@ -16,8 +16,9 @@ currencyLabel = {
     # '$': "USD"
   }
 
+
 def parse_volume(prod):
-    if prod['volume'] is not None:
+    if 'volume' in prod.keys() and prod['volume'] is not None:
         # print('volume', prod['volume'], [val for val in re.split(r'^(\d+\s\d+|\d+,\d+|\d+)\s', prod['volume']) if val not in ['', None]])
         volume, unit = [val for val in re.split(r'^(\d+\s\d+|\d+,\d+|\d+)\s', prod['volume']) if val not in ['', None]]
         try:
@@ -26,15 +27,21 @@ def parse_volume(prod):
             prod['volume'] = float(re.sub(r'\s+', '', re.sub(r',', '.', volume, count=1), count=1))
 
         prod['unit'] = unit
+    else:
+        prod['volume'] = None
+        prod['unit'] = None
     return prod
 
 
 def parse_price(prod):
-    if prod['price'] is not None:
+    if 'price' in prod.keys() and prod['price'] is not None:
         # print('price', [val for val in re.split(r'(^\d+\s\d+,\d+|\d+,\d{2})\s', prod['price']) if val not in ['', None]])
         price, currency = [val for val in re.split(r'(^\d+\s\d+,\d{2}|\d+,\d{2})\s', prod['price']) if val not in ['', None]]
         prod['price'] = float(re.sub(r'\s+', '', re.sub(r',', '.', price, count=1), count=1))
         prod['currency'] = currencyLabel[currency]
+    else:
+        prod['price'] = None
+        prod['currency'] = None
     return prod
 
 
@@ -93,10 +100,10 @@ def map_prods():
     print('NCategories: ', new_categories)
     print('NBrands: ', new_brands)
 
-    with open("parsedProds/anwen.json", "w", encoding="utf-8") as outf:
+    with open("parsedProds/lumene.json", "w", encoding="utf-8") as outf:
         json.dump(toParse, outf, ensure_ascii=False)
 
-    with open("parsedProds/sql_anwen.json", "w", encoding="utf-8") as outf:
+    with open("parsedProds/sql_lumene.json", "w", encoding="utf-8") as outf:
         json.dump(prods_sql_ready, outf, ensure_ascii=False)
 
     with open("startUrls/lostLinks.json", "w", encoding="utf-8") as outf:

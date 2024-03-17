@@ -10,13 +10,18 @@ param_link_labels = {
     "Kategoria": "category",
     "Marka": "brand",
 }
+# //https://wizaz.pl/kosmetyki/produkty-wycofane
 
 
 class ProductSpider(scrapy.Spider):
     name = "products"
     # start_urls = json.load((open("startUrls/_categories_urls.json")))
-    # start_urls = json.load((open("startUrls/catHrefs.json")))
-    start_urls = ["https://wizaz.pl/kosmetyki/marka-anwen?page="+str(idx) for idx in range(1, 5)]
+    urls = json.load((open("startUrls/catHrefs.json")))
+    start_urls = []
+    for href in urls:
+        for page in range(1,21):
+            start_urls.append(href + "?page=" + str(page))
+    # start_urls = ["https://wizaz.pl/kosmetyki/marka-lumene?page="+str(idx) for idx in range(1, 16)]
 
     avoid_urls = [prod["href"] for prod in json.load(open("prods_pandas_joined.json")) if
                   not prod["href"] is None] + json.load(open("startUrls/doneLinks.json"))
